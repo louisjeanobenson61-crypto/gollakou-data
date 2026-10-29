@@ -110,6 +110,8 @@ def fetch_fixtures():
                 "elapsed": fx["fixture"].get("status", {}).get("elapsed"),
                 "home": fx["teams"]["home"]["name"],
                 "away": fx["teams"]["away"]["name"],
+                "home_logo": fx["teams"]["home"].get("logo"),
+                "away_logo": fx["teams"]["away"].get("logo"),
                 "score_home": fx.get("goals", {}).get("home"),
                 "score_away": fx.get("goals", {}).get("away"),
                 "odds": None,
@@ -136,6 +138,8 @@ def fetch_odds(matches):
         page = 1
         while page <= MAX_ODDS_PAGES:
             body = api("/odds", {"league": lid, "season": season, "bet": 1, "page": page})
+            print("odds league", lid, "season", season, "page", page,
+                  "items", len(body.get("response", [])), "paging", body.get("paging"))
             for item in body.get("response", []):
                 fid = item.get("fixture", {}).get("id")
                 books = item.get("bookmakers") or []
@@ -158,6 +162,14 @@ def fetch_odds(matches):
     return found
 
 
+def valid_prediction(p):
+    """The API sends a 33/33/33 placeholder when it has no real prediction."""
+    if not p:
+        return False
+    advice = (p.get("advice") or "").lower()
+    return "no predictions available" not in advice
+
+
 def fetch_prediction(fid):
     body = api("/predictions", {"fixture": fid})
     resp = body.get("response") or []
@@ -166,7 +178,10 @@ def fetch_prediction(fid):
     p = resp[0].get("predictions") or {}
     pct = p.get("percent") or {}
     winner = p.get("winner") or {}
-    return {
+    total = (resp[0].get("comparison") or {}).get("total") or {}
+    result = {
+        "strength_home": total.get("home"),
+        "strength_away": total.get("away"),
         "home": pct.get("home"),
         "draw": pct.get("draw"),
         "away": pct.get("away"),
@@ -174,12 +189,51 @@ def fetch_prediction(fid):
         "winner": winner.get("name"),
         "comment": winner.get("comment"),
     }
+    return result if valid_prediction(result) else None
 
 
 def strip_html(text):
     text = re.sub(r"<[^>]+>", " ", text or "")
     text = html.unescape(text)
     return re.sub(r"\s+", " ", text).strip()
+
+
+MEDIA_NS = "{http://search.yahoo.com/mrss/}"
+IMG_EXT = (".jpg", ".jpeg", ".png", ".webp")
+
+
+def https(url):
+    if url.startswith("http://"):
+        return "https://" + url[len("http://"):]
+    return url
+
+
+def find_image(it):
+    """Return (image, fallback) URLs from an RSS item, or ("", "")."""
+    found = []
+    for tag in (MEDIA_NS + "content", MEDIA_NS + "thumbnail"):
+        for el in it.iter(tag):
+            url = (el.get("url") or "").strip()
+            kind = (el.get("type") or el.get("medium") or "image").lower()
+            if url.startswith("http") and "video" not in kind:
+                found.append(url)
+    for el in it.findall("enclosure"):
+        url = (el.get("url") or "").strip()
+        kind = (el.get("type") or "").lower()
+        if url.startswith("http") and (kind.startswith("image") or url.lower().split("?")[0].endswith(IMG_EXT)):
+            found.append(url)
+    if not found:
+        m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', it.findtext("description") or "")
+        if m and m.group(1).startswith("http"):
+            found.append(m.group(1))
+    if not found:
+        return "", ""
+    original = https(found[0])
+    better = original
+    # BBC serves several widths of the same picture; ask for a sharper one
+    if "ichef.bbci.co.uk" in original and "/240/" in original:
+        better = original.replace("/240/", "/640/")
+    return better, (original if better != original else "")
 
 
 def fetch_news():
@@ -195,6 +249,9 @@ def fetch_news():
                 link = (it.findtext("link") or "").strip()
                 if not title or not link:
                     continue
+                low = link.lower()
+                if "football" not in low and "soccer" not in low:
+                    continue  # keep football stories only
                 try:
                     dt = parsedate_to_datetime(it.findtext("pubDate"))
                     if dt.tzinfo is None:
@@ -205,8 +262,10 @@ def fetch_news():
                 summary = strip_html(it.findtext("description"))
                 if len(summary) > 180:
                     summary = summary[:177].rstrip() + "..."
+                image, fallback = find_image(it)
                 items.append({"title": title, "link": link, "source": source,
-                              "published": published, "summary": summary})
+                              "published": published, "summary": summary,
+                              "image": image or None, "image_fallback": fallback or None})
                 count += 1
                 if count >= 12:
                     break
@@ -220,6 +279,51 @@ def fetch_news():
         seen.add(n["link"])
         unique.append(n)
     return unique[:40]
+
+
+def to_pct(value):
+    try:
+        return int(str(value).replace("%", "").strip())
+    except (TypeError, ValueError):
+        return None
+
+
+def build_picks(matches, limit=10):
+    """Lowest-risk picks: the double-chance option with the highest probability
+    given by the data provider. These are probabilities, never guarantees."""
+    now = datetime.now(timezone.utc)
+    horizon = now + timedelta(hours=30)
+    picks = []
+    for m in matches:
+        if m.get("status") not in UPCOMING or not valid_prediction(m.get("prediction")):
+            continue
+        try:
+            kick = datetime.fromisoformat(m["kickoff"])
+        except Exception:
+            continue
+        if not (now <= kick <= horizon):
+            continue
+        p = m["prediction"]
+        ph, pd, pa = to_pct(p.get("home")), to_pct(p.get("draw")), to_pct(p.get("away"))
+        if None in (ph, pd, pa):
+            continue
+        options = [
+            ("1X", ph + pd, m["home"] + " oswa nul"),
+            ("X2", pd + pa, "Nul oswa " + m["away"]),
+        ]
+        code, prob, label = max(options, key=lambda o: o[1])
+        sh, sa = to_pct(p.get("strength_home")), to_pct(p.get("strength_away"))
+        gap = abs(sh - sa) if sh is not None and sa is not None else 0
+        picks.append({
+            "id": m["id"], "league": m["league"], "league_id": m["league_id"],
+            "kickoff": m["kickoff"], "home": m["home"], "away": m["away"],
+            "home_logo": m.get("home_logo"), "away_logo": m.get("away_logo"),
+            "market": code, "label": label, "prob": prob, "gap": gap,
+            "risk": "Ba" if prob >= 85 else "Mwayen",
+            "odds": m.get("odds"),
+        })
+    picks.sort(key=lambda x: (-x["prob"], -x["gap"], x["kickoff"]))
+    return picks[:limit]
 
 
 def main():
@@ -246,7 +350,8 @@ def main():
             for fid, m in matches.items():
                 prev = old_matches.get(fid, {})
                 m["odds"] = odds.get(fid) or prev.get("odds")
-                m["prediction"] = prev.get("prediction")
+                cached = prev.get("prediction")
+                m["prediction"] = cached if valid_prediction(cached) else None
             todo = sorted(
                 [m for m in matches.values() if m["status"] in UPCOMING and not m["prediction"]],
                 key=lambda m: m["kickoff"] or "",
@@ -273,6 +378,7 @@ def main():
         "note": note,
         "quota_remaining": remaining,
         "matches": match_list,
+        "picks": build_picks(match_list),
         "news": fetch_news() or old.get("news", []),
     }
     with open(DATA_FILE, "w", encoding="utf-8") as f:
