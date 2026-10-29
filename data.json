@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T02:09:55.704833+00:00",
+ "updated": "2026-10-29T07:14:21.410157+00:00",
  "note": null,
- "quota_remaining": 90,
+ "quota_remaining": 80,
  "matches": [
   {
    "id": 1550167,
@@ -232,8 +232,8 @@
    "season": 2026,
    "round": "Regular Season - 32",
    "kickoff": "2026-10-28T20:30:00-04:00",
-   "status": "2H",
-   "elapsed": 71,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Nashville SC",
    "away": "Philadelphia Union",
    "score_home": 0,
@@ -249,8 +249,8 @@
    "season": 2026,
    "round": "Regular Season - 32",
    "kickoff": "2026-10-28T20:30:00-04:00",
-   "status": "2H",
-   "elapsed": 71,
+   "status": "FT",
+   "elapsed": 90,
    "home": "FC Dallas",
    "away": "Columbus Crew",
    "score_home": 0,
@@ -266,11 +266,11 @@
    "season": 2026,
    "round": "Regular Season - 32",
    "kickoff": "2026-10-28T20:30:00-04:00",
-   "status": "2H",
-   "elapsed": 69,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Chicago Fire",
    "away": "Orlando City SC",
-   "score_home": 1,
+   "score_home": 2,
    "score_away": 2,
    "odds": null,
    "prediction": null
@@ -283,11 +283,11 @@
    "season": 2026,
    "round": "Regular Season - 32",
    "kickoff": "2026-10-28T20:30:00-04:00",
-   "status": "2H",
-   "elapsed": 70,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Minnesota United FC",
    "away": "Sporting Kansas City",
-   "score_home": 0,
+   "score_home": 3,
    "score_away": 1,
    "odds": null,
    "prediction": null
@@ -300,8 +300,8 @@
    "season": 2026,
    "round": "Regular Season - 32",
    "kickoff": "2026-10-28T20:30:00-04:00",
-   "status": "2H",
-   "elapsed": 74,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Austin",
    "away": "Real Salt Lake",
    "score_home": 1,
@@ -317,11 +317,11 @@
    "season": 2026,
    "round": "Regular Season - 32",
    "kickoff": "2026-10-28T20:30:00-04:00",
-   "status": "2H",
-   "elapsed": 69,
+   "status": "FT",
+   "elapsed": 90,
    "home": "St. Louis City",
    "away": "Portland Timbers",
-   "score_home": 1,
+   "score_home": 2,
    "score_away": 3,
    "odds": null,
    "prediction": null
@@ -334,11 +334,11 @@
    "season": 2026,
    "round": "Regular Season - 33",
    "kickoff": "2026-10-28T20:30:00-04:00",
-   "status": "2H",
-   "elapsed": 72,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Bahia",
    "away": "Sao Paulo",
-   "score_home": 2,
+   "score_home": 3,
    "score_away": 2,
    "odds": null,
    "prediction": null
@@ -351,12 +351,12 @@
    "season": 2026,
    "round": "Regular Season - 33",
    "kickoff": "2026-10-28T20:30:00-04:00",
-   "status": "2H",
-   "elapsed": 78,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Remo",
    "away": "Botafogo",
    "score_home": 2,
-   "score_away": 0,
+   "score_away": 1,
    "odds": null,
    "prediction": null
   },
@@ -368,12 +368,12 @@
    "season": 2026,
    "round": "Regular Season - 32",
    "kickoff": "2026-10-28T22:30:00-04:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Vancouver Whitecaps",
    "away": "San Diego",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 4,
+   "score_away": 1,
    "odds": null,
    "prediction": {
     "home": "45%",
@@ -392,12 +392,12 @@
    "season": 2026,
    "round": "Regular Season - 32",
    "kickoff": "2026-10-28T22:30:00-04:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Seattle Sounders",
    "away": "Houston Dynamo",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 0,
+   "score_away": 1,
    "odds": null,
    "prediction": {
     "home": "45%",
@@ -416,12 +416,12 @@
    "season": 2026,
    "round": "Regular Season - 32",
    "kickoff": "2026-10-28T22:30:00-04:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "San Jose Earthquakes",
    "away": "Colorado Rapids",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 2,
+   "score_away": 2,
    "odds": null,
    "prediction": {
     "home": "45%",
@@ -543,7 +543,14 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Gremio or draw",
+    "winner": "Gremio",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1552801,
@@ -560,7 +567,14 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "home": "0%",
+    "draw": "50%",
+    "away": "50%",
+    "advice": "Winner : Paris Saint Germain",
+    "winner": "Paris Saint Germain",
+    "comment": null
+   }
   },
   {
    "id": 1552806,
@@ -577,7 +591,14 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Double chance : draw or Rennes",
+    "winner": "Rennes",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1575211,
@@ -594,7 +615,14 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Combo Winner : FSV Mainz 05 and +1.5 goals",
+    "winner": "FSV Mainz 05",
+    "comment": null
+   }
   },
   {
    "id": 1570442,
@@ -611,7 +639,14 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Villarreal or draw",
+    "winner": "Villarreal",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1552802,
@@ -628,7 +663,14 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Lille or draw",
+    "winner": "Lille",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1575531,
@@ -645,7 +687,14 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Winner : Sporting CP",
+    "winner": "Sporting CP",
+    "comment": null
+   }
   },
   {
    "id": 1492433,
@@ -667,6 +716,41 @@
  ],
  "news": [
   {
+   "title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-29T06:27:10+00:00",
+   "summary": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him."
+  },
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-29T06:23:21+00:00",
+   "summary": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes."
+  },
+  {
+   "title": "Wolff explains Antonelli turnaround after 'tears'",
+   "link": "https://www.skysports.com/f1/news/12040/13604769/toto-wolff-explains-kimi-antonelli-turnaround-after-tears-in-belgium-2025-to-likely-world-championship-coronation-at-mexico-city-gp",
+   "source": "Sky Sports",
+   "published": "2026-10-29T06:00:00+00:00",
+   "summary": "Mercedes team principal Toto Wolff says it is \"extremely satisfying\" to see Kimi Antonelli's turnaround from last year as the Italian looks to secure the 2026 Formula 1 world ti..."
+  },
+  {
+   "title": "Kayla Allen: From self-taught boxer to star prospect",
+   "link": "https://www.skysports.com/boxing/news/12040/13604844/kayla-allen-from-self-taught-boxer-to-star-prospect-it-started-in-a-unique-way-and-itll-finish-in-a-unique-way",
+   "source": "Sky Sports",
+   "published": "2026-10-29T06:00:00+00:00",
+   "summary": "Kayla Allen only started boxing a few years ago, teaching herself with YouTube videos and throwing punches in her garden."
+  },
+  {
+   "title": "How England’s underdog spirit can fuel RL World Cup semi-final hopes",
+   "link": "https://www.skysports.com/rugby-league/news/12040/13604915/how-england-must-harness-their-underdog-spirit-to-reach-the-rugby-league-world-cup-semi-finals",
+   "source": "Sky Sports",
+   "published": "2026-10-29T06:00:00+00:00",
+   "summary": "England’s men find themselves in an unusual position: they are favourites to beat Papua New Guinea in their final group game, but underdogs to emerge from the combined Groups B..."
+  },
+  {
    "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
@@ -678,14 +762,7 @@
    "link": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "published": "2026-10-29T00:05:21+00:00",
-   "summary": "Estevao faces limited opportunities at Chelsea as Pedro Neto’s form and competition for places in attack leave him struggling for game time under Xabi Alonso."
-  },
-  {
-   "title": "Papers: Liverpool make contact with Monaco midfielder Camara",
-   "link": "https://www.skysports.com/football/news/12040/13605140/liverpool-transfer-news-reds-make-contact-with-lamine-camara-camp-ahead-of-proposed-january-move-for-monaco-midfielder-paper-talk",
-   "source": "Sky Sports",
-   "published": "2026-10-28T23:20:00+00:00",
-   "summary": "The top stories and transfer rumours from Thursday's newspapers..."
+   "summary": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?"
   },
   {
    "title": "How unbeaten Chelsea are getting back to their best",
@@ -779,39 +856,11 @@
    "summary": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury."
   },
   {
-   "title": "Chelsea continue unbeaten start in WCL after beating Roma",
-   "link": "https://www.skysports.com/football/chelsea-women-vs-roma-women/report/578251",
-   "source": "Sky Sports",
-   "published": "2026-10-28T19:35:00+00:00",
-   "summary": "Chelsea continued their unbeaten start in the Women's Champions League as goals from Ellie Carpenter and Kadeisha Buchanan secured a 2-0 win against Roma."
-  },
-  {
-   "title": "PREM Rugby wants English expansion despite Welsh interest",
-   "link": "https://www.skysports.com/rugby-union/news/12040/13604946/prem-rugby-and-rfu-committed-to-expanding-top-flight-with-english-clubs-despite-welsh-interest",
-   "source": "Sky Sports",
-   "published": "2026-10-28T17:07:00+00:00",
-   "summary": "English rugby's governing bodies say they are committed to expanding the PREM with sides from England rather than clubs from Wales."
-  },
-  {
    "title": "Liverpool draw Bournemouth in Carabao Cup quarters",
    "link": "https://www.skysports.com/football/news/12040/13604920/carabao-cup-quarter-final-draw-liverpool-host-bournemouth-as-bradford-and-fleetwood-get-home-ties-against-premier-league-opposition",
    "source": "Sky Sports",
    "published": "2026-10-28T16:11:00+00:00",
    "summary": "Liverpool will play Bournemouth in the Carabao Cup quarter-finals while League One Bradford City will host Manchester City."
-  },
-  {
-   "title": "Johnstone Burgh to play two cup ties simultaneously after schedule clash",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-28T15:34:02+00:00",
-   "summary": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart."
-  },
-  {
-   "title": "All Spanish cup matches suspended after Madrid train collision",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-28T13:25:48+00:00",
-   "summary": "All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after at least 68 people were killed in a train crash near Madrid."
   },
   {
    "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
