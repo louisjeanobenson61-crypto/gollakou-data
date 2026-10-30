@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T02:31:07.715389+00:00",
+ "updated": "2026-10-30T02:35:30.440193+00:00",
  "note": null,
- "quota_remaining": 80,
- "odds_quota_remaining": 486,
+ "quota_remaining": 70,
+ "odds_quota_remaining": 479,
  "matches": [
   {
    "id": 1550170,
@@ -523,9 +523,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.02,
-    "draw": 3.96,
-    "away": 3.47,
+    "home": 2.01,
+    "draw": 3.97,
+    "away": 3.5,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -790,7 +790,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "74.7%",
+    "strength_away": "25.3%",
+    "home": "50%",
+    "draw": "50%",
+    "away": "0%",
+    "advice": "Winner : Feyenoord",
+    "winner": "Feyenoord",
+    "comment": null
+   }
   },
   {
    "id": 1575535,
@@ -809,7 +818,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "52.8%",
+    "strength_away": "47.2%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Moreirense or draw",
+    "winner": "Moreirense",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1490587,
@@ -828,7 +846,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "45.2%",
+    "strength_away": "54.8%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Combo Double chance : draw or Orlando City SC and +1.5 goals",
+    "winner": "Orlando City SC",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1550186,
@@ -847,7 +874,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "19.5%",
+    "strength_away": "80.5%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Winner : AS Roma",
+    "winner": "AS Roma",
+    "comment": null
+   }
   },
   {
    "id": 1557456,
@@ -866,7 +902,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "58.0%",
+    "strength_away": "42.0%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Tottenham or draw",
+    "winner": "Tottenham",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1570435,
@@ -885,7 +930,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "71.2%",
+    "strength_away": "28.8%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Real Betis or draw",
+    "winner": "Real Betis",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1575203,
@@ -904,7 +958,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "62.5%",
+    "strength_away": "37.5%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Bayern München or draw",
+    "winner": "Bayern München",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1552208,
