@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T02:35:30.440193+00:00",
+ "updated": "2026-10-30T02:43:42.471800+00:00",
  "note": null,
- "quota_remaining": 70,
- "odds_quota_remaining": 479,
+ "quota_remaining": 60,
+ "odds_quota_remaining": 472,
  "matches": [
   {
    "id": 1550170,
@@ -986,7 +986,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "58.3%",
+    "strength_away": "41.7%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Heerenveen or draw",
+    "winner": "Heerenveen",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1552209,
@@ -1005,7 +1014,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "73.4%",
+    "strength_away": "26.6%",
+    "home": "50%",
+    "draw": "50%",
+    "away": "0%",
+    "advice": "Combo Winner : PSV Eindhoven and +1.5 goals",
+    "winner": "PSV Eindhoven",
+    "comment": null
+   }
   },
   {
    "id": 1490585,
@@ -1024,7 +1042,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "44.2%",
+    "strength_away": "55.8%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Combo Double chance : draw or Philadelphia Union and +1.5 goals",
+    "winner": "Philadelphia Union",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1490588,
@@ -1043,7 +1070,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "65.7%",
+    "strength_away": "34.3%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Winner : Columbus Crew",
+    "winner": "Columbus Crew",
+    "comment": null
+   }
   },
   {
    "id": 1490589,
@@ -1062,7 +1098,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "56.3%",
+    "strength_away": "43.7%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : New York City FC or draw",
+    "winner": "New York City FC",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1490594,
@@ -1081,7 +1126,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "30.3%",
+    "strength_away": "69.8%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Combo Double chance : draw or FC Dallas and +1.5 goals",
+    "winner": "FC Dallas",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1490595,
@@ -1100,7 +1154,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "45.0%",
+    "strength_away": "55.2%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Combo Double chance : draw or San Diego and +1.5 goals",
+    "winner": "San Diego",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1492434,
