@@ -17,6 +17,7 @@ jobs:
       - name: Fetch data
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python3 update_data.py
 
       - name: Save
