@@ -5,11 +5,13 @@ Fetches REAL football data from API-Football (fixtures, odds, predictions)
 and REAL headlines from public RSS feeds, then writes data.json.
 Nothing is invented: if a value is not available it is left empty (null).
 """
+import difflib
 import html
 import json
 import os
 import re
 import sys
+import unicodedata
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -37,11 +39,11 @@ LEAGUES = {
     13: "Copa Libertadores",
 }
 
-MAX_PRED_PER_RUN = int(os.environ.get("MAX_PRED", "20"))
+MAX_PRED_PER_RUN = int(os.environ.get("MAX_PRED", "30"))
 MAX_ODDS_PAGES = 2
 MIN_REMAINING = 6          # stop calling the API when the daily quota is almost used
 DAYS_BEFORE = 1
-DAYS_AFTER = 2
+DAYS_AFTER = 1          # free plan: only yesterday, today and tomorrow
 
 FEEDS = [
     ("BBC Sport", "https://feeds.bbci.co.uk/sport/football/rss.xml"),
@@ -50,7 +52,29 @@ FEEDS = [
     ("L'Equipe", "https://www.lequipe.fr/rss/actu_rss_Football.xml"),
 ]
 
+ODDS_API_KEY = os.environ.get("ODDS_API_KEY", "").strip()
+ODDS_BASE = "https://api.the-odds-api.com/v4"
+ODDS_SPORTS = {
+    2: "soccer_uefa_champs_league",
+    39: "soccer_epl",
+    140: "soccer_spain_la_liga",
+    135: "soccer_italy_serie_a",
+    78: "soccer_germany_bundesliga",
+    61: "soccer_france_ligue_one",
+    3: "soccer_uefa_europa_league",
+    94: "soccer_portugal_primeira_liga",
+    88: "soccer_netherlands_eredivisie",
+    71: "soccer_brazil_campeonato",
+    13: "soccer_conmebol_copa_libertadores",
+    253: "soccer_usa_mls",
+}
+ODDS_MAX_SPORTS_PER_RUN = 8   # 1 credit per league per run (500 free credits / month)
+ODDS_MIN_REMAINING = 15
+PREFERRED_BOOKS = ["bet365", "pinnacle", "williamhill", "unibet_eu", "betfair_ex_eu", "marathonbet", "betsson"]
+STOP_WORDS = {"fc", "cf", "sc", "ac", "as", "afc", "club", "de", "the", "calcio", "sad", "sv", "fk", "ssc", "cd", "ud", "rc"}
+
 remaining = None
+odds_remaining = None
 UPCOMING = {"NS", "TBD"}
 
 
@@ -159,6 +183,122 @@ def fetch_odds(matches):
             if page >= int(paging.get("total") or 1):
                 break
             page += 1
+    return found
+
+
+def norm_team(name):
+    text = unicodedata.normalize("NFKD", name or "").encode("ascii", "ignore").decode()
+    text = re.sub(r"[^a-z0-9 ]", " ", text.lower().replace("-", " "))
+    words = [w for w in text.split() if w not in STOP_WORDS]
+    return " ".join(words)
+
+
+def team_score(a, b):
+    a, b = norm_team(a), norm_team(b)
+    if not a or not b:
+        return 0.0
+    if a == b:
+        return 1.0
+    ratio = difflib.SequenceMatcher(None, a, b).ratio()
+    if (a in b or b in a) and min(len(a), len(b)) >= 4:
+        ratio = max(ratio, 0.8)
+    return ratio
+
+
+def pick_book(bookmakers):
+    for key in PREFERRED_BOOKS:
+        for b in bookmakers:
+            if b.get("key") == key:
+                return b
+    return bookmakers[0] if bookmakers else None
+
+
+def event_odds(event):
+    book = pick_book(event.get("bookmakers") or [])
+    if not book:
+        return None
+    for market in book.get("markets", []):
+        if market.get("key") != "h2h":
+            continue
+        out = {"home": None, "draw": None, "away": None, "bookmaker": book.get("title")}
+        for o in market.get("outcomes", []):
+            if o.get("name") == event.get("home_team"):
+                out["home"] = to_float(o.get("price"))
+            elif o.get("name") == event.get("away_team"):
+                out["away"] = to_float(o.get("price"))
+            elif str(o.get("name")).lower() == "draw":
+                out["draw"] = to_float(o.get("price"))
+        if out["home"] and out["away"]:
+            return out
+    return None
+
+
+def match_event(m, events):
+    """Return the Odds API event that is surely the same game, else None."""
+    try:
+        kick = datetime.fromisoformat(m["kickoff"])
+    except Exception:
+        return None
+    best, best_score = None, 0.0
+    for ev in events:
+        try:
+            t = datetime.fromisoformat(ev["commence_time"].replace("Z", "+00:00"))
+        except Exception:
+            continue
+        if abs((t - kick).total_seconds()) > 4 * 3600:
+            continue
+        sh = team_score(m["home"], ev.get("home_team"))
+        sa = team_score(m["away"], ev.get("away_team"))
+        if sh >= 0.72 and sa >= 0.72 and sh + sa > best_score:
+            best, best_score = ev, sh + sa
+    return best
+
+
+def fetch_theoddsapi(matches):
+    """Real decimal odds (1X2) from The Odds API for upcoming games. Free plan: 500 credits/month."""
+    global odds_remaining
+    if not ODDS_API_KEY:
+        print("ODDS_API_KEY missing: no odds")
+        return {}
+    now = datetime.now(timezone.utc)
+    horizon = now + timedelta(hours=36)
+    wanted = {}
+    for m in matches.values():
+        if m["status"] not in UPCOMING or m["league_id"] not in ODDS_SPORTS:
+            continue
+        try:
+            kick = datetime.fromisoformat(m["kickoff"])
+        except Exception:
+            continue
+        if now <= kick <= horizon:
+            wanted.setdefault(m["league_id"], []).append(m)
+    order = [lid for lid in ODDS_SPORTS if lid in wanted][:ODDS_MAX_SPORTS_PER_RUN]
+    found = {}
+    for lid in order:
+        if odds_remaining is not None and odds_remaining <= ODDS_MIN_REMAINING:
+            print("The Odds API quota almost used, stopping")
+            break
+        params = urllib.parse.urlencode({"apiKey": ODDS_API_KEY, "regions": "eu", "markets": "h2h",
+                                         "oddsFormat": "decimal", "dateFormat": "iso"})
+        url = "%s/sports/%s/odds?%s" % (ODDS_BASE, ODDS_SPORTS[lid], params)
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url), timeout=30) as r:
+                rem = r.headers.get("x-requests-remaining")
+                if rem is not None:
+                    odds_remaining = int(float(rem))
+                events = json.loads(r.read().decode("utf-8"))
+        except Exception as e:
+            print("odds league", lid, "failed:", e)
+            continue
+        hit = 0
+        for m in wanted[lid]:
+            ev = match_event(m, events)
+            odds = event_odds(ev) if ev else None
+            if odds:
+                found[m["id"]] = odds
+                hit += 1
+        print("theoddsapi league", lid, "events", len(events), "matched", hit, "of", len(wanted[lid]),
+              "credits left", odds_remaining)
     return found
 
 
@@ -339,13 +479,20 @@ def main():
         try:
             matches = fetch_fixtures()
             print("fixtures:", len(matches))
+            odds = {}
+            if os.environ.get("API_FOOTBALL_ODDS") == "1":   # needs a paid API-Football plan
+                try:
+                    odds = fetch_odds(matches)
+                except QuotaError:
+                    odds = {}
+                except Exception as e:
+                    print("odds failed:", e)
+                    odds = {}
             try:
-                odds = fetch_odds(matches)
-            except QuotaError:
-                odds = {}
+                for fid, o in fetch_theoddsapi(matches).items():
+                    odds.setdefault(fid, o)
             except Exception as e:
-                print("odds failed:", e)
-                odds = {}
+                print("The Odds API failed:", e)
             # keep older real values when nothing new came back
             for fid, m in matches.items():
                 prev = old_matches.get(fid, {})
@@ -377,6 +524,7 @@ def main():
         "updated": datetime.now(timezone.utc).isoformat(),
         "note": note,
         "quota_remaining": remaining,
+        "odds_quota_remaining": odds_remaining,
         "matches": match_list,
         "picks": build_picks(match_list),
         "news": fetch_news() or old.get("news", []),
