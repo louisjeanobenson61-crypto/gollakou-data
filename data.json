@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T02:43:42.471800+00:00",
+ "updated": "2026-10-30T07:14:13.037075+00:00",
  "note": null,
- "quota_remaining": 60,
- "odds_quota_remaining": 472,
+ "quota_remaining": 50,
+ "odds_quota_remaining": 464,
  "matches": [
   {
    "id": 1550170,
@@ -144,9 +144,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 9.69,
-    "draw": 6.82,
-    "away": 1.26,
+    "home": 8.86,
+    "draw": 6.32,
+    "away": 1.29,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -175,9 +175,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.74,
-    "draw": 3.82,
-    "away": 2.45,
+    "home": 2.59,
+    "draw": 3.65,
+    "away": 2.68,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -206,9 +206,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 3.11,
-    "draw": 3.9,
-    "away": 2.2,
+    "home": 3.25,
+    "draw": 3.93,
+    "away": 2.12,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -237,9 +237,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.42,
-    "draw": 5.22,
-    "away": 7.1,
+    "home": 1.4,
+    "draw": 5.3,
+    "away": 7.28,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -268,9 +268,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.6,
-    "draw": 3.48,
-    "away": 2.77,
+    "home": 2.84,
+    "draw": 3.38,
+    "away": 2.59,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -325,9 +325,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.83,
-    "draw": 3.6,
-    "away": 4.66,
+    "home": 1.89,
+    "draw": 3.58,
+    "away": 4.38,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -391,8 +391,8 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 5.19,
-    "draw": 4.87,
+    "home": 5.25,
+    "draw": 4.89,
     "away": 1.56,
     "bookmaker": "Pinnacle"
    },
@@ -424,9 +424,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.72,
-    "draw": 4.04,
-    "away": 4.91,
+    "home": 1.7,
+    "draw": 4.07,
+    "away": 5.0,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -523,8 +523,8 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.01,
-    "draw": 3.97,
+    "home": 2.02,
+    "draw": 3.96,
     "away": 3.5,
     "bookmaker": "Pinnacle"
    },
@@ -621,7 +621,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/63.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.2,
+    "draw": 3.41,
+    "away": 3.5,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "47.5%",
     "strength_away": "52.5%",
@@ -649,7 +654,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/65.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.1,
+    "draw": 3.75,
+    "away": 3.42,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "55.2%",
     "strength_away": "44.8%",
@@ -677,7 +687,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/746.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 3.18,
+    "draw": 3.39,
+    "away": 2.36,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "63.2%",
     "strength_away": "36.8%",
@@ -705,7 +720,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/57.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.71,
+    "draw": 3.41,
+    "away": 2.7,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "37.0%",
     "strength_away": "63.0%",
@@ -733,7 +753,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/51.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 1.64,
+    "draw": 4.64,
+    "away": 4.75,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "39.2%",
     "strength_away": "60.8%",
@@ -761,7 +786,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/538.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.45,
+    "draw": 3.32,
+    "away": 3.09,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "39.7%",
     "strength_away": "60.3%",
@@ -789,7 +819,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/205.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 1.16,
+    "draw": 8.41,
+    "away": 14.0,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "74.7%",
     "strength_away": "25.3%",
@@ -817,7 +852,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/15130.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.89,
+    "draw": 3.24,
+    "away": 2.55,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "52.8%",
     "strength_away": "47.2%",
@@ -873,7 +913,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/497.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 5.67,
+    "draw": 4.54,
+    "away": 1.57,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "19.5%",
     "strength_away": "80.5%",
@@ -901,7 +946,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/52.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 1.58,
+    "draw": 4.55,
+    "away": 5.45,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "58.0%",
     "strength_away": "42.0%",
@@ -929,7 +979,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/535.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 1.34,
+    "draw": 5.75,
+    "away": 8.32,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "71.2%",
     "strength_away": "28.8%",
@@ -957,7 +1012,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/165.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 1.34,
+    "draw": 5.71,
+    "away": 8.53,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "62.5%",
     "strength_away": "37.5%",
@@ -985,7 +1045,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/413.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.09,
+    "draw": 3.93,
+    "away": 3.18,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "58.3%",
     "strength_away": "41.7%",
@@ -1013,7 +1078,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/195.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 1.07,
+    "draw": 14.59,
+    "away": 20.21,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "73.4%",
     "strength_away": "26.6%",
@@ -1181,8 +1251,22 @@
    "away_logo": "https://media.api-sports.io/football/teams/136.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
-   "prediction": null
+   "odds": {
+    "home": 2.34,
+    "draw": 3.41,
+    "away": 3.08,
+    "bookmaker": "Pinnacle"
+   },
+   "prediction": {
+    "strength_home": "39.7%",
+    "strength_away": "60.3%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Double chance : draw or Vitoria",
+    "winner": "Vitoria",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1550177,
@@ -1201,7 +1285,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "54.5%",
+    "strength_away": "45.5%",
+    "home": "35%",
+    "draw": "35%",
+    "away": "30%",
+    "advice": "Double chance : AC Milan or draw",
+    "winner": "AC Milan",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1552803,
@@ -1220,7 +1313,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "43.7%",
+    "strength_away": "56.3%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Double chance : draw or Stade Brestois 29",
+    "winner": "Stade Brestois 29",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1552809,
@@ -1239,7 +1341,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "37.2%",
+    "strength_away": "62.8%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Double chance : draw or Le Mans",
+    "winner": "Le Mans",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1552210,
@@ -1258,7 +1369,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "46.7%",
+    "strength_away": "53.3%",
+    "home": "35%",
+    "draw": "35%",
+    "away": "30%",
+    "advice": "Double chance : Ajax or draw",
+    "winner": "Ajax",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1552211,
@@ -1277,7 +1397,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "61.7%",
+    "strength_away": "38.3%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Combo Double chance : Cambuur or draw and +1.5 goals",
+    "winner": "Cambuur",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1557447,
@@ -1296,7 +1425,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "59.2%",
+    "strength_away": "40.8%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Combo Double chance : Aston Villa or draw and -3.5 goals",
+    "winner": "Aston Villa",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1570434,
@@ -1410,9 +1548,9 @@
    "gap": 0,
    "risk": "Ba",
    "odds": {
-    "home": 9.69,
-    "draw": 6.82,
-    "away": 1.26,
+    "home": 8.86,
+    "draw": 6.32,
+    "away": 1.29,
     "bookmaker": "Pinnacle"
    }
   },
@@ -1431,9 +1569,9 @@
    "gap": 0,
    "risk": "Ba",
    "odds": {
-    "home": 2.74,
-    "draw": 3.82,
-    "away": 2.45,
+    "home": 2.59,
+    "draw": 3.65,
+    "away": 2.68,
     "bookmaker": "Pinnacle"
    }
   },
@@ -1452,9 +1590,9 @@
    "gap": 0,
    "risk": "Ba",
    "odds": {
-    "home": 3.11,
-    "draw": 3.9,
-    "away": 2.2,
+    "home": 3.25,
+    "draw": 3.93,
+    "away": 2.12,
     "bookmaker": "Pinnacle"
    }
   },
@@ -1473,9 +1611,9 @@
    "gap": 0,
    "risk": "Ba",
    "odds": {
-    "home": 1.42,
-    "draw": 5.22,
-    "away": 7.1,
+    "home": 1.4,
+    "draw": 5.3,
+    "away": 7.28,
     "bookmaker": "Pinnacle"
    }
   },
@@ -1494,9 +1632,9 @@
    "gap": 0,
    "risk": "Ba",
    "odds": {
-    "home": 2.6,
-    "draw": 3.48,
-    "away": 2.77,
+    "home": 2.84,
+    "draw": 3.38,
+    "away": 2.59,
     "bookmaker": "Pinnacle"
    }
   },
@@ -1517,6 +1655,48 @@
    "odds": null
   },
   {
+   "id": 1557450,
+   "league": "Premier League",
+   "league_id": 39,
+   "kickoff": "2026-10-31T08:30:00-04:00",
+   "home": "Chelsea",
+   "away": "Manchester United",
+   "home_logo": "https://media.api-sports.io/football/teams/49.png",
+   "away_logo": "https://media.api-sports.io/football/teams/33.png",
+   "market": "1X",
+   "label": "Chelsea oswa nul",
+   "prob": 90,
+   "gap": 0,
+   "risk": "Ba",
+   "odds": {
+    "home": 1.84,
+    "draw": 4.01,
+    "away": 4.14,
+    "bookmaker": "Pinnacle"
+   }
+  },
+  {
+   "id": 1570439,
+   "league": "La Liga",
+   "league_id": 140,
+   "kickoff": "2026-10-31T09:00:00-04:00",
+   "home": "Levante",
+   "away": "Atletico Madrid",
+   "home_logo": "https://media.api-sports.io/football/teams/539.png",
+   "away_logo": "https://media.api-sports.io/football/teams/530.png",
+   "market": "X2",
+   "label": "Nul oswa Atletico Madrid",
+   "prob": 90,
+   "gap": 0,
+   "risk": "Ba",
+   "odds": {
+    "home": 5.25,
+    "draw": 4.89,
+    "away": 1.56,
+    "bookmaker": "Pinnacle"
+   }
+  },
+  {
    "id": 1492433,
    "league": "Brasileirao",
    "league_id": 71,
@@ -1531,14 +1711,41 @@
    "gap": 0,
    "risk": "Mwayen",
    "odds": {
-    "home": 1.83,
-    "draw": 3.6,
-    "away": 4.66,
+    "home": 1.89,
+    "draw": 3.58,
+    "away": 4.38,
     "bookmaker": "Pinnacle"
    }
   }
  ],
  "news": [
+  {
+   "title": "Families v loyal fans - women's football's attendance dilemma",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq23d1ldgn1yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-30T07:04:53+00:00",
+   "summary": "Average Women's Super League attendances surged by 192% in the season after the Lionesses' Euro 2022 triumph, but the boom has stalled.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/467e/live/8c69bbf0-d1ed-11f1-b360-61fb5d34dc08.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467e/live/8c69bbf0-d1ed-11f1-b360-61fb5d34dc08.jpg"
+  },
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qj9r3v7vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-30T06:22:04+00:00",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "title": "How talking about Man Utd's cycle of doom became an industry",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-10-30T06:14:19+00:00",
+   "summary": "Manchester United's struggles are pored over more than ever before - not least by former players.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4563/live/79c82590-d3b4-11f1-a340-478c8f3b9e55.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4563/live/79c82590-d3b4-11f1-a340-478c8f3b9e55.jpg"
+  },
   {
    "title": "PSG score late to hold struggling Man City",
    "link": "https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&at_campaign=rss",
@@ -1655,33 +1862,6 @@
    "summary": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg"
-  },
-  {
-   "title": "Sometimes managers need sacking for own good - Neville",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-29T11:00:53+00:00",
-   "summary": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d11c/live/a995c900-d37b-11f1-bf63-739fb2907d03.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d11c/live/a995c900-d37b-11f1-bf63-739fb2907d03.jpg"
-  },
-  {
-   "title": "'I'm embarrassed' - Harrogate boss after 3-0 defeat by nine-man Carlisle",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-29T10:45:18+00:00",
-   "summary": "Carlisle boss Rob Elliot praises his nine-man side after their \"incredible\" win over Harrogate.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/942b/live/560e04f0-d380-11f1-b5f4-fd541fd21001.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/942b/live/560e04f0-d380-11f1-b5f4-fd541fd21001.jpg"
-  },
-  {
-   "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-29T00:17:48+00:00",
-   "summary": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2567/live/4a1635a0-d32b-11f1-b0c3-4b2ce0e9f02a.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2567/live/4a1635a0-d32b-11f1-b0c3-4b2ce0e9f02a.jpg"
   },
   {
    "title": "EFL latest: O'Hare on Wrexham move and Sheff Utd return",
