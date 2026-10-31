@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="ht">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Gollakou - Tout sou foutbòl</title>
+<meta name="description" content="Match, rezilta, pronostik ak nouvèl foutbòl chak jou.">
+<meta name="theme-color" content="#032D85">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Gollakou">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<style>
+  :root { --bg:#032D85; --card:#0B3FA8; --accent:#1E90FF; --muted:#B8C7F0; --good:#7CFC9A; }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { margin:0; height:100%; background:var(--bg); color:#fff;
+    font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+  #app { display:flex; flex-direction:column; height:100%; max-width:720px; margin:0 auto;
+    padding-top:env(safe-area-inset-top); }
+  header { display:flex; align-items:center; gap:10px; padding:12px 12px 2px; }
+  header img { width:40px; height:40px; border-radius:8px; }
+  header .t { flex:1; }
+  header .t b { font-size:20px; display:block; }
+  header .t span { font-size:12px; color:var(--muted); }
+  button { font:inherit; color:#fff; border:0; cursor:pointer; }
+  .small { background:var(--card); padding:8px 14px; border-radius:18px; font-size:13px; }
+  #updated { padding:2px 12px 4px; font-size:11px; color:var(--muted); }
+  #install { display:none; margin:6px 12px; padding:10px 12px; border-radius:12px; background:#fff; color:#032D85;
+    align-items:center; gap:10px; font-size:13px; font-weight:600; }
+  #install button { background:var(--accent); padding:8px 14px; border-radius:14px; font-weight:700; white-space:nowrap; }
+  #install .x { background:transparent; color:#032D85; padding:4px 8px; font-size:16px; }
+  #install span { flex:1; }
+  #leagues { display:flex; gap:6px; overflow-x:auto; padding:4px 12px; scrollbar-width:none; flex:none; }
+  #leagues::-webkit-scrollbar { display:none; }
+  #leagues button { background:var(--card); padding:8px 14px; border-radius:18px; font-size:13px; white-space:nowrap; flex:none; }
+  #leagues button.on { background:var(--accent); }
+  #sponsor { display:none; margin:4px 12px; padding:10px 12px; border-radius:12px; background:var(--accent);
+    text-align:center; font-weight:700; font-size:13px; color:#fff; text-decoration:none; }
+  main { flex:1; overflow-y:auto; padding:0 12px 12px; -webkit-overflow-scrolling:touch; }
+  h2 { font-size:16px; margin:14px 0 2px; }
+  h3 { font-size:13px; color:var(--accent); margin:8px 0 6px; }
+  .card { background:var(--card); border-radius:14px; padding:12px; margin-bottom:8px; overflow:hidden; }
+  .row { display:flex; align-items:center; }
+  .row .n { flex:1; font-weight:700; font-size:15px; }
+  .row .n.h { text-align:right; }
+  .row img { width:28px; height:28px; margin:0 6px; object-fit:contain; flex:none; }
+  .row .mid { min-width:56px; text-align:center; font-weight:700; font-size:16px; }
+  .info { font-size:12px; color:var(--muted); margin-top:6px; }
+  .status { text-align:center; font-size:12px; font-weight:700; color:var(--muted); }
+  .status.live { color:var(--good); }
+  .pick { text-align:center; font-weight:700; font-size:15px; margin-top:8px; }
+  .prob { text-align:center; font-weight:700; font-size:13px; color:var(--good); }
+  .rank { font-size:12px; font-weight:700; color:var(--accent); margin-bottom:6px; }
+  .news { padding:0; display:block; color:#fff; text-decoration:none; }
+  .news img { width:100%; height:170px; object-fit:cover; display:block; background:#08338F; }
+  .news .b { padding:12px; }
+  .news .tt { font-weight:700; font-size:15px; }
+  .news .sm { font-size:13px; color:var(--muted); margin-top:4px; }
+  .news .mt { font-size:11px; color:var(--accent); font-weight:700; margin-top:6px; }
+  .msg { text-align:center; color:var(--muted); padding:32px 8px; font-size:14px; }
+  .disc { text-align:center; color:var(--muted); font-size:11px; padding:16px 8px 8px; line-height:1.5; }
+  .offer { display:block; background:var(--accent); color:#fff; text-align:center; text-decoration:none; font-weight:700;
+    padding:12px; border-radius:14px; margin-bottom:6px; font-size:14px; }
+  nav { display:flex; gap:8px; padding:8px 8px calc(8px + env(safe-area-inset-bottom)); }
+  nav button { flex:1; background:var(--card); padding:13px 0; border-radius:14px; font-weight:700; font-size:12px; }
+  nav button.on { background:var(--accent); }
+</style>
+</head>
+<body>
+<div id="app">
+  <header>
+    <img src="icon-192.png" alt="Gollakou">
+    <div class="t"><b>GOLLAKOU</b><span>Tout sou foutbòl</span></div>
+    <button class="small" id="refresh">Rafrechi</button>
+  </header>
+  <div id="updated"></div>
+  <div id="install"><span id="installText">Enstale Gollakou sou telefòn ou</span><button id="installBtn">Enstale</button><button class="x" id="installClose">✕</button></div>
+  <div id="leagues"></div>
+  <a id="sponsor" target="_blank" rel="noopener"></a>
+  <main id="content"></main>
+  <nav>
+    <button id="t-match" class="on">Match</button>
+    <button id="t-picks">Meyè chwa</button>
+    <button id="t-news">Nouvèl</button>
+    <button id="t-blog">Blog</button>
+  </nav>
+</div>
+
+<script>
+'use strict';
+var SITE_URL = 'https://gollakou46.blogspot.com';
+var LEAGUE_ORDER = [2, 39, 140, 135, 78, 61, 3, 94, 88, 71, 13, 253];
+var UPCOMING = ['NS', 'TBD'];
+var FINISHED = ['FT', 'AET', 'PEN'];
+var LIVE = ['1H', 'HT', '2H', 'ET', 'BT', 'P', 'LIVE', 'INT'];
+
+var state = { data: null, sponsor: null, offers: null, tab: 'match', league: '', note: '' };
+
+function $(id) { return document.getElementById(id); }
+function esc(s) {
+  return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+  });
+}
+function safeUrl(u) { return /^https?:\/\//i.test(u || '') ? u : ''; }
+function has(v) { return v !== null && v !== undefined && v !== ''; }
+
+function pad(n) { return (n < 10 ? '0' : '') + n; }
+function hhmm(d) { return pad(d.getHours()) + ':' + pad(d.getMinutes()); }
+function dayKey(d) { return d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()); }
+function parseDate(s) { if (!s) return null; var d = new Date(s); return isNaN(d) ? null : d; }
+function leagueRank(id) { var i = LEAGUE_ORDER.indexOf(id); return i < 0 ? 99 : i; }
+
+function dayLabel(key, sample) {
+  var now = new Date(), t = dayKey(now);
+  var tm = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 1);
+  var yd = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1);
+  if (key === t) return 'Jodi a';
+  if (key === dayKey(tm)) return 'Demen';
+  if (key === dayKey(yd)) return 'Yè';
+  if (!sample) return key;
+  var s = new Intl.DateTimeFormat('fr', { weekday: 'long', day: 'numeric', month: 'long' }).format(sample);
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
+
+function ago(d) {
+  if (!d) return '';
+  var m = Math.floor((Date.now() - d.getTime()) / 60000);
+  if (m < 1) return 'kounye a';
+  if (m < 60) return m + ' min de sa';
+  if (m < 1440) return Math.floor(m / 60) + ' è de sa';
+  return Math.floor(m / 1440) + ' jou de sa';
+}
+
+function translateAdvice(a) {
+  return String(a || '')
+    .replace('Combo Double chance', 'Konbinezon doub chans')
+    .replace('Combo Winner', 'Konbinezon genyen')
+    .replace('Double chance', 'Doub chans')
+    .replace('Winner', 'Genyen')
+    .replace(' or draw', ' oswa nul')
+    .replace('draw or ', 'nul oswa ')
+    .replace(' or ', ' oswa ')
+    .replace(' and ', ' ak ')
+    .replace('goals', 'gòl');
+}
+
+function oddsText(o) {
+  if (!o) return 'Kòt: pa disponib';
+  var parts = [];
+  if (has(o.home)) parts.push('1: ' + Number(o.home).toFixed(2));
+  if (has(o.draw)) parts.push('X: ' + Number(o.draw).toFixed(2));
+  if (has(o.away)) parts.push('2: ' + Number(o.away).toFixed(2));
+  if (!parts.length) return 'Kòt: pa disponib';
+  return 'Kòt' + (o.bookmaker ? ' (' + o.bookmaker + ')' : '') + ': ' + parts.join('  ·  ');
+}
+
+function usablePrediction(p) {
+  if (!p) return null;
+  if (String(p.advice || '').toLowerCase().indexOf('no predictions available') >= 0) return null;
+  return p;
+}
+
+function predictionText(p) {
+  if (!p || (!has(p.home) && !has(p.draw) && !has(p.away))) return 'Pronostik: pa disponib';
+  return 'Pronostik: Kay ' + (p.home || '') + '  ·  Nul ' + (p.draw || '') + '  ·  Deyò ' + (p.away || '');
+}
+
+function logo(url) {
+  return url ? '<img src="' + esc(safeUrl(url)) + '" alt="" loading="lazy" onerror="this.style.visibility=\'hidden\'">'
+             : '<img alt="" style="visibility:hidden">';
+}
+
+function teamsRow(m, center) {
+  return '<div class="row"><div class="n h">' + esc(m.home) + '</div>' + logo(m.home_logo) +
+    '<div class="mid">' + esc(center) + '</div>' + logo(m.away_logo) +
+    '<div class="n">' + esc(m.away) + '</div></div>';
+}
+
+function matchCard(m) {
+  var st = m.status || '';
+  var upcoming = UPCOMING.indexOf(st) >= 0, finished = FINISHED.indexOf(st) >= 0, live = LIVE.indexOf(st) >= 0;
+  var center = 'vs';
+  if ((finished || live) && has(m.score_home) && has(m.score_away)) center = m.score_home + ' - ' + m.score_away;
+  else if (upcoming) { var k = parseDate(m.kickoff); if (k) center = hhmm(k); }
+  var html = '<div class="card">' + teamsRow(m, center);
+  var s = '';
+  if (live) s = st === 'HT' ? 'Mi-tan' : 'An kou' + (has(m.elapsed) ? ' · ' + m.elapsed + "'" : '');
+  else if (finished) s = 'Fini';
+  else if (st === 'PST') s = 'Ranvwaye';
+  else if (st === 'CANC') s = 'Anile';
+  else if (st === 'SUSP') s = 'Sispann';
+  if (s) html += '<div class="status' + (live ? ' live' : '') + '">' + esc(s) + '</div>';
+  if (upcoming) {
+    var p = usablePrediction(m.prediction);
+    html += '<div class="info">' + esc(oddsText(m.odds)) + '</div>';
+    html += '<div class="info">' + esc(predictionText(p)) + '</div>';
+    if (p && p.advice) html += '<div class="info">Konsey sistèm nan: ' + esc(translateAdvice(p.advice)) + '</div>';
+  }
+  return html + '</div>';
+}
+
+function disclaimer() {
+  return '<div class="disc">18+ · Pronostik ak kòt yo se estimasyon, pa gen garanti. Jwe ak responsabilite.<br>' +
+    'Done: API-Football · Kòt: The Odds API · Nouvèl: BBC Sport, Sky Sports, ESPN, L\'Équipe (lyen sou atik orijinal yo).</div>';
+}
+
+function renderLeagues(all) {
+  var box = $('leagues');
+  var names = [];
+  all.slice().sort(function (a, b) { return leagueRank(a.league_id) - leagueRank(b.league_id); })
+    .forEach(function (m) { if (m.league && names.indexOf(m.league) < 0) names.push(m.league); });
+  var html = '<button data-l="" class="' + (state.league === '' ? 'on' : '') + '">Tout</button>';
+  names.forEach(function (n) {
+    html += '<button data-l="' + esc(n) + '" class="' + (state.league === n ? 'on' : '') + '">' + esc(n) + '</button>';
+  });
+  box.innerHTML = html;
+  Array.prototype.forEach.call(box.querySelectorAll('button'), function (b) {
+    b.onclick = function () { state.league = b.getAttribute('data-l'); render(); };
+  });
+}
+
+function renderMatches() {
+  var all = (state.data.matches || []).filter(Boolean);
+  $('leagues').style.display = 'flex';
+  renderLeagues(all);
+  var list = all.filter(function (m) { return !state.league || m.league === state.league; });
+  var today = dayKey(new Date());
+  function key(m) { var d = parseDate(m.kickoff); return d ? dayKey(d) : '0000-00-00'; }
+  list.sort(function (a, b) {
+    var da = key(a), db = key(b), pa = da < today, pb = db < today;
+    if (pa !== pb) return pa ? 1 : -1;
+    if (da !== db) return pa ? (da < db ? 1 : -1) : (da < db ? -1 : 1);
+    var r = leagueRank(a.league_id) - leagueRank(b.league_id);
+    if (r) return r;
+    return (parseDate(a.kickoff) || 0) - (parseDate(b.kickoff) || 0);
+  });
+  if (!list.length) return '<div class="msg">Pa gen match pou kounye a nan lig sa yo.</div>' + disclaimer();
+  var html = '', lastDay = '', lastLeague = '';
+  list.forEach(function (m) {
+    var dk = key(m);
+    if (dk !== lastDay) { html += '<h2>' + esc(dayLabel(dk, parseDate(m.kickoff))) + '</h2>'; lastDay = dk; lastLeague = ''; }
+    if (m.league !== lastLeague) { html += '<h3>' + esc(m.league + (m.country ? ' · ' + m.country : '')) + '</h3>'; lastLeague = m.league; }
+    html += matchCard(m);
+  });
+  return html + disclaimer();
+}
+
+function renderPicks() {
+  $('leagues').style.display = 'none';
+  var html = '<h2 style="font-size:18px;margin-top:8px">Meyè chwa jounen an</h2>' +
+    '<div class="info" style="margin:0 0 8px">10 pronostik ki gen pi gwo pwobabilite (pi ba risk), daprè done API-Football ak kòt mache a. Se pwobabilite, pa gen anyen ki garanti.</div>';
+  var picks = (state.data.picks || []).filter(Boolean);
+  if (!picks.length) html += '<div class="msg">Pa gen chwa disponib pou kounye a. Eseye ankò pita.</div>';
+  picks.forEach(function (p, i) {
+    var k = parseDate(p.kickoff);
+    html += '<div class="card"><div class="rank">#' + (i + 1) + ' · ' + esc(p.league) + '</div>' +
+      teamsRow(p, k ? hhmm(k) : 'vs') +
+      '<div class="pick">Chwa: ' + esc(p.label) + '</div>' +
+      '<div class="prob">Pwobabilite: ' + esc(p.prob) + '%  ·  Risk: ' + esc(p.risk) + '</div>' +
+      '<div class="info">' + esc(oddsText(p.odds)) + '</div></div>';
+  });
+  var offers = state.offers && state.offers.offers;
+  if (offers && offers.length) {
+    html += '<h2>Sit parye patnè (18+ sèlman)</h2>';
+    offers.forEach(function (o) {
+      var u = safeUrl(o.url);
+      if (u) html += '<a class="offer" target="_blank" rel="noopener" href="' + esc(u) + '">' +
+        esc(o.name || '') + (o.text ? ' · ' + esc(o.text) : '') + '</a>';
+    });
+    html += '<div class="info">Parye ka fè w pèdi lajan. Jwe sèlman si w gen 18 an oswa plis epi si lalwa pèmèt sa kote w ye a. Pa jwe plis pase sa w ka pèdi.</div>';
+  }
+  return html + disclaimer();
+}
+
+function renderNews() {
+  $('leagues').style.display = 'none';
+  var news = (state.data.news || []).filter(Boolean);
+  if (!news.length) return '<div class="msg">Pa gen nouvèl pou kounye a.</div>';
+  var html = '';
+  news.forEach(function (n) {
+    var link = safeUrl(n.link), img = safeUrl(n.image), fb = safeUrl(n.image_fallback);
+    var a = ago(parseDate(n.published));
+    html += '<a class="card news" target="_blank" rel="noopener" href="' + esc(link) + '">' +
+      (img ? '<img src="' + esc(img) + '" alt="" loading="lazy" ' +
+        'onerror="' + (fb ? "if(!this.dataset.f){this.dataset.f=1;this.src='" + esc(fb) + "'}else{this.remove()}" : 'this.remove()') + '">' : '') +
+      '<div class="b"><div class="tt">' + esc(n.title) + '</div>' +
+      (n.summary ? '<div class="sm">' + esc(n.summary) + '</div>' : '') +
+      '<div class="mt">' + esc(n.source || '') + (a ? ' · ' + esc(a) : '') + '</div></div></a>';
+  });
+  return html + disclaimer();
+}
+
+function renderSponsor() {
+  var s = state.sponsor, el = $('sponsor');
+  if (s && s.active && s.text) {
+    el.textContent = 'Sponsò · ' + s.text;
+    var u = safeUrl(s.link);
+    if (u) el.setAttribute('href', u); else el.removeAttribute('href');
+    el.style.display = 'block';
+  } else el.style.display = 'none';
+}
+
+function render() {
+  ['match', 'picks', 'news'].forEach(function (t) { $('t-' + t).className = state.tab === t ? 'on' : ''; });
+  renderSponsor();
+  var c = $('content');
+  if (!state.data) {
+    $('leagues').style.display = 'none';
+    $('updated').textContent = state.note;
+    c.innerHTML = '<div class="msg">Done yo poko disponib. Verifye entènèt la epi peze Rafrechi.</div>';
+    return;
+  }
+  var u = parseDate(state.data.updated);
+  var when = u ? new Intl.DateTimeFormat('fr', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' }).format(u) : '?';
+  $('updated').textContent = (state.note ? state.note + ' · ' : '') + 'Mizajou: ' + when;
+  c.innerHTML = state.tab === 'picks' ? renderPicks() : state.tab === 'news' ? renderNews() : renderMatches();
+}
+
+function getJson(url) {
+  return fetch(url + '?t=' + Date.now(), { cache: 'no-store' }).then(function (r) {
+    if (!r.ok) throw new Error(r.status);
+    return r.json();
+  });
+}
+
+function load() {
+  $('updated').textContent = 'Ap chaje...';
+  var safe = function (p) { return p.catch(function () { return null; }); };
+  Promise.all([safe(getJson('data.json')), safe(getJson('sponsor.json')), safe(getJson('offers.json'))]).then(function (r) {
+    if (r[0]) { state.data = r[0]; state.note = ''; }
+    else state.note = state.data ? 'Pa gen koneksyon, done ki sove yo' : '';
+    state.sponsor = r[1];
+    state.offers = r[2];
+    render();
+  });
+}
+
+function setTab(t) { state.tab = t; render(); $('content').scrollTop = 0; }
+$('t-match').onclick = function () { setTab('match'); };
+$('t-picks').onclick = function () { setTab('picks'); };
+$('t-news').onclick = function () { setTab('news'); };
+$('t-blog').onclick = function () { window.open(SITE_URL, '_blank', 'noopener'); };
+$('refresh').onclick = load;
+
+// ---------- install as an app ----------
+var deferredPrompt = null;
+function isStandalone() {
+  return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+}
+function showInstall(text, withButton) {
+  if (isStandalone()) return;
+  try { if (localStorage.getItem('installClosed') === '1') return; } catch (e) {}
+  $('installText').textContent = text;
+  $('installBtn').style.display = withButton ? 'inline-block' : 'none';
+  $('install').style.display = 'flex';
+}
+window.addEventListener('beforeinstallprompt', function (e) {
+  e.preventDefault();
+  deferredPrompt = e;
+  showInstall('Enstale Gollakou sou telefòn ou, tankou yon aplikasyon', true);
+});
+window.addEventListener('appinstalled', function () { $('install').style.display = 'none'; deferredPrompt = null; });
+$('installBtn').onclick = function () {
+  if (!deferredPrompt) return;
+  deferredPrompt.prompt();
+  deferredPrompt.userChoice.then(function () { deferredPrompt = null; $('install').style.display = 'none'; });
+};
+$('installClose').onclick = function () {
+  $('install').style.display = 'none';
+  try { localStorage.setItem('installClosed', '1'); } catch (e) {}
+};
+if (/iphone|ipad|ipod/i.test(navigator.userAgent) && !isStandalone()) {
+  showInstall('Sou iPhone: peze bouton Pataje, answit "Ajoute sou ekran akèy".', false);
+}
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function () { navigator.serviceWorker.register('sw.js').catch(function () {}); });
+}
+
+render();
+load();
+</script>
+</body>
+</html>
