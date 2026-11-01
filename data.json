@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T07:15:33.995482+00:00",
+ "updated": "2026-11-01T11:18:23.865193+00:00",
  "note": null,
- "quota_remaining": 90,
- "odds_quota_remaining": 492,
+ "quota_remaining": 80,
+ "odds_quota_remaining": 484,
  "matches": [
   {
    "id": 1557450,
@@ -1254,14 +1254,14 @@
    "season": 2026,
    "round": "Regular Season - 11",
    "kickoff": "2026-11-01T06:15:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "1H",
+   "elapsed": 2,
    "home": "PEC Zwolle",
    "away": "ADO Den Haag",
    "home_logo": "https://media.api-sports.io/football/teams/193.png",
    "away_logo": "https://media.api-sports.io/football/teams/198.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 0,
+   "score_away": 0,
    "odds": {
     "home": 2.3,
     "draw": 3.83,
@@ -1296,9 +1296,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.31,
-    "draw": 5.99,
-    "away": 9.43,
+    "home": 1.29,
+    "draw": 6.2,
+    "away": 10.75,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1329,8 +1329,8 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 3.44,
-    "draw": 3.02,
+    "home": 3.53,
+    "draw": 3.04,
     "away": 2.43,
     "bookmaker": "Pinnacle"
    },
@@ -1362,7 +1362,7 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 6.19,
+    "home": 6.26,
     "draw": 4.73,
     "away": 1.51,
     "bookmaker": "Pinnacle"
@@ -1395,9 +1395,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 3.05,
-    "draw": 3.8,
-    "away": 2.28,
+    "home": 3.18,
+    "draw": 3.81,
+    "away": 2.2,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1428,9 +1428,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.07,
-    "draw": 3.89,
-    "away": 3.43,
+    "home": 2.05,
+    "draw": 3.99,
+    "away": 3.5,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1461,9 +1461,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.47,
+    "home": 1.48,
     "draw": 4.49,
-    "away": 7.51,
+    "away": 7.63,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1494,9 +1494,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.84,
-    "draw": 4.04,
-    "away": 4.09,
+    "home": 1.87,
+    "draw": 4.06,
+    "away": 4.06,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1527,9 +1527,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.71,
-    "draw": 3.59,
-    "away": 2.59,
+    "home": 2.74,
+    "draw": 3.55,
+    "away": 2.65,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1560,9 +1560,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 10.73,
-    "draw": 7.97,
-    "away": 1.21,
+    "home": 12.19,
+    "draw": 8.25,
+    "away": 1.2,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1593,9 +1593,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.76,
-    "draw": 3.93,
-    "away": 4.78,
+    "home": 1.65,
+    "draw": 4.15,
+    "away": 5.38,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1626,9 +1626,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.79,
-    "draw": 4.23,
-    "away": 4.2,
+    "home": 1.76,
+    "draw": 4.31,
+    "away": 4.32,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1660,8 +1660,8 @@
    "score_away": null,
    "odds": {
     "home": 1.43,
-    "draw": 5.03,
-    "away": 7.4,
+    "draw": 5.02,
+    "away": 7.46,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1693,8 +1693,8 @@
    "score_away": null,
    "odds": {
     "home": 2.53,
-    "draw": 3.53,
-    "away": 2.82,
+    "draw": 3.6,
+    "away": 2.85,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1725,9 +1725,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.97,
-    "draw": 3.37,
-    "away": 2.5,
+    "home": 2.85,
+    "draw": 3.44,
+    "away": 2.61,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1758,9 +1758,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.56,
-    "draw": 4.71,
-    "away": 5.43,
+    "home": 1.55,
+    "draw": 4.82,
+    "away": 5.65,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1791,9 +1791,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 3.33,
-    "draw": 3.07,
-    "away": 2.47,
+    "home": 3.25,
+    "draw": 3.05,
+    "away": 2.57,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1824,9 +1824,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.38,
-    "draw": 3.35,
-    "away": 3.19,
+    "home": 2.41,
+    "draw": 3.33,
+    "away": 3.23,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1857,9 +1857,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.9,
+    "home": 1.89,
     "draw": 3.6,
-    "away": 4.37,
+    "away": 4.41,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1891,8 +1891,8 @@
    "score_away": null,
    "odds": {
     "home": 3.65,
-    "draw": 3.08,
-    "away": 2.32,
+    "draw": 3.09,
+    "away": 2.31,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1923,9 +1923,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.24,
-    "draw": 3.35,
-    "away": 3.5,
+    "home": 2.25,
+    "draw": 3.31,
+    "away": 3.6,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1957,11 +1957,20 @@
    "score_away": null,
    "odds": {
     "home": 1.94,
-    "draw": 4.11,
-    "away": 3.6,
+    "draw": 4.15,
+    "away": 3.69,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "53.3%",
+    "strength_away": "46.7%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Combo Double chance : Marseille or draw and +1.5 goals",
+    "winner": "Marseille",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1570433,
@@ -1980,12 +1989,21 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.07,
-    "draw": 3.62,
-    "away": 3.65,
+    "home": 1.96,
+    "draw": 3.73,
+    "away": 4.02,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "44.3%",
+    "strength_away": "55.7%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Double chance : draw or Real Sociedad",
+    "winner": "Real Sociedad",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1490591,
@@ -2009,7 +2027,16 @@
     "away": 4.5,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "57.2%",
+    "strength_away": "42.8%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Vancouver Whitecaps or draw",
+    "winner": "Vancouver Whitecaps",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1575530,
@@ -2028,12 +2055,21 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.68,
-    "draw": 3.75,
-    "away": 5.57,
+    "home": 1.67,
+    "draw": 3.87,
+    "away": 5.7,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "38.7%",
+    "strength_away": "61.3%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Winner : Famalicao",
+    "winner": "Famalicao",
+    "comment": null
+   }
   },
   {
    "id": 1490586,
@@ -2057,7 +2093,16 @@
     "away": 5.56,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "65.7%",
+    "strength_away": "34.3%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Nashville SC or draw",
+    "winner": "Nashville SC",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1490597,
@@ -2081,7 +2126,16 @@
     "away": 3.06,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "45.7%",
+    "strength_away": "54.3%",
+    "home": "35%",
+    "draw": "35%",
+    "away": "30%",
+    "advice": "Double chance : Atlanta United FC or draw",
+    "winner": "Atlanta United FC",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1490598,
@@ -2105,7 +2159,16 @@
     "away": 2.2,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "37.2%",
+    "strength_away": "62.8%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Double chance : draw or Inter Miami",
+    "winner": "Inter Miami",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1490590,
@@ -2195,7 +2258,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/523.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 1.52,
+    "draw": 4.65,
+    "away": 6.21,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": null
   },
   {
@@ -2214,7 +2282,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/106.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.52,
+    "draw": 3.31,
+    "away": 3.01,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": null
   },
   {
@@ -2233,7 +2306,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/45.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.42,
+    "draw": 3.56,
+    "away": 2.94,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": null
   },
   {
@@ -2252,7 +2330,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/727.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.18,
+    "draw": 3.3,
+    "away": 3.67,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": null
   },
   {
@@ -2271,7 +2354,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/4724.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 1.17,
+    "draw": 7.0,
+    "away": 13.0,
+    "bookmaker": "William Hill"
+   },
    "prediction": null
   },
   {
@@ -2290,7 +2378,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/224.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.89,
+    "draw": 3.05,
+    "away": 2.69,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": null
   },
   {
@@ -2309,7 +2402,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/128.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.05,
+    "draw": 3.81,
+    "away": 3.37,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": null
   }
  ],
@@ -2330,9 +2428,9 @@
    "risk": "Ba",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 1.31,
-    "draw": 5.99,
-    "away": 9.43,
+    "home": 1.29,
+    "draw": 6.2,
+    "away": 10.75,
     "bookmaker": "Pinnacle"
    }
   },
@@ -2352,9 +2450,9 @@
    "risk": "Ba",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 10.73,
-    "draw": 7.97,
-    "away": 1.21,
+    "home": 12.19,
+    "draw": 8.25,
+    "away": 1.2,
     "bookmaker": "Pinnacle"
    }
   },
@@ -2374,9 +2472,9 @@
    "risk": "Ba",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 1.47,
+    "home": 1.48,
     "draw": 4.49,
-    "away": 7.51,
+    "away": 7.63,
     "bookmaker": "Pinnacle"
    }
   },
@@ -2397,8 +2495,8 @@
    "source": "API + kòt mache a",
    "odds": {
     "home": 1.43,
-    "draw": 5.03,
-    "away": 7.4,
+    "draw": 5.02,
+    "away": 7.46,
     "bookmaker": "Pinnacle"
    }
   },
@@ -2413,12 +2511,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/415.png",
    "market": "X2",
    "label": "Nul oswa Twente",
-   "prob": 84,
+   "prob": 85,
    "gap": 0,
-   "risk": "Mwayen",
+   "risk": "Ba",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 6.19,
+    "home": 6.26,
     "draw": 4.73,
     "away": 1.51,
     "bookmaker": "Pinnacle"
@@ -2435,14 +2533,36 @@
    "away_logo": "https://media.api-sports.io/football/teams/175.png",
    "market": "1X",
    "label": "Eintracht Frankfurt oswa nul",
-   "prob": 82,
+   "prob": 83,
    "gap": 0,
    "risk": "Mwayen",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 1.56,
-    "draw": 4.71,
-    "away": 5.43,
+    "home": 1.55,
+    "draw": 4.82,
+    "away": 5.65,
+    "bookmaker": "Pinnacle"
+   }
+  },
+  {
+   "id": 1490586,
+   "league": "MLS",
+   "league_id": 253,
+   "kickoff": "2026-11-01T16:30:00-05:00",
+   "home": "Nashville SC",
+   "away": "New York Red Bulls",
+   "home_logo": "https://media.api-sports.io/football/teams/9569.png",
+   "away_logo": "https://media.api-sports.io/football/teams/1602.png",
+   "market": "1X",
+   "label": "Nashville SC oswa nul",
+   "prob": 83,
+   "gap": 0,
+   "risk": "Mwayen",
+   "source": "API + kòt mache a",
+   "odds": {
+    "home": 1.51,
+    "draw": 4.85,
+    "away": 5.56,
     "bookmaker": "Pinnacle"
    }
   },
@@ -2457,36 +2577,36 @@
    "away_logo": "https://media.api-sports.io/football/teams/225.png",
    "market": "1X",
    "label": "Arouca oswa nul",
-   "prob": 80,
+   "prob": 82,
    "gap": 0,
    "risk": "Mwayen",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 1.76,
-    "draw": 3.93,
-    "away": 4.78,
+    "home": 1.65,
+    "draw": 4.15,
+    "away": 5.38,
     "bookmaker": "Pinnacle"
    }
   },
   {
-   "id": 1575527,
-   "league": "Liga Portugal",
-   "league_id": 94,
-   "kickoff": "2026-11-01T13:00:00-05:00",
-   "home": "Academico Viseu",
-   "away": "Rio Ave",
-   "home_logo": "https://media.api-sports.io/football/teams/238.png",
-   "away_logo": "https://media.api-sports.io/football/teams/226.png",
+   "id": 1490591,
+   "league": "MLS",
+   "league_id": 253,
+   "kickoff": "2026-11-01T15:30:00-05:00",
+   "home": "Vancouver Whitecaps",
+   "away": "Seattle Sounders",
+   "home_logo": "https://media.api-sports.io/football/teams/1603.png",
+   "away_logo": "https://media.api-sports.io/football/teams/1595.png",
    "market": "1X",
-   "label": "Academico Viseu oswa nul",
-   "prob": 78,
+   "label": "Vancouver Whitecaps oswa nul",
+   "prob": 79,
    "gap": 0,
    "risk": "Mwayen",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 1.9,
-    "draw": 3.6,
-    "away": 4.37,
+    "home": 1.68,
+    "draw": 4.35,
+    "away": 4.5,
     "bookmaker": "Pinnacle"
    }
   },
@@ -2501,47 +2621,34 @@
    "away_logo": "https://media.api-sports.io/football/teams/426.png",
    "market": "1X",
    "label": "Groningen oswa nul",
-   "prob": 77,
+   "prob": 78,
    "gap": 0,
    "risk": "Mwayen",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 1.79,
-    "draw": 4.23,
-    "away": 4.2,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1575534,
-   "league": "Liga Portugal",
-   "league_id": 94,
-   "kickoff": "2026-11-01T13:00:00-05:00",
-   "home": "Maritimo",
-   "away": "Santa Clara",
-   "home_logo": "https://media.api-sports.io/football/teams/214.png",
-   "away_logo": "https://media.api-sports.io/football/teams/227.png",
-   "market": "X2",
-   "label": "Nul oswa Santa Clara",
-   "prob": 73,
-   "gap": 0,
-   "risk": "Mwayen",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 3.65,
-    "draw": 3.08,
-    "away": 2.32,
+    "home": 1.76,
+    "draw": 4.31,
+    "away": 4.32,
     "bookmaker": "Pinnacle"
    }
   }
  ],
  "news": [
   {
+   "title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-01T07:38:15+00:00",
+   "summary": "Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3d5c/live/b3329da0-d45a-11f1-93d9-89af68edb68a.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5c/live/b3329da0-d45a-11f1-93d9-89af68edb68a.jpg"
+  },
+  {
    "title": "Are Manchester United really at risk of a relegation scrap?",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "published": "2026-10-31T23:52:28+00:00",
-   "summary": "Manchester United's current tally of nine points from seven games would not even get them 30 points if it was continued for the full season.",
+   "summary": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"
   },
@@ -2582,7 +2689,7 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3234/live/ef24d060-d560-11f1-b441-2b33b063138f.jpg"
   },
   {
-   "title": "Coventry out of bottom three after win over struggling Sunderland",
+   "title": "Coventry out of bottom three with win over struggling Sunderland",
    "link": "https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "published": "2026-10-31T22:29:50+00:00",
@@ -2636,15 +2743,6 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d7/live/efbcddc0-d578-11f1-a701-fddedf244c16.jpg"
   },
   {
-   "title": "Papers: Carrick to be given at least two more games in charge at Man Utd",
-   "link": "https://www.skysports.com/football/news/12040/13606527/manchester-united-michael-carrick-to-be-given-at-least-two-more-matches-in-charge-despite-overseeing-worst-run-in-nearly-40-years-paper-talk",
-   "source": "Sky Sports",
-   "published": "2026-10-31T22:00:00+00:00",
-   "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "image_fallback": null
-  },
-  {
    "title": "Suzuki makes string of saves before conceding own goal in draw with Fulham",
    "link": "https://www.skysports.com/football/aston-villa-vs-fulham/report/559524",
    "source": "Sky Sports",
@@ -2672,21 +2770,12 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/3b22ede0-d579-11f1-a701-fddedf244c16.jpg"
   },
   {
-   "title": "Maresca's big test is to address mounting Man City issues",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-10-31T19:05:41+00:00",
-   "summary": "Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg"
-  },
-  {
-   "title": "'The same s*** situation' - ANGRY Glasner vows to change - or be sacked",
-   "link": "https://www.skysports.com/football/news/12040/13606410/oliver-glasner-nottingham-forest-head-coach-reveals-anger-desire-to-change-growing-pattern-at-club-amid-poor-start-to-season",
+   "title": "How Maestre and LCL are succeeding ahead of 'biggest' Man City test",
+   "link": "https://www.skysports.com/football/news/12040/13605812/london-city-lionesses-eder-maestre-explains-how-his-team-are-succeeding-in-the-wsl-ahead-of-big-man-city-test",
    "source": "Sky Sports",
-   "published": "2026-10-31T18:55:00+00:00",
-   "summary": "There is no more Mr Nice Guy at Nottingham Forest, according to Oliver Glasner. The Austrian has said he will change things at the club and if the players don't buy into it, the...",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-glasner-forest_7393259.jpg?20261031191441",
+   "published": "2026-10-30T18:55:00+00:00",
+   "summary": "The sight of superstars rolling into London City Lionesses this summer was exciting for many, but there was one man who was tasked with making them a team - head coach Eder Maes...",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-wsl-womens-super-league_7390644.jpg?20261029090850",
    "image_fallback": null
   }
  ]
