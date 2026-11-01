@@ -1,0 +1,40 @@
+name: Live scores
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-scores
+  cancel-in-progress: true
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch live scores
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: python3 gollakou_live.py
+
+      - name: Publish on the live branch
+        if: hashFiles('live.json') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir /tmp/pub
+          cp live.json /tmp/pub/
+          cd /tmp/pub
+          git init -q
+          git config user.name "gollakou-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git checkout -q -b live
+          git add live.json
+          git commit -q -m "live scores"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" live
