@@ -18,7 +18,8 @@ jobs:
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python3 update_data.py
+          MAX_PRED: '15'
+        run: python3 gollakou_update.py
 
       - name: Save
         run: |
