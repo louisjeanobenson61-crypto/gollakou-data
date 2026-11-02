@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T07:40:58.314098+00:00",
+ "updated": "2026-11-02T19:11:03.248881+00:00",
  "note": null,
- "quota_remaining": 90,
- "odds_quota_remaining": 462,
+ "quota_remaining": 83,
+ "odds_quota_remaining": 455,
  "matches": [
   {
    "id": 1552212,
@@ -1002,14 +1002,14 @@
    "season": 2026,
    "round": "Regular Season - 10",
    "kickoff": "2026-11-02T12:30:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "2H",
+   "elapsed": 82,
    "home": "Sassuolo",
    "away": "Fiorentina",
    "home_logo": "https://media.api-sports.io/football/teams/488.png",
    "away_logo": "https://media.api-sports.io/football/teams/502.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 2,
+   "score_away": 3,
    "odds": {
     "home": 2.93,
     "draw": 3.75,
@@ -1044,9 +1044,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.53,
-    "draw": 4.65,
-    "away": 5.95,
+    "home": 1.43,
+    "draw": 5.18,
+    "away": 7.04,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1077,9 +1077,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.5,
-    "draw": 3.25,
-    "away": 3.09,
+    "home": 2.55,
+    "draw": 3.16,
+    "away": 3.16,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1110,9 +1110,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.18,
-    "draw": 3.67,
-    "away": 3.3,
+    "home": 2.16,
+    "draw": 3.55,
+    "away": 3.55,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1143,9 +1143,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.2,
-    "draw": 3.25,
-    "away": 3.68,
+    "home": 2.12,
+    "draw": 3.3,
+    "away": 3.99,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1176,9 +1176,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.15,
-    "draw": 9.2,
-    "away": 17.53,
+    "home": 1.13,
+    "draw": 10.05,
+    "away": 18.26,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1209,9 +1209,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.97,
-    "draw": 3.09,
-    "away": 2.66,
+    "home": 2.98,
+    "draw": 3.17,
+    "away": 2.64,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1242,9 +1242,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.02,
-    "draw": 4.1,
-    "away": 3.36,
+    "home": 1.98,
+    "draw": 4.24,
+    "away": 3.45,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1276,8 +1276,8 @@
    "score_away": null,
    "odds": {
     "home": 2.2,
-    "draw": 4.19,
-    "away": 2.97,
+    "draw": 4.13,
+    "away": 2.98,
     "bookmaker": "Pinnacle"
    },
    "prediction": {
@@ -1335,7 +1335,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/157.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.77,
+    "draw": 3.94,
+    "away": 2.4,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "38.4%",
     "strength_away": "61.8%",
@@ -1363,7 +1368,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/66.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 1.25,
+    "draw": 7.26,
+    "away": 9.47,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "47.3%",
     "strength_away": "52.8%",
@@ -1391,7 +1401,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/79.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 1.83,
+    "draw": 4.21,
+    "away": 4.04,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "60.5%",
     "strength_away": "39.5%",
@@ -1419,7 +1434,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/505.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 3.88,
+    "draw": 4.27,
+    "away": 1.85,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "44.6%",
     "strength_away": "55.4%",
@@ -1447,7 +1467,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/656.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 1.41,
+    "draw": 5.5,
+    "away": 6.93,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": {
     "strength_home": "60.8%",
     "strength_away": "39.3%",
@@ -1475,8 +1500,22 @@
    "away_logo": "https://media.api-sports.io/football/teams/497.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
-   "prediction": null
+   "odds": {
+    "home": 2.35,
+    "draw": 4.08,
+    "away": 2.77,
+    "bookmaker": "Pinnacle"
+   },
+   "prediction": {
+    "strength_home": "47.6%",
+    "strength_away": "52.4%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Manchester United or draw",
+    "winner": "Manchester United",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1635746,
@@ -1494,8 +1533,22 @@
    "away_logo": "https://media.api-sports.io/football/teams/85.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
-   "prediction": null
+   "odds": {
+    "home": 4.84,
+    "draw": 4.74,
+    "away": 1.62,
+    "bookmaker": "Pinnacle"
+   },
+   "prediction": {
+    "strength_home": "37.0%",
+    "strength_away": "63.0%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Combo Double chance : draw or Paris Saint Germain and +2.5 goals",
+    "winner": "Paris Saint Germain",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1492443,
@@ -1513,8 +1566,22 @@
    "away_logo": "https://media.api-sports.io/football/teams/7848.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
-   "prediction": null
+   "odds": {
+    "home": 3.52,
+    "draw": 3.53,
+    "away": 2.09,
+    "bookmaker": "Pinnacle"
+   },
+   "prediction": {
+    "strength_home": "30.0%",
+    "strength_away": "70.2%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Double chance : draw or Mirassol",
+    "winner": "Mirassol",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1492446,
@@ -1532,8 +1599,22 @@
    "away_logo": "https://media.api-sports.io/football/teams/147.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
-   "prediction": null
+   "odds": {
+    "home": 1.62,
+    "draw": 3.97,
+    "away": 5.51,
+    "bookmaker": "Pinnacle"
+   },
+   "prediction": {
+    "strength_home": "61.3%",
+    "strength_away": "38.7%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Internacional or draw",
+    "winner": "Internacional",
+    "comment": "Win or draw"
+   }
   }
  ],
  "picks": [
@@ -1553,9 +1634,9 @@
    "risk": "Ba",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 1.15,
-    "draw": 9.2,
-    "away": 17.53,
+    "home": 1.13,
+    "draw": 10.05,
+    "away": 18.26,
     "bookmaker": "Pinnacle"
    }
   },
@@ -1570,14 +1651,80 @@
    "away_logo": "https://media.api-sports.io/football/teams/523.png",
    "market": "1X",
    "label": "Atalanta oswa nul",
-   "prob": 84,
+   "prob": 86,
+   "gap": 0,
+   "risk": "Ba",
+   "source": "API + kòt mache a",
+   "odds": {
+    "home": 1.43,
+    "draw": 5.18,
+    "away": 7.04,
+    "bookmaker": "Pinnacle"
+   }
+  },
+  {
+   "id": 1635677,
+   "league": "Champions League",
+   "league_id": 2,
+   "kickoff": "2026-11-03T15:00:00-05:00",
+   "home": "Lask Linz",
+   "away": "Slovan Bratislava",
+   "home_logo": "https://media.api-sports.io/football/teams/1026.png",
+   "away_logo": "https://media.api-sports.io/football/teams/656.png",
+   "market": "1X",
+   "label": "Lask Linz oswa nul",
+   "prob": 86,
+   "gap": 0,
+   "risk": "Ba",
+   "source": "API + kòt mache a",
+   "odds": {
+    "home": 1.41,
+    "draw": 5.5,
+    "away": 6.93,
+    "bookmaker": "Pinnacle"
+   }
+  },
+  {
+   "id": 1492446,
+   "league": "Brasileirao",
+   "league_id": 71,
+   "kickoff": "2026-11-03T19:30:00-05:00",
+   "home": "Internacional",
+   "away": "Coritiba",
+   "home_logo": "https://media.api-sports.io/football/teams/119.png",
+   "away_logo": "https://media.api-sports.io/football/teams/147.png",
+   "market": "1X",
+   "label": "Internacional oswa nul",
+   "prob": 83,
    "gap": 0,
    "risk": "Mwayen",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 1.53,
-    "draw": 4.65,
-    "away": 5.95,
+    "home": 1.62,
+    "draw": 3.97,
+    "away": 5.51,
+    "bookmaker": "Pinnacle"
+   }
+  },
+  {
+   "id": 1635746,
+   "league": "Champions League",
+   "league_id": 2,
+   "kickoff": "2026-11-03T15:00:00-05:00",
+   "home": "Villarreal",
+   "away": "Paris Saint Germain",
+   "home_logo": "https://media.api-sports.io/football/teams/533.png",
+   "away_logo": "https://media.api-sports.io/football/teams/85.png",
+   "market": "X2",
+   "label": "Nul oswa Paris Saint Germain",
+   "prob": 80,
+   "gap": 0,
+   "risk": "Mwayen",
+   "source": "API + kòt mache a",
+   "odds": {
+    "home": 4.84,
+    "draw": 4.74,
+    "away": 1.62,
     "bookmaker": "Pinnacle"
    }
   },
@@ -1592,173 +1739,254 @@
    "away_logo": "https://media.api-sports.io/football/teams/727.png",
    "market": "1X",
    "label": "Deportivo La Coruna oswa nul",
-   "prob": 74,
+   "prob": 76,
    "gap": 0,
    "risk": "Mwayen",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 2.2,
-    "draw": 3.25,
-    "away": 3.68,
+    "home": 2.12,
+    "draw": 3.3,
+    "away": 3.99,
     "bookmaker": "Pinnacle"
    }
   },
   {
-   "id": 1575533,
-   "league": "Liga Portugal",
-   "league_id": 94,
-   "kickoff": "2026-11-02T15:15:00-05:00",
-   "home": "GIL Vicente",
-   "away": "Vitória SC",
-   "home_logo": "https://media.api-sports.io/football/teams/762.png",
-   "away_logo": "https://media.api-sports.io/football/teams/224.png",
-   "market": "X2",
-   "label": "Nul oswa Vitória SC",
-   "prob": 68,
+   "id": 1635640,
+   "league": "Champions League",
+   "league_id": 2,
+   "kickoff": "2026-11-03T15:00:00-05:00",
+   "home": "Bodo/Glimt",
+   "away": "Lille",
+   "home_logo": "https://media.api-sports.io/football/teams/327.png",
+   "away_logo": "https://media.api-sports.io/football/teams/79.png",
+   "market": "1X",
+   "label": "Bodo/Glimt oswa nul",
+   "prob": 76,
    "gap": 0,
-   "risk": "Wo",
+   "risk": "Mwayen",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 2.97,
-    "draw": 3.09,
-    "away": 2.66,
+    "home": 1.83,
+    "draw": 4.21,
+    "away": 4.04,
     "bookmaker": "Pinnacle"
    }
   },
   {
-   "id": 1550185,
-   "league": "Serie A",
-   "league_id": 135,
-   "kickoff": "2026-11-02T12:30:00-05:00",
-   "home": "Sassuolo",
-   "away": "Fiorentina",
-   "home_logo": "https://media.api-sports.io/football/teams/488.png",
-   "away_logo": "https://media.api-sports.io/football/teams/502.png",
+   "id": 1635723,
+   "league": "Champions League",
+   "league_id": 2,
+   "kickoff": "2026-11-03T12:45:00-05:00",
+   "home": "Shakhtar Donetsk",
+   "away": "Sporting CP",
+   "home_logo": "https://media.api-sports.io/football/teams/550.png",
+   "away_logo": "https://media.api-sports.io/football/teams/228.png",
    "market": "X2",
-   "label": "Nul oswa Fiorentina",
-   "prob": 67,
+   "label": "Nul oswa Sporting CP",
+   "prob": 75,
    "gap": 0,
-   "risk": "Wo",
+   "risk": "Mwayen",
+   "source": "API sèlman",
+   "odds": null
+  },
+  {
+   "id": 1635662,
+   "league": "Champions League",
+   "league_id": 2,
+   "kickoff": "2026-11-03T15:00:00-05:00",
+   "home": "Feyenoord",
+   "away": "Inter",
+   "home_logo": "https://media.api-sports.io/football/teams/209.png",
+   "away_logo": "https://media.api-sports.io/football/teams/505.png",
+   "market": "X2",
+   "label": "Nul oswa Inter",
+   "prob": 75,
+   "gap": 0,
+   "risk": "Mwayen",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 2.93,
-    "draw": 3.75,
-    "away": 2.37,
+    "home": 3.88,
+    "draw": 4.27,
+    "away": 1.85,
     "bookmaker": "Pinnacle"
    }
   },
   {
-   "id": 1552803,
-   "league": "Ligue 1",
-   "league_id": 61,
-   "kickoff": "2026-11-02T14:45:00-05:00",
-   "home": "Lorient",
-   "away": "Stade Brestois 29",
-   "home_logo": "https://media.api-sports.io/football/teams/97.png",
-   "away_logo": "https://media.api-sports.io/football/teams/106.png",
-   "market": "X2",
-   "label": "Nul oswa Stade Brestois 29",
-   "prob": 61,
-   "gap": 0,
-   "risk": "Wo",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 2.5,
-    "draw": 3.25,
-    "away": 3.09,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1557455,
-   "league": "Premier League",
-   "league_id": 39,
-   "kickoff": "2026-11-02T15:00:00-05:00",
-   "home": "Newcastle",
-   "away": "Everton",
-   "home_logo": "https://media.api-sports.io/football/teams/34.png",
-   "away_logo": "https://media.api-sports.io/football/teams/45.png",
-   "market": "X2",
-   "label": "Nul oswa Everton",
-   "prob": 56,
-   "gap": 0,
-   "risk": "Wo",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 2.18,
-    "draw": 3.67,
-    "away": 3.3,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1492442,
+   "id": 1492443,
    "league": "Brasileirao",
    "league_id": 71,
-   "kickoff": "2026-11-02T18:00:00-05:00",
-   "home": "RB Bragantino",
-   "away": "Santos",
-   "home_logo": "https://media.api-sports.io/football/teams/794.png",
-   "away_logo": "https://media.api-sports.io/football/teams/128.png",
-   "market": "1X",
-   "label": "RB Bragantino oswa nul",
-   "prob": 55,
+   "kickoff": "2026-11-03T17:30:00-05:00",
+   "home": "Chapecoense-sc",
+   "away": "Mirassol",
+   "home_logo": "https://media.api-sports.io/football/teams/132.png",
+   "away_logo": "https://media.api-sports.io/football/teams/7848.png",
+   "market": "X2",
+   "label": "Nul oswa Mirassol",
+   "prob": 73,
    "gap": 0,
-   "risk": "Wo",
+   "risk": "Mwayen",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 2.02,
-    "draw": 4.1,
-    "away": 3.36,
+    "home": 3.52,
+    "draw": 3.53,
+    "away": 2.09,
     "bookmaker": "Pinnacle"
    }
   }
  ],
  "news": [
   {
-   "title": "No Grealish, no cry - the rise of Everton's youngsters",
+   "title": "Elanga starts for Newcastle as Branthwaite returns for Everton LIVE!",
+   "link": "https://www.skysports.com/football/newcastle-united-vs-everton/live/559532",
+   "source": "Sky Sports",
+   "published": "2026-11-02T18:30:00+00:00",
+   "summary": "",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-newcastle_7387516.jpg?20261026081721",
+   "image_fallback": null
+  },
+  {
+   "title": "Forest latest: 'Glasner hasn't fully been himself,' says Carragher",
+   "link": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "source": "Sky Sports",
+   "published": "2026-11-02T17:42:00+00:00",
+   "summary": "",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014",
+   "image_fallback": null
+  },
+  {
+   "title": "Key questions as Pocognoli prepares to name Scotland squad",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-02T17:35:14+00:00",
+   "summary": "Sebastien Pocognoli names his second Scotland squad on Tuesday, with various dilemmas to address.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6f10/live/6c28a7c0-d6e3-11f1-a741-236ee91c2e25.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/6c28a7c0-d6e3-11f1-a741-236ee91c2e25.jpg"
+  },
+  {
+   "title": "Ronaldo skips trip to Pakhtakor with Al Nassr amid security concerns",
+   "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+   "source": "Sky Sports",
+   "published": "2026-11-02T16:27:00+00:00",
+   "summary": "",
+   "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ronaldo-saudi-pro-league_7246922.jpg?20260512214658",
+   "image_fallback": null
+  },
+  {
+   "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-02T16:00:07+00:00",
+   "summary": "Under-pressure Michael Carrick says it might be \"crazy\" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/925e/live/560b7790-d6db-11f1-b441-2b33b063138f.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925e/live/560b7790-d6db-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "title": "Merse: Arsenal showed mark of champions at Anfield",
+   "link": "https://www.skysports.com/football/news/12040/13607147/paul-merson-arsenal-showed-mark-of-champions-against-liverpool-in-defensive-masterclass-victory-at-anfield",
+   "source": "Sky Sports",
+   "published": "2026-11-02T15:06:00+00:00",
+   "summary": "After Arsenal moved three points clear at the top of the Premier League with a 1-0 win at Liverpool on Super Sunday, Sky Sports pundit Paul Merson says the Gunners' victory show...",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-arsenal_7395038.jpg?20261102154642",
+   "image_fallback": null
+  },
+  {
+   "title": "Forest hierarchy welcome Glasner's strong words after Brentford loss",
+   "link": "https://www.skysports.com/football/news/12040/13607133/oliver-glasner-nottingham-forest-hierarchy-welcome-strong-reaction-from-head-coach-after-brentford-defeat",
+   "source": "Sky Sports",
+   "published": "2026-11-02T14:45:00+00:00",
+   "summary": "Oliver Glasner’s strong words about his team have been welcomed by many in the Nottingham Forest hierarchy, Sky Sports News understands.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-oliver-glasner-nottingham-forest_7394978.jpg?20261102144336",
+   "image_fallback": null
+  },
+  {
+   "title": "To dive or not to dive? Football's big dilemma",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-02T14:06:47+00:00",
+   "summary": "Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he hav...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"
+  },
+  {
+   "title": "Euro latest: Gordon thriving under different pressure at Barca but says best yet to come",
+   "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+   "source": "Sky Sports",
+   "published": "2026-11-02T13:45:00+00:00",
+   "summary": "",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-anthony-gordon-barcelona_7373590.jpg?20261010194326",
+   "image_fallback": null
+  },
+  {
+   "title": "Hellberg unsure of 'brilliant' Lankshear's England chances",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-02T13:36:46+00:00",
+   "summary": "Head coach Kim Hellberg hails Will Lankshear a \"brilliant lad\" as the goals keep coming, raising questions of a possible England call-up.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5a80/live/23487470-d6bd-11f1-aacc-5b5f23abff4b.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a80/live/23487470-d6bd-11f1-aacc-5b5f23abff4b.jpg"
+  },
+  {
+   "title": "Trailing 8-0 & down to six players - abandoned game labelled a 'farce'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvj6j3k6yjppo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-02T13:32:20+00:00",
+   "summary": "A non-league game abandoned after one team was reduced to six players while trailing 8-0 is labelled \"a complete farce\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/bd5c/live/03c10590-d6cc-11f1-ac20-7783925c811f.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd5c/live/03c10590-d6cc-11f1-ac20-7783925c811f.jpg"
+  },
+  {
+   "title": "Bottom club Sunderland to stick with manager Le Bris",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-02T12:04:09+00:00",
+   "summary": "Sunderland manager Regis le Bris is set to be given more time to turn things around despite his side's poor start to the Premier League season.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/93de/live/1def3f10-d6b1-11f1-b5fb-3b1e7f14caa9.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/1def3f10-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"
+  },
+  {
+   "title": "Villa drop legal action threat against Carragher",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-02T11:49:05+00:00",
+   "summary": "Aston Villa will not move forward with any legal action towards Jamie Carragher.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b785/live/99523b00-d6af-11f1-ac90-f7afd947062e.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b785/live/99523b00-d6af-11f1-ac90-f7afd947062e.jpg"
+  },
+  {
+   "title": "Every goal from the Women's Super League - matchweek eight",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6rmy008xmzxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-02T11:42:40+00:00",
+   "summary": "Watch every goal from across the WSL in match week eight, from Chelsea's thrashing to Arsenal's late equaliser, in an eventful weekend of action.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7dde/live/cced5870-d63a-11f1-a701-fddedf244c16.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dde/live/cced5870-d63a-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "title": "Hibs toast win over Hearts - but will they kick on before cup final?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-02T11:39:41+00:00",
+   "summary": "Hibernian buried their Hampden hoodoo against city rivals Heart of Midlothian on Sunday, but will they build on their Premier Sports Cup semi-final triumph?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/65ab/live/53172fe0-d6b1-11f1-b5fb-3b1e7f14caa9.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ab/live/53172fe0-d6b1-11f1-b5fb-3b1e7f14caa9.jpg"
+  },
+  {
+   "title": "Merse: Man Utd will be in relegation zone in a month",
+   "link": "https://www.skysports.com/football/news/12040/13607031/man-utd-will-be-in-premier-league-relegation-zone-in-december-says-paul-merson-as-michael-carricks-side-hit-by-poor-recruitment",
+   "source": "Sky Sports",
+   "published": "2026-11-02T11:20:00+00:00",
+   "summary": "Paul Merson is back with his latest Sky Sports column with a damning condemnation of Manchester United's recent form and a grim prediction for their upcoming prospects.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-michael-carrick_7394780.jpg?20261102115507",
+   "image_fallback": null
+  },
+  {
+   "title": "No Grealish, no problem - the rise of Everton's youngsters",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "published": "2026-11-02T07:19:35+00:00",
    "summary": "BBC Sport examines the growing influence of Everton's youngsters on their chances of success this season.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/bb4d/live/e7135150-d46e-11f1-9dda-1ba6fcc7d159.jpg",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4d/live/e7135150-d46e-11f1-9dda-1ba6fcc7d159.jpg"
-  },
-  {
-   "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-02T00:00:21+00:00",
-   "summary": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0f15/live/59dd6000-d63f-11f1-93e1-3b657b665bcf.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f15/live/59dd6000-d63f-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-02T00:00:03+00:00",
-   "summary": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whe...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "title": "Man Utd eye Barcelona's Balde - Monday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-01T23:00:21+00:00",
-   "summary": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and Nico Schlotterbeck, Real Madrid eye Bart Verbruggen, plus m...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/97eb/live/0cb45b70-d645-11f1-be49-c7d51bdcf05a.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/0cb45b70-d645-11f1-be49-c7d51bdcf05a.png"
-  },
-  {
-   "title": "Defensive 'masterclass' and elite Rice - how Arsenal ended Anfield torment",
-   "link": "https://www.skysports.com/football/news/12040/13606815/arsenals-defensive-masterclass-praised-in-liverpool-win-as-jamie-carragher-salutes-world-class-declan-rice",
-   "source": "Sky Sports",
-   "published": "2026-11-01T23:00:00+00:00",
-   "summary": "Not since 2012 - when current boss Mikel Arteta was commanding Arsenal's midfield on the pitch - had the Gunners won on Liverpool’s patch. That curse has finally been broken.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-arsenal_7394132.jpg?20261101231038",
-   "image_fallback": null
   },
   {
    "title": "I'll tell my players to dive in future - Iraola",
@@ -1770,33 +1998,6 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00f2/live/07c743d0-d685-11f1-946d-dfb48af589c2.jpg"
   },
   {
-   "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-01T20:16:46+00:00",
-   "summary": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier Le...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3b4a/live/22768ba0-d653-11f1-bea1-17a011bac0d7.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4a/live/22768ba0-d653-11f1-bea1-17a011bac0d7.jpg"
-  },
-  {
-   "title": "Boy, 14, hands himself in to police over Bradley Lowery video",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-01T20:15:52+00:00",
-   "summary": "A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"
-  },
-  {
-   "title": "Isak's non-penalty and Madueke-Mac Allister 'headbutt' - were big calls right?",
-   "link": "https://www.skysports.com/football/news/12040/13606793/liverpool-0-1-arsenal-alexander-isak-jurrien-timber-shirt-pull-and-noni-madueke-alexis-mac-allister-headbutt-show-good-and-bad-sides-of-var",
-   "source": "Sky Sports",
-   "published": "2026-11-01T20:05:00+00:00",
-   "summary": "There were two big flashpoints during Arsenal's 1-0 win over Liverpool, demonstrating the good and bad sides of VAR.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-alexis-mac-allister_7394192.jpg?20261101200054",
-   "image_fallback": null
-  },
-  {
    "title": "Arsenal move clear at the top with a rare win at Liverpool",
    "link": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
@@ -1804,51 +2005,6 @@
    "summary": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustr...",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "title": "Giant curiosity Hibs finally liberated from Hearts sucker punch",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-01T18:45:49+00:00",
-   "summary": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"
-  },
-  {
-   "title": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-01T18:38:45+00:00",
-   "summary": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6ebf/live/c61a5450-d62e-11f1-b441-2b33b063138f.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/c61a5450-d62e-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "title": "Are Celtic club in regression amid run of six defeats in 10?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-01T17:34:12+00:00",
-   "summary": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"
-  },
-  {
-   "title": "Defeat for London City - but is Europe a real possibility?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-01T15:49:47+00:00",
-   "summary": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "title": "Papers: Ten Hag warns Man Utd could be relegated",
-   "link": "https://www.skysports.com/football/news/12040/13606869/erik-ten-hag-warns-manchester-united-could-be-relegated-after-slipping-to-17th-in-the-premier-league-paper-talk",
-   "source": "Sky Sports",
-   "published": "2026-10-31T22:00:00+00:00",
-   "summary": "The top stories and transfer rumours from Monday's newspapers...",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "image_fallback": null
   }
  ]
 }
