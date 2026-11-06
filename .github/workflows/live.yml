@@ -2,7 +2,7 @@ name: Live scores
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -21,7 +21,7 @@ jobs:
       - name: Fetch live scores
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-        run: python3 gollakou_live_v2.py
+        run: python3 gollakou_live_v3.py
 
       - name: Publish on the live branch
         if: hashFiles('live.json') != ''
