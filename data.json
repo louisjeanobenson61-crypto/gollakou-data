@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07T06:58:29.265243+00:00",
+ "updated": "2026-11-07T18:48:08.981739+00:00",
  "note": null,
- "quota_remaining": 86,
- "odds_quota_remaining": 411,
+ "quota_remaining": 60,
+ "odds_quota_remaining": 403,
  "matches": [
   {
    "id": 1552216,
@@ -276,14 +276,14 @@
    "season": 2026,
    "round": "Regular Season - 10",
    "kickoff": "2026-11-07T07:30:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Leeds",
    "away": "Tottenham",
    "home_logo": "https://media.api-sports.io/football/teams/63.png",
    "away_logo": "https://media.api-sports.io/football/teams/47.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 1,
+   "score_away": 0,
    "odds": {
     "home": 2.85,
     "draw": 3.3,
@@ -309,14 +309,14 @@
    "season": 2026,
    "round": "Regular Season - 12",
    "kickoff": "2026-11-07T08:00:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Malaga",
    "away": "Racing Santander",
    "home_logo": "https://media.api-sports.io/football/teams/535.png",
    "away_logo": "https://media.api-sports.io/football/teams/4665.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 1,
+   "score_away": 2,
    "odds": {
     "home": 2.46,
     "draw": 3.46,
@@ -342,14 +342,14 @@
    "season": 2026,
    "round": "Regular Season - 11",
    "kickoff": "2026-11-07T09:00:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Cagliari",
    "away": "Frosinone",
    "home_logo": "https://media.api-sports.io/football/teams/490.png",
    "away_logo": "https://media.api-sports.io/football/teams/512.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 1,
+   "score_away": 0,
    "odds": {
     "home": 3.07,
     "draw": 3.92,
@@ -375,14 +375,14 @@
    "season": 2026,
    "round": "Regular Season - 11",
    "kickoff": "2026-11-07T09:00:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Torino",
    "away": "Lecce",
    "home_logo": "https://media.api-sports.io/football/teams/503.png",
    "away_logo": "https://media.api-sports.io/football/teams/867.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 1,
+   "score_away": 1,
    "odds": {
     "home": 1.84,
     "draw": 3.67,
@@ -408,14 +408,14 @@
    "season": 2026,
    "round": "Regular Season - 9",
    "kickoff": "2026-11-07T09:30:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Borussia Dortmund",
    "away": "SV Elversberg",
    "home_logo": "https://media.api-sports.io/football/teams/165.png",
    "away_logo": "https://media.api-sports.io/football/teams/1660.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 2,
+   "score_away": 1,
    "odds": {
     "home": 1.35,
     "draw": 5.82,
@@ -441,14 +441,14 @@
    "season": 2026,
    "round": "Regular Season - 9",
    "kickoff": "2026-11-07T09:30:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "RB Leipzig",
    "away": "FC Augsburg",
    "home_logo": "https://media.api-sports.io/football/teams/173.png",
    "away_logo": "https://media.api-sports.io/football/teams/170.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 5,
+   "score_away": 2,
    "odds": {
     "home": 1.46,
     "draw": 5.37,
@@ -474,14 +474,14 @@
    "season": 2026,
    "round": "Regular Season - 9",
    "kickoff": "2026-11-07T09:30:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "FSV Mainz 05",
    "away": "Bayern München",
    "home_logo": "https://media.api-sports.io/football/teams/164.png",
    "away_logo": "https://media.api-sports.io/football/teams/157.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 1,
+   "score_away": 2,
    "odds": {
     "home": 8.27,
     "draw": 6.55,
@@ -507,14 +507,14 @@
    "season": 2026,
    "round": "Regular Season - 9",
    "kickoff": "2026-11-07T09:30:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "SC Paderborn 07",
    "away": "Eintracht Frankfurt",
    "home_logo": "https://media.api-sports.io/football/teams/185.png",
    "away_logo": "https://media.api-sports.io/football/teams/169.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 2,
+   "score_away": 2,
    "odds": {
     "home": 3.15,
     "draw": 3.91,
@@ -540,14 +540,14 @@
    "season": 2026,
    "round": "Regular Season - 10",
    "kickoff": "2026-11-07T10:00:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Arsenal",
    "away": "Hull City",
    "home_logo": "https://media.api-sports.io/football/teams/42.png",
    "away_logo": "https://media.api-sports.io/football/teams/64.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 1,
+   "score_away": 0,
    "odds": {
     "home": 1.14,
     "draw": 8.64,
@@ -573,14 +573,14 @@
    "season": 2026,
    "round": "Regular Season - 10",
    "kickoff": "2026-11-07T10:00:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Fulham",
    "away": "Newcastle",
    "home_logo": "https://media.api-sports.io/football/teams/36.png",
    "away_logo": "https://media.api-sports.io/football/teams/34.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 1,
+   "score_away": 1,
    "odds": {
     "home": 2.06,
     "draw": 3.65,
@@ -606,14 +606,14 @@
    "season": 2026,
    "round": "Regular Season - 12",
    "kickoff": "2026-11-07T10:15:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Espanyol",
    "away": "Deportivo La Coruna",
    "home_logo": "https://media.api-sports.io/football/teams/540.png",
    "away_logo": "https://media.api-sports.io/football/teams/544.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 0,
+   "score_away": 0,
    "odds": {
     "home": 2.51,
     "draw": 3.25,
@@ -639,14 +639,14 @@
    "season": 2026,
    "round": "Regular Season - 12",
    "kickoff": "2026-11-07T10:30:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "FT",
+   "elapsed": 90,
    "home": "Fortuna Sittard",
    "away": "Telstar",
    "home_logo": "https://media.api-sports.io/football/teams/205.png",
    "away_logo": "https://media.api-sports.io/football/teams/427.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 2,
+   "score_away": 2,
    "odds": {
     "home": 2.12,
     "draw": 3.71,
@@ -672,7 +672,7 @@
    "season": 2026,
    "round": "Regular Season - 11",
    "kickoff": "2026-11-07T10:30:00-05:00",
-   "status": "NS",
+   "status": "PST",
    "elapsed": null,
    "home": "Nacional",
    "away": "Academico Viseu",
@@ -705,14 +705,14 @@
    "season": 2026,
    "round": "Regular Season - 11",
    "kickoff": "2026-11-07T12:00:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "2H",
+   "elapsed": 86,
    "home": "Parma",
    "away": "Bologna",
    "home_logo": "https://media.api-sports.io/football/teams/523.png",
    "away_logo": "https://media.api-sports.io/football/teams/500.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 1,
+   "score_away": 2,
    "odds": {
     "home": 5.21,
     "draw": 3.79,
@@ -738,14 +738,14 @@
    "season": 2026,
    "round": "Regular Season - 10",
    "kickoff": "2026-11-07T12:30:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "2H",
+   "elapsed": 58,
    "home": "Nottingham Forest",
    "away": "Manchester City",
    "home_logo": "https://media.api-sports.io/football/teams/65.png",
    "away_logo": "https://media.api-sports.io/football/teams/50.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 2,
+   "score_away": 1,
    "odds": {
     "home": 4.71,
     "draw": 3.93,
@@ -771,14 +771,14 @@
    "season": 2026,
    "round": "Regular Season - 12",
    "kickoff": "2026-11-07T12:30:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "2H",
+   "elapsed": 58,
    "home": "Osasuna",
    "away": "Athletic Club",
    "home_logo": "https://media.api-sports.io/football/teams/727.png",
    "away_logo": "https://media.api-sports.io/football/teams/531.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 0,
+   "score_away": 0,
    "odds": {
     "home": 3.9,
     "draw": 3.43,
@@ -804,14 +804,14 @@
    "season": 2026,
    "round": "Regular Season - 9",
    "kickoff": "2026-11-07T12:30:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "2H",
+   "elapsed": 59,
    "home": "VfB Stuttgart",
    "away": "Werder Bremen",
    "home_logo": "https://media.api-sports.io/football/teams/172.png",
    "away_logo": "https://media.api-sports.io/football/teams/162.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 1,
+   "score_away": 0,
    "odds": {
     "home": 1.86,
     "draw": 4.23,
@@ -837,14 +837,14 @@
    "season": 2026,
    "round": "Regular Season - 12",
    "kickoff": "2026-11-07T12:45:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "HT",
+   "elapsed": 45,
    "home": "ADO Den Haag",
    "away": "Sparta Rotterdam",
    "home_logo": "https://media.api-sports.io/football/teams/198.png",
    "away_logo": "https://media.api-sports.io/football/teams/426.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 1,
+   "score_away": 0,
    "odds": {
     "home": 2.56,
     "draw": 3.71,
@@ -870,14 +870,14 @@
    "season": 2026,
    "round": "Regular Season - 10",
    "kickoff": "2026-11-07T13:00:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "1H",
+   "elapsed": 45,
    "home": "Auxerre",
    "away": "Paris FC",
    "home_logo": "https://media.api-sports.io/football/teams/108.png",
    "away_logo": "https://media.api-sports.io/football/teams/114.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 0,
+   "score_away": 0,
    "odds": {
     "home": 4.71,
     "draw": 4.05,
@@ -903,14 +903,14 @@
    "season": 2026,
    "round": "Regular Season - 11",
    "kickoff": "2026-11-07T13:00:00-05:00",
-   "status": "NS",
-   "elapsed": null,
+   "status": "1H",
+   "elapsed": 45,
    "home": "Alverca",
    "away": "Casa Pia",
    "home_logo": "https://media.api-sports.io/football/teams/4724.png",
    "away_logo": "https://media.api-sports.io/football/teams/4716.png",
-   "score_home": null,
-   "score_away": null,
+   "score_home": 0,
+   "score_away": 1,
    "odds": {
     "home": 1.87,
     "draw": 3.48,
@@ -936,12 +936,21 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.3,
-    "draw": 6.24,
-    "away": 9.5,
+    "home": 1.33,
+    "draw": 6.0,
+    "away": 8.98,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "76.3%",
+    "strength_away": "23.7%",
+    "home": "50%",
+    "draw": "50%",
+    "away": "0%",
+    "advice": "Combo Winner : AS Roma and +1.5 goals",
+    "winner": "AS Roma",
+    "comment": null
+   }
   },
   {
    "id": 1552218,
@@ -960,12 +969,21 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.84,
-    "draw": 3.71,
-    "away": 2.42,
+    "home": 2.9,
+    "draw": 3.75,
+    "away": 2.39,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "29.7%",
+    "strength_away": "70.3%",
+    "home": "0%",
+    "draw": "50%",
+    "away": "50%",
+    "advice": "Combo Double chance : draw or GO Ahead Eagles and +1.5 goals",
+    "winner": "GO Ahead Eagles",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1570451,
@@ -984,12 +1002,21 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 11.52,
-    "draw": 6.47,
+    "home": 12.01,
+    "draw": 6.62,
     "away": 1.25,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "28.7%",
+    "strength_away": "71.3%",
+    "home": "0%",
+    "draw": "50%",
+    "away": "50%",
+    "advice": "Winner : Real Madrid",
+    "winner": "Real Madrid",
+    "comment": null
+   }
   },
   {
    "id": 1552815,
@@ -1008,12 +1035,21 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.14,
-    "draw": 9.35,
-    "away": 18.51,
+    "home": 1.15,
+    "draw": 9.24,
+    "away": 17.9,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "77.2%",
+    "strength_away": "22.8%",
+    "home": "50%",
+    "draw": "50%",
+    "away": "0%",
+    "advice": "Winner : Paris Saint Germain",
+    "winner": "Paris Saint Germain",
+    "comment": null
+   }
   },
   {
    "id": 1575543,
@@ -1032,7 +1068,16 @@
    "score_home": null,
    "score_away": null,
    "odds": null,
-   "prediction": null
+   "prediction": {
+    "strength_home": "61.3%",
+    "strength_away": "38.7%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Double chance : Sporting CP or draw",
+    "winner": "Sporting CP",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1490600,
@@ -1052,11 +1097,20 @@
    "score_away": null,
    "odds": {
     "home": 1.38,
-    "draw": 5.76,
-    "away": 6.69,
+    "draw": 5.81,
+    "away": 6.87,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "53.7%",
+    "strength_away": "46.3%",
+    "home": "45%",
+    "draw": "45%",
+    "away": "10%",
+    "advice": "Combo Double chance : Inter Miami or draw and +1.5 goals",
+    "winner": "Inter Miami",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1490601,
@@ -1075,12 +1129,21 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.64,
-    "draw": 3.75,
-    "away": 2.52,
+    "home": 2.68,
+    "draw": 3.7,
+    "away": 2.55,
     "bookmaker": "Pinnacle"
    },
-   "prediction": null
+   "prediction": {
+    "strength_home": "41.5%",
+    "strength_away": "58.8%",
+    "home": "10%",
+    "draw": "45%",
+    "away": "45%",
+    "advice": "Double chance : draw or Nashville SC",
+    "winner": "Nashville SC",
+    "comment": "Win or draw"
+   }
   },
   {
    "id": 1490602,
@@ -1099,9 +1162,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.45,
-    "draw": 5.11,
-    "away": 6.16,
+    "home": 1.43,
+    "draw": 5.29,
+    "away": 6.51,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1124,8 +1187,8 @@
    "score_away": null,
    "odds": {
     "home": 1.85,
-    "draw": 4.34,
-    "away": 3.63,
+    "draw": 4.41,
+    "away": 3.66,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1147,9 +1210,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 4.49,
-    "draw": 4.27,
-    "away": 1.7,
+    "home": 4.7,
+    "draw": 4.26,
+    "away": 1.69,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1171,9 +1234,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.97,
-    "draw": 4.09,
-    "away": 3.44,
+    "home": 1.82,
+    "draw": 4.26,
+    "away": 3.93,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1195,8 +1258,8 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.01,
-    "draw": 4.12,
+    "home": 2.03,
+    "draw": 4.14,
     "away": 3.31,
     "bookmaker": "Pinnacle"
    },
@@ -1219,9 +1282,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 3.15,
-    "draw": 3.33,
-    "away": 2.36,
+    "home": 3.3,
+    "draw": 3.39,
+    "away": 2.28,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1243,9 +1306,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.01,
-    "draw": 3.76,
-    "away": 3.57,
+    "home": 1.99,
+    "draw": 3.82,
+    "away": 3.66,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1287,8 +1350,8 @@
    "score_away": null,
    "odds": {
     "home": 1.96,
-    "draw": 3.87,
-    "away": 3.63,
+    "draw": 3.81,
+    "away": 3.75,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1310,9 +1373,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 4.16,
-    "draw": 4.3,
-    "away": 1.75,
+    "home": 4.25,
+    "draw": 4.49,
+    "away": 1.72,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1334,9 +1397,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.57,
-    "draw": 5.02,
-    "away": 4.77,
+    "home": 1.6,
+    "draw": 4.95,
+    "away": 4.7,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1358,9 +1421,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.7,
-    "draw": 4.4,
-    "away": 4.35,
+    "home": 1.67,
+    "draw": 4.52,
+    "away": 4.58,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1382,9 +1445,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.62,
-    "draw": 3.57,
-    "away": 2.63,
+    "home": 2.66,
+    "draw": 3.61,
+    "away": 2.61,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1406,9 +1469,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 4.23,
-    "draw": 4.39,
-    "away": 1.7,
+    "home": 4.27,
+    "draw": 4.42,
+    "away": 1.72,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1430,9 +1493,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.37,
-    "draw": 3.61,
-    "away": 3.02,
+    "home": 2.36,
+    "draw": 3.66,
+    "away": 3.01,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1454,9 +1517,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 3.46,
+    "home": 3.47,
     "draw": 3.91,
-    "away": 2.06,
+    "away": 2.05,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1478,9 +1541,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.26,
-    "draw": 3.88,
-    "away": 2.88,
+    "home": 2.29,
+    "draw": 3.91,
+    "away": 2.91,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1502,9 +1565,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 4.79,
-    "draw": 3.55,
-    "away": 1.85,
+    "home": 4.8,
+    "draw": 3.56,
+    "away": 1.84,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1526,9 +1589,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 3.32,
-    "draw": 3.89,
-    "away": 2.11,
+    "home": 3.34,
+    "draw": 3.85,
+    "away": 2.12,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1550,9 +1613,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.2,
-    "draw": 3.61,
-    "away": 3.34,
+    "home": 2.23,
+    "draw": 3.6,
+    "away": 3.28,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1574,9 +1637,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.92,
-    "draw": 3.94,
-    "away": 3.89,
+    "home": 1.89,
+    "draw": 3.96,
+    "away": 3.97,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1598,8 +1661,8 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 5.82,
-    "draw": 4.49,
+    "home": 5.83,
+    "draw": 4.51,
     "away": 1.56,
     "bookmaker": "Pinnacle"
    },
@@ -1623,8 +1686,8 @@
    "score_away": null,
    "odds": {
     "home": 4.09,
-    "draw": 3.74,
-    "away": 1.93,
+    "draw": 3.75,
+    "away": 1.92,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1646,9 +1709,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 3.73,
-    "draw": 3.73,
-    "away": 2.02,
+    "home": 3.8,
+    "draw": 3.76,
+    "away": 1.99,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1670,9 +1733,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 3.93,
-    "draw": 4.14,
-    "away": 1.86,
+    "home": 3.94,
+    "draw": 4.12,
+    "away": 1.87,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1694,9 +1757,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.72,
-    "draw": 4.24,
-    "away": 4.59,
+    "home": 1.79,
+    "draw": 4.14,
+    "away": 4.32,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1718,9 +1781,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.08,
+    "home": 2.11,
     "draw": 3.57,
-    "away": 3.48,
+    "away": 3.53,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1742,9 +1805,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.26,
-    "draw": 3.06,
-    "away": 3.59,
+    "home": 2.3,
+    "draw": 3.08,
+    "away": 3.62,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1766,9 +1829,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 6.25,
-    "draw": 5.87,
-    "away": 1.38,
+    "home": 6.42,
+    "draw": 6.03,
+    "away": 1.39,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1790,9 +1853,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.52,
-    "draw": 4.73,
-    "away": 5.46,
+    "home": 1.54,
+    "draw": 4.72,
+    "away": 5.53,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1838,9 +1901,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.77,
+    "home": 2.81,
     "draw": 3.58,
-    "away": 2.57,
+    "away": 2.53,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1886,8 +1949,8 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 4.58,
-    "draw": 4.44,
+    "home": 4.59,
+    "draw": 4.43,
     "away": 1.69,
     "bookmaker": "Pinnacle"
    },
@@ -1910,9 +1973,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 2.16,
-    "draw": 3.85,
-    "away": 3.24,
+    "home": 2.14,
+    "draw": 3.88,
+    "away": 3.25,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1958,9 +2021,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.92,
-    "draw": 4.17,
-    "away": 3.68,
+    "home": 1.93,
+    "draw": 4.16,
+    "away": 3.67,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -1982,9 +2045,9 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 1.91,
-    "draw": 3.8,
-    "away": 4.08,
+    "home": 1.88,
+    "draw": 3.81,
+    "away": 4.18,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -2007,8 +2070,8 @@
    "score_away": null,
    "odds": {
     "home": 1.44,
-    "draw": 4.78,
-    "away": 7.65,
+    "draw": 4.75,
+    "away": 7.62,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -2030,8 +2093,8 @@
    "score_home": null,
    "score_away": null,
    "odds": {
-    "home": 5.27,
-    "draw": 4.1,
+    "home": 5.39,
+    "draw": 4.21,
     "away": 1.62,
     "bookmaker": "Pinnacle"
    },
@@ -2055,8 +2118,8 @@
    "score_away": null,
    "odds": {
     "home": 1.63,
-    "draw": 4.48,
-    "away": 5.03,
+    "draw": 4.45,
+    "away": 5.06,
     "bookmaker": "Pinnacle"
    },
    "prediction": null
@@ -2077,7 +2140,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/413.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.44,
+    "draw": 3.86,
+    "away": 2.64,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": null
   },
   {
@@ -2096,7 +2164,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/496.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 3.48,
+    "draw": 3.57,
+    "away": 2.15,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": null
   },
   {
@@ -2115,7 +2188,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/81.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 2.34,
+    "draw": 3.96,
+    "away": 2.85,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": null
   },
   {
@@ -2134,7 +2212,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/529.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 3.99,
+    "draw": 4.44,
+    "away": 1.79,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": null
   },
   {
@@ -2153,7 +2236,12 @@
    "away_logo": "https://media.api-sports.io/football/teams/211.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 11.18,
+    "draw": 6.98,
+    "away": 1.21,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": null
   },
   {
@@ -2172,386 +2260,329 @@
    "away_logo": "https://media.api-sports.io/football/teams/217.png",
    "score_home": null,
    "score_away": null,
-   "odds": null,
+   "odds": {
+    "home": 5.98,
+    "draw": 4.26,
+    "away": 1.53,
+    "bookmaker": "Pinnacle"
+   },
    "prediction": null
   }
  ],
  "standings": {},
  "picks": [
   {
-   "id": 1557457,
-   "league": "Premier League",
-   "league_id": 39,
-   "kickoff": "2026-11-07T10:00:00-05:00",
-   "home": "Arsenal",
-   "away": "Hull City",
-   "home_logo": "https://media.api-sports.io/football/teams/42.png",
-   "away_logo": "https://media.api-sports.io/football/teams/64.png",
+   "id": 1552815,
+   "league": "Ligue 1",
+   "league_id": 61,
+   "kickoff": "2026-11-07T15:05:00-05:00",
+   "home": "Paris Saint Germain",
+   "away": "Estac Troyes",
+   "home_logo": "https://media.api-sports.io/football/teams/85.png",
+   "away_logo": "https://media.api-sports.io/football/teams/110.png",
    "market": "1X",
-   "label": "Arsenal oswa nul",
-   "prob": 90,
+   "label": "Paris Saint Germain oswa nul",
+   "prob": 95,
    "gap": 0,
    "risk": "Ba",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 1.14,
-    "draw": 8.64,
-    "away": 21.14,
+    "home": 1.15,
+    "draw": 9.24,
+    "away": 17.9,
     "bookmaker": "Pinnacle"
    }
   },
   {
-   "id": 1575212,
-   "league": "Bundesliga",
-   "league_id": 78,
-   "kickoff": "2026-11-07T09:30:00-05:00",
-   "home": "Borussia Dortmund",
-   "away": "SV Elversberg",
-   "home_logo": "https://media.api-sports.io/football/teams/165.png",
-   "away_logo": "https://media.api-sports.io/football/teams/1660.png",
-   "market": "1X",
-   "label": "Borussia Dortmund oswa nul",
-   "prob": 88,
-   "gap": 0,
-   "risk": "Ba",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 1.35,
-    "draw": 5.82,
-    "away": 8.22,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1575217,
-   "league": "Bundesliga",
-   "league_id": 78,
-   "kickoff": "2026-11-07T09:30:00-05:00",
-   "home": "FSV Mainz 05",
-   "away": "Bayern München",
-   "home_logo": "https://media.api-sports.io/football/teams/164.png",
-   "away_logo": "https://media.api-sports.io/football/teams/157.png",
-   "market": "X2",
-   "label": "Nul oswa Bayern München",
-   "prob": 88,
-   "gap": 0,
-   "risk": "Ba",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 8.27,
-    "draw": 6.55,
-    "away": 1.3,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1575213,
-   "league": "Bundesliga",
-   "league_id": 78,
-   "kickoff": "2026-11-07T09:30:00-05:00",
-   "home": "RB Leipzig",
-   "away": "FC Augsburg",
-   "home_logo": "https://media.api-sports.io/football/teams/173.png",
-   "away_logo": "https://media.api-sports.io/football/teams/170.png",
-   "market": "1X",
-   "label": "RB Leipzig oswa nul",
-   "prob": 84,
-   "gap": 0,
-   "risk": "Mwayen",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 1.46,
-    "draw": 5.37,
-    "away": 6.07,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1550194,
-   "league": "Serie A",
-   "league_id": 135,
-   "kickoff": "2026-11-07T12:00:00-05:00",
-   "home": "Parma",
-   "away": "Bologna",
-   "home_logo": "https://media.api-sports.io/football/teams/523.png",
-   "away_logo": "https://media.api-sports.io/football/teams/500.png",
-   "market": "X2",
-   "label": "Nul oswa Bologna",
-   "prob": 81,
-   "gap": 0,
-   "risk": "Mwayen",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 5.21,
-    "draw": 3.79,
-    "away": 1.73,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1550195,
-   "league": "Serie A",
-   "league_id": 135,
-   "kickoff": "2026-11-07T09:00:00-05:00",
-   "home": "Torino",
-   "away": "Lecce",
-   "home_logo": "https://media.api-sports.io/football/teams/503.png",
-   "away_logo": "https://media.api-sports.io/football/teams/867.png",
-   "market": "1X",
-   "label": "Torino oswa nul",
-   "prob": 79,
-   "gap": 0,
-   "risk": "Mwayen",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 1.84,
-    "draw": 3.67,
-    "away": 4.61,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1557465,
-   "league": "Premier League",
-   "league_id": 39,
-   "kickoff": "2026-11-07T12:30:00-05:00",
-   "home": "Nottingham Forest",
-   "away": "Manchester City",
-   "home_logo": "https://media.api-sports.io/football/teams/65.png",
-   "away_logo": "https://media.api-sports.io/football/teams/50.png",
-   "market": "X2",
-   "label": "Nul oswa Manchester City",
-   "prob": 79,
-   "gap": 0,
-   "risk": "Mwayen",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 4.71,
-    "draw": 3.93,
-    "away": 1.76,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1570448,
+   "id": 1570451,
    "league": "La Liga",
    "league_id": 140,
-   "kickoff": "2026-11-07T12:30:00-05:00",
-   "home": "Osasuna",
-   "away": "Athletic Club",
-   "home_logo": "https://media.api-sports.io/football/teams/727.png",
-   "away_logo": "https://media.api-sports.io/football/teams/531.png",
+   "kickoff": "2026-11-07T15:00:00-05:00",
+   "home": "Valencia",
+   "away": "Real Madrid",
+   "home_logo": "https://media.api-sports.io/football/teams/532.png",
+   "away_logo": "https://media.api-sports.io/football/teams/541.png",
    "market": "X2",
-   "label": "Nul oswa Athletic Club",
+   "label": "Nul oswa Real Madrid",
+   "prob": 92,
+   "gap": 0,
+   "risk": "Ba",
+   "source": "API + kòt mache a",
+   "odds": {
+    "home": 12.01,
+    "draw": 6.62,
+    "away": 1.25,
+    "bookmaker": "Pinnacle"
+   }
+  },
+  {
+   "id": 1550187,
+   "league": "Serie A",
+   "league_id": 135,
+   "kickoff": "2026-11-07T14:45:00-05:00",
+   "home": "AS Roma",
+   "away": "Sassuolo",
+   "home_logo": "https://media.api-sports.io/football/teams/497.png",
+   "away_logo": "https://media.api-sports.io/football/teams/488.png",
+   "market": "1X",
+   "label": "AS Roma oswa nul",
+   "prob": 89,
+   "gap": 0,
+   "risk": "Ba",
+   "source": "API + kòt mache a",
+   "odds": {
+    "home": 1.33,
+    "draw": 6.0,
+    "away": 8.98,
+    "bookmaker": "Pinnacle"
+   }
+  },
+  {
+   "id": 1490600,
+   "league": "MLS",
+   "league_id": 253,
+   "kickoff": "2026-11-07T16:00:00-05:00",
+   "home": "Inter Miami",
+   "away": "Charlotte",
+   "home_logo": "https://media.api-sports.io/football/teams/9568.png",
+   "away_logo": "https://media.api-sports.io/football/teams/18310.png",
+   "market": "1X",
+   "label": "Inter Miami oswa nul",
+   "prob": 86,
+   "gap": 0,
+   "risk": "Ba",
+   "source": "API + kòt mache a",
+   "odds": {
+    "home": 1.38,
+    "draw": 5.81,
+    "away": 6.87,
+    "bookmaker": "Pinnacle"
+   }
+  },
+  {
+   "id": 1575543,
+   "league": "Liga Portugal",
+   "league_id": 94,
+   "kickoff": "2026-11-07T15:30:00-05:00",
+   "home": "Sporting CP",
+   "away": "Moreirense",
+   "home_logo": "https://media.api-sports.io/football/teams/228.png",
+   "away_logo": "https://media.api-sports.io/football/teams/215.png",
+   "market": "1X",
+   "label": "Sporting CP oswa nul",
    "prob": 75,
    "gap": 0,
    "risk": "Mwayen",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 3.9,
-    "draw": 3.43,
-    "away": 2.07,
-    "bookmaker": "Pinnacle"
-   }
+   "source": "API sèlman",
+   "odds": null
   },
   {
-   "id": 1557461,
-   "league": "Premier League",
-   "league_id": 39,
-   "kickoff": "2026-11-07T10:00:00-05:00",
-   "home": "Fulham",
-   "away": "Newcastle",
-   "home_logo": "https://media.api-sports.io/football/teams/36.png",
-   "away_logo": "https://media.api-sports.io/football/teams/34.png",
-   "market": "1X",
-   "label": "Fulham oswa nul",
-   "prob": 74,
-   "gap": 0,
-   "risk": "Mwayen",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 2.06,
-    "draw": 3.65,
-    "away": 3.67,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1552217,
+   "id": 1552218,
    "league": "Eredivisie",
    "league_id": 88,
-   "kickoff": "2026-11-07T10:30:00-05:00",
-   "home": "Fortuna Sittard",
-   "away": "Telstar",
-   "home_logo": "https://media.api-sports.io/football/teams/205.png",
-   "away_logo": "https://media.api-sports.io/football/teams/427.png",
-   "market": "1X",
-   "label": "Fortuna Sittard oswa nul",
-   "prob": 72,
+   "kickoff": "2026-11-07T15:00:00-05:00",
+   "home": "Excelsior",
+   "away": "GO Ahead Eagles",
+   "home_logo": "https://media.api-sports.io/football/teams/196.png",
+   "away_logo": "https://media.api-sports.io/football/teams/410.png",
+   "market": "X2",
+   "label": "Nul oswa GO Ahead Eagles",
+   "prob": 67,
    "gap": 0,
-   "risk": "Mwayen",
+   "risk": "Wo",
    "source": "API + kòt mache a",
    "odds": {
-    "home": 2.12,
-    "draw": 3.71,
-    "away": 3.45,
+    "home": 2.9,
+    "draw": 3.75,
+    "away": 2.39,
+    "bookmaker": "Pinnacle"
+   }
+  },
+  {
+   "id": 1490601,
+   "league": "MLS",
+   "league_id": 253,
+   "kickoff": "2026-11-07T16:00:00-05:00",
+   "home": "FC Cincinnati",
+   "away": "Nashville SC",
+   "home_logo": "https://media.api-sports.io/football/teams/2242.png",
+   "away_logo": "https://media.api-sports.io/football/teams/9569.png",
+   "market": "X2",
+   "label": "Nul oswa Nashville SC",
+   "prob": 64,
+   "gap": 0,
+   "risk": "Wo",
+   "source": "API + kòt mache a",
+   "odds": {
+    "home": 2.68,
+    "draw": 3.7,
+    "away": 2.55,
     "bookmaker": "Pinnacle"
    }
   }
  ],
  "news": [
   {
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o?at_medium=RSS&at_campaign=rss",
+   "title": "Shaw hat-trick gives five-star Man City dominant win over West Ham",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-07T06:53:35+00:00",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+   "published": "2026-11-07T18:35:43+00:00",
+   "summary": "Khadija Shaw's first Women's Super League hat-trick of the season helps Manchester City to a resounding 5-0 win over West Ham, as the reigning champions return to the top of the...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/00cb/live/8640e3f0-dac8-11f1-93e1-3b657b665bcf.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00cb/live/8640e3f0-dac8-11f1-93e1-3b657b665bcf.jpg"
   },
   {
-   "title": "Non-league's greatest giant-killers eye another scalp",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss",
+   "title": "Argentina set to go to Cas after Fifa rejects appeals",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-07T06:45:56+00:00",
-   "summary": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0e68/live/669c60c0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e68/live/669c60c0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg"
+   "published": "2026-11-07T18:33:18+00:00",
+   "summary": "The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg"
   },
   {
-   "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+   "title": "Seventh-tier Guiseley stun Sutton with stoppage-time penalty",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-06T23:53:06+00:00",
-   "summary": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8417/live/c55f7ff0-da38-11f1-bde4-c13870167801.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8417/live/c55f7ff0-da38-11f1-bde4-c13870167801.jpg"
+   "published": "2026-11-07T18:32:30+00:00",
+   "summary": "Jordan Thewlis scores a stoppage-time penalty to give seventh-tier Guiseley a dramatic 1-0 win over Sutton United in their FA Cup first round tie at Nethermoor Park.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7fce/live/948e65e0-dad7-11f1-a701-fddedf244c16.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fce/live/948e65e0-dad7-11f1-a701-fddedf244c16.jpg"
   },
   {
-   "title": "Lampard feels hair pull should have led to Coventry penalty",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+   "title": "National League Carlisle upset League Two leaders Salford",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-06T23:22:21+00:00",
-   "summary": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8f45/live/bd3a26b0-da36-11f1-bde4-c13870167801.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f45/live/bd3a26b0-da36-11f1-bde4-c13870167801.jpg"
+   "published": "2026-11-07T18:29:20+00:00",
+   "summary": "National League side Carlisle United defeat League Two leaders Salford City 1-0 to progress into the second round of the FA Cup.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/26ab/live/9a9679e0-dad8-11f1-93e1-3b657b665bcf.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ab/live/9a9679e0-dad8-11f1-93e1-3b657b665bcf.jpg"
   },
   {
-   "title": "Lampard: VAR didn't do its job",
-   "link": "https://www.skysports.com/football/news/12040/13609067/everton-3-1-coventry-frank-lampard-says-var-didnt-do-its-job-after-three-incidents-went-against-sky-blues-in-premier-league-defeat",
+   "title": "Title race hots up before Chelsea v Man City showdown",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-07T18:27:46+00:00",
+   "summary": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5d30/live/e8938990-dacd-11f1-bda8-29fb69dbc026.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/e8938990-dacd-11f1-bda8-29fb69dbc026.jpg"
+  },
+  {
+   "title": "Spurs to lodge complaint over Bogle tackle on Tel",
+   "link": "https://www.skysports.com/football/news/12040/13609496/tottenham-to-submit-complaint-to-pro-ref-over-jayden-bogles-tackle-on-mathys-tel-in-leeds-win-at-elland-road",
    "source": "Sky Sports",
-   "published": "2026-11-06T23:20:00+00:00",
-   "summary": "Coventry boss Frank Lampard says VAR 'didn't do its job' in his side's defeat to Everton as three reviews controversially went against his side.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-frank-lampard-coventry_7399658.jpg?20261106231845",
+   "published": "2026-11-07T18:18:00+00:00",
+   "summary": "Tottenham will submit a formal complaint to Pro Ref following the decision not to send off Leeds United defender Jayden Bogle for his challenge on Mathys Tel in Spurs' 1-0 defea...",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mathys-tel-spurs_7399858.jpg?20261107133330",
    "image_fallback": null
   },
   {
-   "title": "Barry scores twice as Everton fight back to beat Coventry",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+   "title": "Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-06T22:30:12+00:00",
-   "summary": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg"
+   "published": "2026-11-07T18:11:12+00:00",
+   "summary": "Blackpool survive a scare at Hornchurch, needing a 118th-minute winner from Josh Bowler to secure a 2-1 comeback victory at the Hornchurch Stadium.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1349/live/3bebbbb0-dad5-11f1-a701-fddedf244c16.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1349/live/3bebbbb0-dad5-11f1-a701-fddedf244c16.jpg"
   },
   {
-   "title": "Papers: Man Utd handed boost in pursuit of Barcelona left-back Alejandro Balde",
-   "link": "https://www.skysports.com/football/news/12040/13609030/man-utd-handed-boost-in-pursuit-of-barcelona-left-back-paper-talk",
+   "title": "Spurs latest: De Zerbi to serve touchline ban",
+   "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
    "source": "Sky Sports",
-   "published": "2026-11-06T22:30:00+00:00",
-   "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "image_fallback": null
-  },
-  {
-   "title": "Barry leads Everton comeback win vs Coventry - who suffer triple VAR woe",
-   "link": "https://www.skysports.com/football/everton-vs-coventry-city/report/559537",
-   "source": "Sky Sports",
-   "published": "2026-11-06T22:00:00+00:00",
-   "summary": "Thierno Barry continued his fine form as his two goals and an assist fired Everton to a comeback 3-1 win over Coventry - who had three big VAR calls go against them on Merseyside.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-thierno-barry-everton_7399579.jpg?20261106214109",
-   "image_fallback": null
-  },
-  {
-   "title": "Derby ease pressure on boss Eustace with comeback win over Bolton",
-   "link": "https://www.skysports.com/football/derby-county-vs-bolton-wanderers/report/560671",
-   "source": "Sky Sports",
-   "published": "2026-11-06T21:45:00+00:00",
-   "summary": "Derby eased the building pressure on boss John Eustace as they hit back to beat Bolton 2-1 in the Championship.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-derby-county_7399551.jpg?20261106211450",
-   "image_fallback": null
-  },
-  {
-   "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-06T21:08:04+00:00",
-   "summary": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d981/live/0c6c0680-da24-11f1-a701-fddedf244c16.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d981/live/0c6c0680-da24-11f1-a701-fddedf244c16.png"
-  },
-  {
-   "title": "Derby County 3-1 Bolton Wanderers highlights",
-   "link": "https://www.skysports.com/football/derby-county-vs-bolton-wanderers/live/560671",
-   "source": "Sky Sports",
-   "published": "2026-11-06T19:25:00+00:00",
+   "published": "2026-11-07T18:09:00+00:00",
    "summary": "",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-derby-county_7399551.jpg?20261106211450",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
    "image_fallback": null
   },
   {
-   "title": "Is Palmer's England career over under Tuchel?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
+   "title": "Powell and Phillips star as Bradford put seven past Marine",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-06T16:30:03+00:00",
-   "summary": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg"
+   "published": "2026-11-07T18:02:03+00:00",
+   "summary": "Nick Powell and Adam Phillips both score a brace as Bradford City hammer National League North side Marine 7-0 in the first round of the FA Cup.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9e4f/live/fac89500-dad3-11f1-a701-fddedf244c16.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e4f/live/fac89500-dad3-11f1-a701-fddedf244c16.jpg"
   },
   {
-   "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
+   "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-06T15:21:40+00:00",
-   "summary": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6d43/live/757ba1c0-d9e9-11f1-bbe5-797ee05bee69.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d43/live/757ba1c0-d9e9-11f1-bbe5-797ee05bee69.jpg"
+   "published": "2026-11-07T17:23:20+00:00",
+   "summary": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b477/live/b17159f0-dace-11f1-93e1-3b657b665bcf.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b477/live/b17159f0-dace-11f1-93e1-3b657b665bcf.jpg"
   },
   {
-   "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
+   "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-06T14:25:41+00:00",
-   "summary": "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a2ff/live/c3586c50-d9eb-11f1-bbe5-797ee05bee69.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ff/live/c3586c50-d9eb-11f1-bbe5-797ee05bee69.jpg"
+   "published": "2026-11-07T17:00:38+00:00",
+   "summary": "How Arsenal and Hull City's players rated following their Premier League match at Emirates Stadium.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/05de/live/79243450-dace-11f1-bda8-29fb69dbc026.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05de/live/79243450-dace-11f1-bda8-29fb69dbc026.jpg"
   },
   {
-   "title": "'A beautiful story' as Bellingham brothers called up",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-06T14:16:34+00:00",
-   "summary": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg"
+   "title": "Fotheringham fires St Johnstone to derby victory over Dundee",
+   "link": "https://www.skysports.com/football/st-johnstone-vs-dundee/report/558408",
+   "source": "Sky Sports",
+   "published": "2026-11-07T16:50:00+00:00",
+   "summary": "A deflected Kai Fotheringham strike in the 72nd minute dealt Dundee their first defeat at St Johnstone for five years.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-kai-fotheringham_7400349.jpg?20261107180412",
+   "image_fallback": null
   },
   {
-   "title": "Has Anderson lived up to the hype after Man City move?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-06T12:00:18+00:00",
-   "summary": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg"
+   "title": "Dundee Utd extend unbeaten run with Motherwell draw",
+   "link": "https://www.skysports.com/football/dundee-united-vs-motherwell/report/558407",
+   "source": "Sky Sports",
+   "published": "2026-11-07T16:50:00+00:00",
+   "summary": "Dundee United and Motherwell had to settle for a share of the spoils in a 1-1 draw after an entertaining Premiership contest at Tannadice.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-jesse-randall-dundee-united_7400322.jpg?20261107175214",
+   "image_fallback": null
   },
   {
-   "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
+   "title": "Tottenham set to complain to Pro Ref - but should Bogle have seen red?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-06T11:16:07+00:00",
-   "summary": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/38e8/live/f9eca4e0-d9cb-11f1-bb8e-efaa31738708.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e8/live/f9eca4e0-d9cb-11f1-bb8e-efaa31738708.png"
+   "published": "2026-11-07T16:35:26+00:00",
+   "summary": "Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg"
+  },
+  {
+   "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-07T14:35:23+00:00",
+   "summary": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dc27/live/09850300-daaf-11f1-9da2-b11e4d68c08e.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc27/live/09850300-daaf-11f1-9da2-b11e4d68c08e.jpg"
+  },
+  {
+   "title": "Arsenal latest: Why Gunners should have had a penalty against Hull",
+   "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "source": "Sky Sports",
+   "published": "2026-11-07T07:22:00+00:00",
+   "summary": "",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+   "image_fallback": null
+  },
+  {
+   "title": "I left Man City for my mental wellbeing - Trafford",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-07T07:16:37+00:00",
+   "summary": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "title": "Respite for troubled trio as Charlton, Preston & Derby win - Championship talking points",
+   "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+   "source": "Sky Sports",
+   "published": "2026-11-06T12:09:00+00:00",
+   "summary": "",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-john-eustace-derby_7400330.jpg?20261107175456",
+   "image_fallback": null
   }
  ]
 }
