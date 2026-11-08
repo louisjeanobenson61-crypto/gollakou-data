@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T07:00:15.100595+00:00",
+ "updated": "2026-11-08T18:47:17.291981+00:00",
  "note": null,
- "quota_remaining": 85,
- "odds_quota_remaining": 396,
+ "quota_remaining": 99,
+ "odds_quota_remaining": null,
  "matches": [
   {
    "id": 1557463,
@@ -2069,296 +2069,213 @@
   }
  ],
  "standings": {},
- "picks": [
-  {
-   "id": 1552221,
-   "league": "Eredivisie",
-   "league_id": 88,
-   "kickoff": "2026-11-08T06:15:00-05:00",
-   "home": "Heerenveen",
-   "away": "Feyenoord",
-   "home_logo": "https://media.api-sports.io/football/teams/210.png",
-   "away_logo": "https://media.api-sports.io/football/teams/209.png",
-   "market": "X2",
-   "label": "Nul oswa Feyenoord",
-   "prob": 78,
-   "gap": 0,
-   "risk": "Mwayen",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 4.34,
-    "draw": 4.45,
-    "away": 1.73,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1550190,
-   "league": "Serie A",
-   "league_id": 135,
-   "kickoff": "2026-11-08T09:00:00-05:00",
-   "home": "Genoa",
-   "away": "AC Milan",
-   "home_logo": "https://media.api-sports.io/football/teams/495.png",
-   "away_logo": "https://media.api-sports.io/football/teams/489.png",
-   "market": "X2",
-   "label": "Nul oswa AC Milan",
-   "prob": 77,
-   "gap": 0,
-   "risk": "Mwayen",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 4.23,
-    "draw": 3.38,
-    "away": 2.0,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1570445,
-   "league": "La Liga",
-   "league_id": 140,
-   "kickoff": "2026-11-08T08:00:00-05:00",
-   "home": "Elche",
-   "away": "Real Betis",
-   "home_logo": "https://media.api-sports.io/football/teams/797.png",
-   "away_logo": "https://media.api-sports.io/football/teams/543.png",
-   "market": "X2",
-   "label": "Nul oswa Real Betis",
-   "prob": 74,
-   "gap": 0,
-   "risk": "Mwayen",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 3.71,
-    "draw": 3.83,
-    "away": 2.0,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1550192,
-   "league": "Serie A",
-   "league_id": 135,
-   "kickoff": "2026-11-08T09:00:00-05:00",
-   "home": "Monza",
-   "away": "Atalanta",
-   "home_logo": "https://media.api-sports.io/football/teams/1579.png",
-   "away_logo": "https://media.api-sports.io/football/teams/499.png",
-   "market": "X2",
-   "label": "Nul oswa Atalanta",
-   "prob": 72,
-   "gap": 0,
-   "risk": "Mwayen",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 3.48,
-    "draw": 3.91,
-    "away": 2.05,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1552222,
-   "league": "Eredivisie",
-   "league_id": 88,
-   "kickoff": "2026-11-08T08:30:00-05:00",
-   "home": "Twente",
-   "away": "Ajax",
-   "home_logo": "https://media.api-sports.io/football/teams/415.png",
-   "away_logo": "https://media.api-sports.io/football/teams/194.png",
-   "market": "1X",
-   "label": "Twente oswa nul",
-   "prob": 70,
-   "gap": 0,
-   "risk": "Mwayen",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 1.98,
-    "draw": 4.25,
-    "away": 3.44,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1552816,
-   "league": "Ligue 1",
-   "league_id": 61,
-   "kickoff": "2026-11-08T09:00:00-05:00",
-   "home": "Rennes",
-   "away": "Lille",
-   "home_logo": "https://media.api-sports.io/football/teams/94.png",
-   "away_logo": "https://media.api-sports.io/football/teams/79.png",
-   "market": "X2",
-   "label": "Nul oswa Lille",
-   "prob": 59,
-   "gap": 0,
-   "risk": "Wo",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 2.35,
-    "draw": 3.48,
-    "away": 3.14,
-    "bookmaker": "Pinnacle"
-   }
-  },
-  {
-   "id": 1550193,
-   "league": "Serie A",
-   "league_id": 135,
-   "kickoff": "2026-11-08T06:30:00-05:00",
-   "home": "Napoli",
-   "away": "Lazio",
-   "home_logo": "https://media.api-sports.io/football/teams/492.png",
-   "away_logo": "https://media.api-sports.io/football/teams/487.png",
-   "market": "X2",
-   "label": "Nul oswa Lazio",
-   "prob": 58,
-   "gap": 0,
-   "risk": "Wo",
-   "source": "API + kòt mache a",
-   "odds": {
-    "home": 2.31,
-    "draw": 3.67,
-    "away": 3.07,
-    "bookmaker": "Pinnacle"
-   }
-  }
- ],
+ "picks": [],
  "news": [
   {
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o?at_medium=RSS&at_campaign=rss",
+   "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-08T06:47:58+00:00",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+   "published": "2026-11-08T18:20:56+00:00",
+   "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg"
   },
   {
-   "title": "Why unique Brighton defence is so tricky to unpick",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-08T06:41:37+00:00",
-   "summary": "Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b513/live/0e138ac0-d90d-11f1-94c6-3f8050561bf5.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/0e138ac0-d90d-11f1-94c6-3f8050561bf5.jpg"
-  },
-  {
-   "title": "The oldest club in London making FA Cup history",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-08T06:28:56+00:00",
-   "summary": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f765/live/7f024030-d860-11f1-85ab-b3cc3b5498c6.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f765/live/7f024030-d860-11f1-85ab-b3cc3b5498c6.jpg"
-  },
-  {
-   "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-08T00:17:56+00:00",
-   "summary": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/d7267220-db00-11f1-969c-27c4482e95aa.jpg"
-  },
-  {
-   "title": "Rangers end winless away run with comfortable victory at St Mirren",
-   "link": "https://www.skysports.com/football/st-mirren-vs-rangers/report/558409",
+   "title": "Celtic restore four-point Premiership lead with narrow win against Kilmarnock",
+   "link": "https://www.skysports.com/football/celtic-vs-kilmarnock/report/558406",
    "source": "Sky Sports",
-   "published": "2026-11-07T21:50:00+00:00",
-   "summary": "Rangers moved one point behind Scottish Premiership leaders Celtic thanks to goals from Ryan Naderi and Dan Neil in a 2-0 win over St Mirren.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-rangers-naderi-scottish-premiership_7400583.jpg?20261107220209",
+   "published": "2026-11-08T17:50:00+00:00",
+   "summary": "Celtic restored their four-point lead at the top of the Scottish Premiership with a narrow win against struggling Kilmarnock.",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-liam-scales-celtic_7401332.jpg?20261108180223",
    "image_fallback": null
   },
   {
-   "title": "Glasner glee and Delap double - win could be lift-off for Forest",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o?at_medium=RSS&at_campaign=rss",
+   "title": "Russo double gives Arsenal win over Liverpool at Anfield",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-07T21:42:59+00:00",
-   "summary": "Oliver Glasner's celebrations and two goals for Liam Delap bode well for a Nottingham Forest team looking to kick on after their first home Premier League win of the season.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b02e/live/2eec51e0-daf8-11f1-b9a2-091c4f802785.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b02e/live/2eec51e0-daf8-11f1-b9a2-091c4f802785.jpg"
+   "published": "2026-11-08T17:45:27+00:00",
+   "summary": "Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4bfb/live/d0b51af0-db81-11f1-93e1-3b657b665bcf.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bfb/live/d0b51af0-db81-11f1-93e1-3b657b665bcf.jpg"
   },
   {
-   "title": "'A different Noni?' Madueke finding a new level for Arsenal",
-   "link": "https://www.skysports.com/football/news/12040/13609559/noni-madueke-has-become-a-different-player-says-mikel-arteta-as-winger-finds-new-level-of-creativity-and-efficiency",
+   "title": "10-man Stockport come from behind to survive huge scare at Cray",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-08T17:39:15+00:00",
+   "summary": "League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/75bc/live/f85f7240-db99-11f1-a701-fddedf244c16.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75bc/live/f85f7240-db99-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "title": "London City thump Birmingham to close gap on second",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-08T17:06:21+00:00",
+   "summary": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "title": "Grimsby fight back from two goals down to edge Stafford on penalties",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-08T17:00:00+00:00",
+   "summary": "League Two side Grimsby Town recover from a two-goal deficit against the FA Cup first round's lowest-ranked team, Stafford Rangers. Grimsby battled back to level the tie at 3-3...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d55a/live/11e79f60-db8d-11f1-93e1-3b657b665bcf.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55a/live/11e79f60-db8d-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "title": "Hits and misses: Alisson back to his best while Chelsea go back to square one",
+   "link": "https://www.skysports.com/football/news/12040/13609830/liverpool-goalkeeper-alisson-back-to-his-best-while-chelsea-go-back-to-square-one-premier-league-hits-and-misses",
    "source": "Sky Sports",
-   "published": "2026-11-07T20:55:00+00:00",
-   "summary": "Noni Madueke lay sprawled on the turf, head in his hands, following his one-on-one miss late in Arsenal's 1-0 victory over Hull . His frustration continued to show even after th...",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-noni-madueke-arsenal_7400541.jpg?20261107205850",
-   "image_fallback": null
-  },
-  {
-   "title": "Maresca's dream start turns into nightmare as title hopes hit",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-07T20:54:12+00:00",
-   "summary": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4f6a/live/bd923d40-daf0-11f1-827e-c7e7ee102257.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f6a/live/bd923d40-daf0-11f1-827e-c7e7ee102257.jpg"
-  },
-  {
-   "title": "Delap double inspires Forest to stunning win over Man City",
-   "link": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-07T20:02:25+00:00",
-   "summary": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-07T19:59:37+00:00",
-   "summary": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "title": "Leeds beat Spurs to end five-game winless run",
-   "link": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-07T19:59:34+00:00",
-   "summary": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c54a/live/5ed07bd0-dac5-11f1-b441-2b33b063138f.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54a/live/5ed07bd0-dac5-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "title": "Arsenal beat Hull to extend lead at top of the table",
-   "link": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-07T19:59:31+00:00",
-   "summary": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/000f/live/2a5829f0-dadb-11f1-a701-fddedf244c16.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000f/live/2a5829f0-dadb-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-07T19:34:32+00:00",
-   "summary": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg"
-  },
-  {
-   "title": "Barry scores twice as Everton fight back to beat Coventry",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-06T22:30:12+00:00",
-   "summary": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-   "title": "West Ham latest: Parker 'bitterly disappointed' after Blackburn defeat",
-   "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-   "source": "Sky Sports",
-   "published": "2026-11-05T15:45:00+00:00",
+   "published": "2026-11-08T16:58:00+00:00",
    "summary": "",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-alisson-liverpool_7401306.jpg?20261108175144",
+   "image_fallback": null
+  },
+  {
+   "title": "Fan injured after falling through hole in stand",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-08T16:53:37+00:00",
+   "summary": "One fan is taken to hospital after a number of Bodo/Glimt supporters fall through a hole in the away stand at Tromso.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/eb05/live/a92d9140-db92-11f1-9029-d35c55297624.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb05/live/a92d9140-db92-11f1-9029-d35c55297624.jpg"
+  },
+  {
+   "title": "Five-star Falkirk thump sorry Hearts to move up to third",
+   "link": "https://www.skysports.com/football/hearts-vs-falkirk/report/558410",
+   "source": "Sky Sports",
+   "published": "2026-11-08T16:50:00+00:00",
+   "summary": "Rampant Falkirk obliterated Hearts' 18-month unbeaten home record in the Scottish Premiership with a stunning 5-2 win at Tynecastle as they leapfrogged the Jambos into third place.",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-falkirk-hearts-jacob_7401279.jpg?20261108174221",
+   "image_fallback": null
+  },
+  {
+   "title": "Failed to deal with Brobbey - player ratings for Sunderland v Chelsea",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-08T16:13:36+00:00",
+   "summary": "Enzo Le Fee's penalty is the difference as Sunderland climb off the bottom of the table but how did the players rate against Chelsea?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/414a/live/54cb1080-db8a-11f1-ab1c-6b6075dcdfe1.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/414a/live/54cb1080-db8a-11f1-ab1c-6b6075dcdfe1.jpg"
+  },
+  {
+   "title": "Who was back to his best? Player ratings for Crystal Palace v Liverpool",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-08T16:04:18+00:00",
+   "summary": "How Crystal Palace and Liverpool's players rated following their Premier League match.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/fe1b/live/abeecdc0-db8a-11f1-ab1c-6b6075dcdfe1.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1b/live/abeecdc0-db8a-11f1-ab1c-6b6075dcdfe1.jpg"
+  },
+  {
+   "title": "Bournemouth win at Ipswich to record eight straight victories",
+   "link": "https://www.skysports.com/football/ipswich-town-vs-bournemouth/report/559539",
+   "source": "Sky Sports",
+   "published": "2026-11-08T16:00:00+00:00",
+   "summary": "Bournemouth made it eight wins in a row in all competitions as they continued their charge up the Premier League table with a 2-1 win at Ipswich.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-evanilson-bournemouth_7400911.jpg?20261108141439",
+   "image_fallback": null
+  },
+  {
+   "title": "Brighton beat 10-man Brentford to leapfrog Man City into second",
+   "link": "https://www.skysports.com/football/brighton-and-hove-albion-vs-brentford/report/559535",
+   "source": "Sky Sports",
+   "published": "2026-11-08T16:00:00+00:00",
+   "summary": "Brighton leapfrogged Man City into second place in the Premier League table with a 2-0 win over 10-man Brentford.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-pascal-gross-maxim-de-cuyper_7400969.jpg?20261108145113",
+   "image_fallback": null
+  },
+  {
+   "title": "Tepid Chelsea beaten by Sunderland who move off the bottom",
+   "link": "https://www.skysports.com/football/sunderland-vs-chelsea/report/559543",
+   "source": "Sky Sports",
+   "published": "2026-11-08T16:00:00+00:00",
+   "summary": "Chelsea put in a tepid performance as Sunderland lifted themselves off the bottom of the Premier League table with a 1-0 win that eases the pressure on under-fire manager Regis...",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-enzo-le-fee-sunderland_7400955.jpg?20261108144350",
+   "image_fallback": null
+  },
+  {
+   "title": "Sage in big trouble as Palace hit rock-bottom after defeat to Liverpool",
+   "link": "https://www.skysports.com/football/crystal-palace-vs-liverpool/report/559536",
+   "source": "Sky Sports",
+   "published": "2026-11-08T15:50:00+00:00",
+   "summary": "Liverpool beat Crystal Palace 3-1 at Selhurst Park to inflict a fourth consecutive Premier League defeat on the hosts and leave Pierre Sage in a perilous position with his side...",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-alexander-isak-liverpool_7401069.jpg?20261108160204",
+   "image_fallback": null
+  },
+  {
+   "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-08T15:31:43+00:00",
+   "summary": "Stockport goalkeeper Luca Ashby-Hammond is given a straight red card after a challenge on the edge of the box and from the subsequent free-kick Alex Hernandez doubles Cray Wande...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5e26/live/01e0be90-db87-11f1-a701-fddedf244c16.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e26/live/01e0be90-db87-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "title": "Chengdu blow 12-point lead to miss out on Chinese title on final day",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-08T14:41:04+00:00",
+   "summary": "Chengdu Rongcheng lose their final four matches of the season to give up a 12-point lead and throw away the Chinese Super League title.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c114/live/cd79c2e0-db7d-11f1-ab1c-6b6075dcdfe1.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c114/live/cd79c2e0-db7d-11f1-ab1c-6b6075dcdfe1.jpg"
+  },
+  {
+   "title": "Scot Prem latest: Aberdeen won't rush Robinson decision",
+   "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+   "source": "Sky Sports",
+   "published": "2026-11-08T12:00:00+00:00",
+   "summary": "",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-robinson-stephen_7390881.jpg?20261029130023",
+   "image_fallback": null
+  },
+  {
+   "title": "Man Utd latest: Carrick given no assurances over future beyond Villa match",
+   "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "source": "Sky Sports",
+   "published": "2026-11-08T10:24:00+00:00",
+   "summary": "",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
+   "image_fallback": null
+  },
+  {
+   "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-08T07:30:01+00:00",
+   "summary": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg"
+  },
+  {
+   "title": "'It's Savage junior's night' - Charlie scores against dad Robbie's side",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-08T00:13:34+00:00",
+   "summary": "Robbie Savage's son Charlie scores for Reading against Peterborough United, the side his father manages in the first round of the FA Cup.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/43fe/live/d3069860-dafa-11f1-a701-fddedf244c16.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fe/live/d3069860-dafa-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+   "title": "What's gone so wrong so quickly at Crystal Palace?",
+   "link": "https://www.skysports.com/football/news/12040/13607192/pierre-sage-under-pressure-how-crystal-palace-and-last-seasons-ligue-1-manager-of-the-year-are-both-suffering",
+   "source": "Sky Sports",
+   "published": "2026-11-07T08:00:00+00:00",
+   "summary": "As Pierre Sage waited to receive the Coupe de France trophy as the victorious manager of RC Lens last May, he turned to his staff and said: \"Do you realise where we are?\"",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7395914.jpg?20261103154515",
+   "image_fallback": null
+  },
+  {
+   "title": "WSL reaction as Russo double secures Arsenal win while Man Utd edge past Villa",
+   "link": "https://www.skysports.com/football/live-blog/12040/13608974/wsl-live-arsenal-man-utd-and-london-city-lionesses-score-updates-news-prediction-lineups-and-how-to-watch-or-stream",
+   "source": "Sky Sports",
+   "published": "2026-11-06T17:14:00+00:00",
+   "summary": "",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-alessia-russo-arsenal_7400827.jpg?20261108150936",
    "image_fallback": null
   }
  ]
