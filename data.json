@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:11:45.057229+00:00",
+ "updated": "2026-11-10T18:56:01.007204+00:00",
  "note": null,
  "quota_remaining": 99,
  "odds_quota_remaining": null,
@@ -2072,13 +2072,157 @@
  "picks": [],
  "news": [
   {
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vwr0zm2ro?at_medium=RSS&at_campaign=rss",
+   "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-10T06:40:56+00:00",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+   "published": "2026-11-10T18:12:02+00:00",
+   "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2726/live/abc28950-dd19-11f1-93e1-3b657b665bcf.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2726/live/abc28950-dd19-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "title": "Wales' Johnson says definitely more to come after 50 caps",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T18:01:03+00:00",
+   "summary": "Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e92b/live/66e9b0b0-dc33-11f1-958b-3f65a8ba2dc3.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e92b/live/66e9b0b0-dc33-11f1-958b-3f65a8ba2dc3.jpg"
+  },
+  {
+   "title": "Sky pledges backing for Equal Sport Project",
+   "link": "https://www.skysports.com/football/news/12040/13610700/sky-backs-equal-sport-projects-pledges-to-improve-equality-through-five-shared-ambitions-across-industry",
+   "source": "Sky Sports",
+   "published": "2026-11-10T17:24:00+00:00",
+   "summary": "Sky Sports is proud to support Equal Sport Project, which aims to accelerate progress towards equality across sport through five shared ambitions.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-sky-sport_7403327.png?20261110170058",
+   "image_fallback": null
+  },
+  {
+   "title": "Chelsea searching for opener at Hacken in WCL clash LIVE!",
+   "link": "https://www.skysports.com/football/bk-hcken-women-vs-chelsea-women/live/578259",
+   "source": "Sky Sports",
+   "published": "2026-11-10T17:15:00+00:00",
+   "summary": "",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-maja-bodin-lucy-bronze_7403368.jpg?20261110181652",
+   "image_fallback": null
+  },
+  {
+   "title": "McTominay reveals heart treatment at World Cup",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T16:46:31+00:00",
+   "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6eae/live/09084700-dd22-11f1-b441-2b33b063138f.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eae/live/09084700-dd22-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T16:17:10+00:00",
+   "summary": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/98d7/live/8668d6c0-dd17-11f1-b441-2b33b063138f.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d7/live/8668d6c0-dd17-11f1-b441-2b33b063138f.png"
+  },
+  {
+   "title": "McTominay had heart 'shocked' two days before Scotland's World Cup opener",
+   "link": "https://www.skysports.com/football/news/12040/13610728/scott-mctominay-scotland-midfielder-had-heart-shocked-two-days-before-world-cup-opener-against-haiti",
+   "source": "Sky Sports",
+   "published": "2026-11-10T16:00:00+00:00",
+   "summary": "Scott McTominay has revealed he needed to have his heart “shocked” two days before Scotland's World Cup opener against Haiti.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-mctominay-scotland_7403281.jpg?20261110163823",
+   "image_fallback": null
+  },
+  {
+   "title": "Man Utd Q&A: Carrick, Poch, INEOS and more answered",
+   "link": "https://www.skysports.com/football/news/12040/13610675/man-utd-qa-michael-carrick-mauricio-pochettino-ineos-and-more-kaveh-solhekol-answers-your-questions",
+   "source": "Sky Sports",
+   "published": "2026-11-10T15:00:00+00:00",
+   "summary": "Kaveh Solhekol has answered your latest questions on Manchester United, with Michael Carrick's future up in the air, the club in the relegation zone and more issues behind the s...",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-football-pl-united_7387131.jpg?20261025194558",
+   "image_fallback": null
+  },
+  {
+   "title": "Birthdays and broken lamps - at home with the Charles brothers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c615je0lgleqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T14:36:21+00:00",
+   "summary": "Before Northern Ireland's Nations League matches, BBC Sport joins Shea and Pierce Charles at their London home to discuss birthdays, steak sandwiches and starring for Michael O'...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cf74/live/c70f0210-dd14-11f1-9ee9-1b95b66787ea.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf74/live/c70f0210-dd14-11f1-9ee9-1b95b66787ea.jpg"
+  },
+  {
+   "title": "Kompany back at Bayern training after collapse",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T14:17:04+00:00",
+   "summary": "Bayern Munich say head coach Vincent Kompany is \"on the road to recovery\" following his recent collapse and treatment in hospital.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0d47/live/6d849eb0-dd0c-11f1-97df-bd0937690c4d.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d47/live/6d849eb0-dd0c-11f1-97df-bd0937690c4d.jpg"
+  },
+  {
+   "title": "Merson: Man Utd transfer policy is to blame - not Carrick",
+   "link": "https://www.skysports.com/football/news/12040/13610645/man-utds-transfer-policy-to-blame-for-clubs-worst-premier-league-start-and-not-michael-carrick-says-paul-merson",
+   "source": "Sky Sports",
+   "published": "2026-11-10T13:30:00+00:00",
+   "summary": "Sky Sports' Paul Merson believes Manchester United’s transfer strategy is to blame for their worst start to a top-flight season instead of head coach Michael Carrick.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7401837.jpg?20261109081304",
+   "image_fallback": null
+  },
+  {
+   "title": "Who are the main candidates for the Aberdeen job?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3rryr85v874o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T13:24:07+00:00",
+   "summary": "Two domestic names stand out, while there is also the possibility of a foreign appointment following Stephen Robinson's departure.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c41a/live/882b2a90-dcf3-11f1-a701-fddedf244c16.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c41a/live/882b2a90-dcf3-11f1-a701-fddedf244c16.png"
+  },
+  {
+   "title": "Dortmund fans' group criticises Nmecha celebration",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm3696yy9z64o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T12:48:21+00:00",
+   "summary": "A Christian group set up for footballers says it wants to \"demonstrate love and respect towards everyone\" following criticism from fans.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/92a4/live/b5fe3e40-dd01-11f1-b882-b9b1c69603b0.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92a4/live/b5fe3e40-dd01-11f1-b882-b9b1c69603b0.jpg"
+  },
+  {
+   "title": "Hill gets first England call-up as Konsa cover",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T11:41:27+00:00",
+   "summary": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg"
+  },
+  {
+   "title": "Tough-tackling Schlager proves his worth for Forest",
+   "link": "https://www.skysports.com/football/news/12040/13610154/xaver-schlager-at-nottingham-forest-tough-tackling-replacement-for-elliot-anderson-proves-his-worth-to-new-club",
+   "source": "Sky Sports",
+   "published": "2026-11-10T10:00:00+00:00",
+   "summary": "Xaver Schlager has been quietly impressive for Nottingham Forest this season but what was missing was that big moment. It came in the 3-1 win over Manchester City on Saturday wh...",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-nottingham-forest_7402005.jpg?20261109110447",
+   "image_fallback": null
+  },
+  {
+   "title": "Wenger considers standing against Infantino",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T08:53:26+00:00",
+   "summary": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in Fifa's presidential election in March.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0f44/live/8a627790-dce0-11f1-a8e1-e3454837ffc6.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f44/live/8a627790-dce0-11f1-a8e1-e3454837ffc6.jpg"
+  },
+  {
+   "title": "How Germany's greatest goalscorer is guiding the next generation",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmq8nnddpllqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T07:34:07+00:00",
+   "summary": "Miroslav Klose rose from amateur to World Cup winner as a player - now the German is forging a similar path as a coach.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7dc1/live/d2819320-d9f8-11f1-84c1-dbcae60402d7.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc1/live/d2819320-d9f8-11f1-84c1-dbcae60402d7.jpg"
   },
   {
    "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
@@ -2088,141 +2232,6 @@
    "summary": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "title": "Man Utd expected to sack head coach Carrick",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-09T23:13:31+00:00",
-   "summary": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9dcf/live/306777b0-dc8e-11f1-8a0c-79d3a3fe49e0.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dcf/live/306777b0-dc8e-11f1-8a0c-79d3a3fe49e0.jpg"
-  },
-  {
-   "title": "Carrick position increasingly in doubt as hierarchy mulls over his future",
-   "link": "https://www.skysports.com/football/news/12040/13610412/michael-carrick-future-man-utd-head-coach-position-increasingly-in-doubt-but-no-final-decision-made",
-   "source": "Sky Sports",
-   "published": "2026-11-09T23:04:00+00:00",
-   "summary": "Michael Carrick's position as Manchester United head coach is looking increasingly in doubt, but Sky Sports News has been told as yet, no final decision has been taken about his...",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-michael-carrick-man-utd_7386919.jpg?20261025163701",
-   "image_fallback": null
-  },
-  {
-   "title": "Papers: Poch would consider PL return to join Man Utd",
-   "link": "https://www.skysports.com/football/news/12040/13610409/mauricio-pochettino-would-consider-manchester-united-job-if-michael-carrick-is-sacked-paper-talk",
-   "source": "Sky Sports",
-   "published": "2026-11-09T23:00:00+00:00",
-   "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "image_fallback": null
-  },
-  {
-   "title": "Brady ends association with Birmingham City",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-09T22:18:17+00:00",
-   "summary": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9e9a/live/f4e649d0-dc85-11f1-851a-19e868620cad.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e9a/live/f4e649d0-dc85-11f1-851a-19e868620cad.jpg"
-  },
-  {
-   "title": "Wimborne to host Bradford in FA Cup second round - see the full draw",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6wyrynd848jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-09T22:10:22+00:00",
-   "summary": "Seventh-tier side Wimborne Town will host League One Bradford City in the second round of the FA Cup, while former winners Leicester City will visit National League South side D...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/60ff/live/d7ef1b30-dc72-11f1-92b6-7dd459918707.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/d7ef1b30-dc72-11f1-92b6-7dd459918707.jpg"
-  },
-  {
-   "title": "Birmingham announce shock Brady departure",
-   "link": "https://www.skysports.com/football/news/12040/13610387/tom-brady-leaves-birmingham-nfl-legend-and-minority-owner-makes-shock-departure-after-three-years",
-   "source": "Sky Sports",
-   "published": "2026-11-09T21:26:00+00:00",
-   "summary": "Birmingham have announced the shock departure of NFL legend Tom Brady as minority owner with the club sitting top of the Championship table.",
-   "image": "https://e2.365dm.com/26/02/1920x1080/skysports-tom-brady-new-england-patriots_7156782.jpg?20260205195057",
-   "image_fallback": null
-  },
-  {
-   "title": "Atletico target Zubimendi move - Tuesday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-09T21:13:37+00:00",
-   "summary": "Arsenal midfielder Martin Zubimendi is a target for Atletico Madrid, Leeds United plan to step up contract talks with striker Dominic Calvert-Lewin, Barcelona are keen on Bayern...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7979/live/f8476210-dc78-11f1-b441-2b33b063138f.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7979/live/f8476210-dc78-11f1-b441-2b33b063138f.png"
-  },
-  {
-   "title": "People don't know full story behind England exile - White",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-09T19:00:10+00:00",
-   "summary": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/64ef/live/13e8f0c0-dc55-11f1-8fe6-5becaee5408f.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/13e8f0c0-dc55-11f1-8fe6-5becaee5408f.jpg"
-  },
-  {
-   "title": "Kane and Bellingham air strong views in England World Cup review",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-09T17:30:23+00:00",
-   "summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg"
-  },
-  {
-   "title": "Ballon d'Or winner Kane not named in FIFPRO World 11",
-   "link": "https://www.skysports.com/football/news/12040/13610309/fifpro-world-11-ballon-dor-winner-harry-kane-not-voted-by-fellow-professionals-to-be-named-in-team-of-the-year",
-   "source": "Sky Sports",
-   "published": "2026-11-09T17:10:00+00:00",
-   "summary": "Ballon d'Or winner Harry Kane has not been named in the FIFPRO World 11.",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-kane-ballon_7390748.jpg?20261029104829",
-   "image_fallback": null
-  },
-  {
-   "title": "Aberdeen sack Robinson after league slump",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-09T16:46:11+00:00",
-   "summary": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b9ae/live/de60fa10-dc5e-11f1-b441-2b33b063138f.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9ae/live/de60fa10-dc5e-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "title": "Bronze named in World 11 for record ninth time",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-09T14:55:32+00:00",
-   "summary": "Lucy Bronze is one of five England players named in the Fifpro Women's World 11.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/89c7/live/8800f540-dc4e-11f1-a869-656dc96bd12d.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89c7/live/8800f540-dc4e-11f1-a869-656dc96bd12d.jpg"
-  },
-  {
-   "title": "Incident-by-incident: Was it a bad weekend for VAR?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-09T14:34:19+00:00",
-   "summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/de64/live/33dca940-dc36-11f1-95cf-a38331e6cb4b.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de64/live/33dca940-dc36-11f1-95cf-a38331e6cb4b.jpg"
-  },
-  {
-   "title": "Chelsea staff warned over Fantasy Premier League use",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c98rzr51rlvpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-09T12:41:23+00:00",
-   "summary": "Chelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed through team se...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/824c/live/4f7c8740-dc33-11f1-958b-3f65a8ba2dc3.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/824c/live/4f7c8740-dc33-11f1-958b-3f65a8ba2dc3.jpg"
-  },
-  {
-   "title": "Old Firm the top two, but are Falkirk this season's surprise package?",
-   "link": "https://www.skysports.com/football/news/12040/13610080/scottish-premiership-celtic-rangers-lead-the-way-but-are-falkirk-the-surprise-package-as-aberdeen-consider-another-change",
-   "source": "Sky Sports",
-   "published": "2026-11-09T11:30:00+00:00",
-   "summary": "It is as you were at the top of the Scottish Premiership heading into the second international break, but Falkirk's incredible rise has taken many by surprise.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-scottish-premiership_7401940.jpg?20261109102202",
-   "image_fallback": null
   }
  ]
 }
