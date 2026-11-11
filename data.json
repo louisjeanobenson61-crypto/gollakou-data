@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:56:01.007204+00:00",
+ "updated": "2026-11-11T07:17:04.369390+00:00",
  "note": null,
  "quota_remaining": 99,
  "odds_quota_remaining": null,
@@ -2072,6 +2072,69 @@
  "picks": [],
  "news": [
   {
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-11T06:47:18+00:00",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "title": "Does Pickford finally face serious competition for his England place?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-11T06:24:28+00:00",
+   "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a477/live/8845cf80-dd98-11f1-841d-6fd98310705b.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a477/live/8845cf80-dd98-11f1-841d-6fd98310705b.jpg"
+  },
+  {
+   "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T23:08:35+00:00",
+   "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs intere...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png"
+  },
+  {
+   "title": "Papers: Berrada and Wilcox set to remain at Old Trafford",
+   "link": "https://www.skysports.com/football/news/12040/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk",
+   "source": "Sky Sports",
+   "published": "2026-11-10T22:44:00+00:00",
+   "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "image_fallback": null
+  },
+  {
+   "title": "Man City thrash Inter to claim first CL win of season",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T22:05:15+00:00",
+   "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1ee5/live/a807f7e0-dd51-11f1-b441-2b33b063138f.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee5/live/a807f7e0-dd51-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+   "title": "Pocognoli to lean on Scotland's 'captain group of five'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T20:49:11+00:00",
+   "summary": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/24a3/live/94ca09f0-dd35-11f1-ab86-698de9f28d28.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a3/live/94ca09f0-dd35-11f1-ab86-698de9f28d28.jpg"
+  },
+  {
+   "title": "Chelsea play out goalless draw with Hacken",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-10T20:07:12+00:00",
+   "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2945/live/0373f810-dd50-11f1-a701-fddedf244c16.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2945/live/0373f810-dd50-11f1-a701-fddedf244c16.jpg"
+  },
+  {
    "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
    "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
@@ -2090,16 +2153,7 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e92b/live/66e9b0b0-dc33-11f1-958b-3f65a8ba2dc3.jpg"
   },
   {
-   "title": "Sky pledges backing for Equal Sport Project",
-   "link": "https://www.skysports.com/football/news/12040/13610700/sky-backs-equal-sport-projects-pledges-to-improve-equality-through-five-shared-ambitions-across-industry",
-   "source": "Sky Sports",
-   "published": "2026-11-10T17:24:00+00:00",
-   "summary": "Sky Sports is proud to support Equal Sport Project, which aims to accelerate progress towards equality across sport through five shared ambitions.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-sky-sport_7403327.png?20261110170058",
-   "image_fallback": null
-  },
-  {
-   "title": "Chelsea searching for opener at Hacken in WCL clash LIVE!",
+   "title": "Hacken 0-0 Chelsea commentary",
    "link": "https://www.skysports.com/football/bk-hcken-women-vs-chelsea-women/live/578259",
    "source": "Sky Sports",
    "published": "2026-11-10T17:15:00+00:00",
@@ -2126,15 +2180,6 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d7/live/8668d6c0-dd17-11f1-b441-2b33b063138f.png"
   },
   {
-   "title": "McTominay had heart 'shocked' two days before Scotland's World Cup opener",
-   "link": "https://www.skysports.com/football/news/12040/13610728/scott-mctominay-scotland-midfielder-had-heart-shocked-two-days-before-world-cup-opener-against-haiti",
-   "source": "Sky Sports",
-   "published": "2026-11-10T16:00:00+00:00",
-   "summary": "Scott McTominay has revealed he needed to have his heart “shocked” two days before Scotland's World Cup opener against Haiti.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-mctominay-scotland_7403281.jpg?20261110163823",
-   "image_fallback": null
-  },
-  {
    "title": "Man Utd Q&A: Carrick, Poch, INEOS and more answered",
    "link": "https://www.skysports.com/football/news/12040/13610675/man-utd-qa-michael-carrick-mauricio-pochettino-ineos-and-more-kaveh-solhekol-answers-your-questions",
    "source": "Sky Sports",
@@ -2153,33 +2198,6 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf74/live/c70f0210-dd14-11f1-9ee9-1b95b66787ea.jpg"
   },
   {
-   "title": "Kompany back at Bayern training after collapse",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-10T14:17:04+00:00",
-   "summary": "Bayern Munich say head coach Vincent Kompany is \"on the road to recovery\" following his recent collapse and treatment in hospital.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0d47/live/6d849eb0-dd0c-11f1-97df-bd0937690c4d.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d47/live/6d849eb0-dd0c-11f1-97df-bd0937690c4d.jpg"
-  },
-  {
-   "title": "Merson: Man Utd transfer policy is to blame - not Carrick",
-   "link": "https://www.skysports.com/football/news/12040/13610645/man-utds-transfer-policy-to-blame-for-clubs-worst-premier-league-start-and-not-michael-carrick-says-paul-merson",
-   "source": "Sky Sports",
-   "published": "2026-11-10T13:30:00+00:00",
-   "summary": "Sky Sports' Paul Merson believes Manchester United’s transfer strategy is to blame for their worst start to a top-flight season instead of head coach Michael Carrick.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7401837.jpg?20261109081304",
-   "image_fallback": null
-  },
-  {
-   "title": "Who are the main candidates for the Aberdeen job?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3rryr85v874o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-10T13:24:07+00:00",
-   "summary": "Two domestic names stand out, while there is also the possibility of a foreign appointment following Stephen Robinson's departure.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c41a/live/882b2a90-dcf3-11f1-a701-fddedf244c16.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c41a/live/882b2a90-dcf3-11f1-a701-fddedf244c16.png"
-  },
-  {
    "title": "Dortmund fans' group criticises Nmecha celebration",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm3696yy9z64o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
@@ -2189,49 +2207,13 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92a4/live/b5fe3e40-dd01-11f1-b882-b9b1c69603b0.jpg"
   },
   {
-   "title": "Hill gets first England call-up as Konsa cover",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-10T11:41:27+00:00",
-   "summary": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg"
-  },
-  {
-   "title": "Tough-tackling Schlager proves his worth for Forest",
-   "link": "https://www.skysports.com/football/news/12040/13610154/xaver-schlager-at-nottingham-forest-tough-tackling-replacement-for-elliot-anderson-proves-his-worth-to-new-club",
+   "title": "City claim first win of European campaign in Inter thrashing",
+   "link": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/report/578260",
    "source": "Sky Sports",
-   "published": "2026-11-10T10:00:00+00:00",
-   "summary": "Xaver Schlager has been quietly impressive for Nottingham Forest this season but what was missing was that big moment. It came in the 3-1 win over Manchester City on Saturday wh...",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-nottingham-forest_7402005.jpg?20261109110447",
+   "published": "2026-11-09T21:55:00+00:00",
+   "summary": "Manchester City kept their hopes of securing a Champions League top-four finish alive with a convincing comeback victory over Inter Milan.",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-man-city_7403449.jpg?20261110213156",
    "image_fallback": null
-  },
-  {
-   "title": "Wenger considers standing against Infantino",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-10T08:53:26+00:00",
-   "summary": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in Fifa's presidential election in March.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0f44/live/8a627790-dce0-11f1-a8e1-e3454837ffc6.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f44/live/8a627790-dce0-11f1-a8e1-e3454837ffc6.jpg"
-  },
-  {
-   "title": "How Germany's greatest goalscorer is guiding the next generation",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmq8nnddpllqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-10T07:34:07+00:00",
-   "summary": "Miroslav Klose rose from amateur to World Cup winner as a player - now the German is forging a similar path as a coach.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7dc1/live/d2819320-d9f8-11f1-84c1-dbcae60402d7.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc1/live/d2819320-d9f8-11f1-84c1-dbcae60402d7.jpg"
-  },
-  {
-   "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-10T06:24:50+00:00",
-   "summary": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
   }
  ]
 }
