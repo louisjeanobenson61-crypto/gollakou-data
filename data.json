@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:59:12.712002+00:00",
+ "updated": "2026-11-12T07:22:09.545346+00:00",
  "note": null,
  "quota_remaining": 99,
  "odds_quota_remaining": null,
@@ -2072,6 +2072,87 @@
  "picks": [],
  "news": [
   {
+   "title": "England's Blues brothers - how the Bellinghams helped save Birmingham",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-12T07:12:41+00:00",
+   "summary": "Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c945/live/c3116c40-dce0-11f1-a8e1-e3454837ffc6.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c945/live/c3116c40-dce0-11f1-a8e1-e3454837ffc6.png"
+  },
+  {
+   "title": "How 'Barca way' continues despite big-name exits",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-12T06:41:09+00:00",
+   "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/64ad/live/0b486200-dddd-11f1-b465-b9821c2582d4.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ad/live/0b486200-dddd-11f1-b465-b9821c2582d4.jpg"
+  },
+  {
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwm2jnz3nrvno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-12T06:29:12+00:00",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "title": "Kane's top 10 England moments - which was your favourite?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c64g12w5zpjpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-12T06:25:26+00:00",
+   "summary": "BBC Sport looks at 10 of Harry Kane's most iconic England moments as he prepares to break his country's caps record.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/134b/live/944d3be0-c3e6-11f1-badc-154546719036.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/134b/live/944d3be0-c3e6-11f1-badc-154546719036.jpg"
+  },
+  {
+   "title": "Wales' James warns of Norwegian revenge in Oslo",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c623jl1kenvyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-12T04:32:42+00:00",
+   "summary": "Winger Dan James says Wales proved a point when they beat Norway – but is wary Erling Haaland's team will now want to do the same to them.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cc28/live/64a5da40-ddeb-11f1-9204-cdcddf7d901c.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc28/live/64a5da40-ddeb-11f1-9204-cdcddf7d901c.jpg"
+  },
+  {
+   "title": "Papers: Arsenal, Chelsea and Liverpool chase Bournemouth star Scott",
+   "link": "https://www.skysports.com/football/news/12040/13611225/arsenal-chelsea-and-liverpool-chase-bournemouth-star-alex-scott-paper-talk",
+   "source": "Sky Sports",
+   "published": "2026-11-11T21:50:00+00:00",
+   "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "image_fallback": null
+  },
+  {
+   "title": "Arsenal join Scott chase - Thursday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-11T21:38:01+00:00",
+   "summary": "Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea midfielder Romeo...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2955/live/0bc2bd20-de14-11f1-b441-2b33b063138f.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2955/live/0bc2bd20-de14-11f1-b441-2b33b063138f.png"
+  },
+  {
+   "title": "Man Utd latest: Pochettino set to remain in charge for USA's next two games",
+   "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "source": "Sky Sports",
+   "published": "2026-11-11T21:00:00+00:00",
+   "summary": "",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625",
+   "image_fallback": null
+  },
+  {
+   "title": "Tuchel committed to England - but plotting club return after Three Lions stint",
+   "link": "https://www.skysports.com/football/news/12040/13611191/thomas-tuchel-committed-to-england-until-euro-2028-but-keen-on-club-return-in-future",
+   "source": "Sky Sports",
+   "published": "2026-11-11T19:30:00+00:00",
+   "summary": "Thomas Tuchel revealed he has no release clause in his England contract but is committed to leading them until Euro 2028 at least - even if a big club comes calling.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-thomas-tuchel-england_7404354.jpg?20261111200745",
+   "image_fallback": null
+  },
+  {
    "title": "Legally restrict heading a football in training, says MP",
    "link": "https://www.bbc.co.uk/sport/football/articles/cm1ewpjyy3dzo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
@@ -2090,24 +2171,6 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd9/live/3d547cc0-ddf1-11f1-ba1a-f14c9b2af876.jpg"
   },
   {
-   "title": "Could King really become 'one of the best players in the world'?",
-   "link": "https://www.skysports.com/football/news/12040/13611079/josh-king-the-making-of-the-rising-star-tipped-to-become-one-of-worlds-best-players-after-england-call-up",
-   "source": "Sky Sports",
-   "published": "2026-11-11T17:22:00+00:00",
-   "summary": "Josh King was always one of the best players in his age group. \"Nationally,\" clarifies Charlie Turnbull, his coach in Fulham's academy for five seasons between his U10 and U14 y...",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-england-fulham-josh-king_7403634.jpg?20261111082838",
-   "image_fallback": null
-  },
-  {
-   "title": "Man Utd strike Pochettino agreement with Carrick set to depart",
-   "link": "https://www.skysports.com/football/news/12040/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor",
-   "source": "Sky Sports",
-   "published": "2026-11-11T17:00:00+00:00",
-   "summary": "Manchester United have reached a verbal agreement in principle with Mauricio Pochettino to take over as head coach.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7403861.png?20261111123427",
-   "image_fallback": null
-  },
-  {
    "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
    "link": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
@@ -2115,15 +2178,6 @@
    "summary": "From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/67bf/live/ee8455c0-dab2-11f1-8c3b-f3c0d6bd7c4f.png",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67bf/live/ee8455c0-dab2-11f1-8c3b-f3c0d6bd7c4f.png"
-  },
-  {
-   "title": "Referee observer banned for discriminatory comments",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckedq15wq0dlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-11T16:26:24+00:00",
-   "summary": "A Pro Ref referee observer is banned for nine weeks and fined £200 for making discriminatory remarks after a match he was working at.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/638e/live/ad865850-dde8-11f1-9204-cdcddf7d901c.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638e/live/ad865850-dde8-11f1-9204-cdcddf7d901c.jpg"
   },
   {
    "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
@@ -2135,40 +2189,13 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
   },
   {
-   "title": "Bristol City give Skubala opportunity to improve form",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c54gnev0ydnno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-11T15:52:30+00:00",
-   "summary": "Bristol City chief executive Charlie Boss says head coach Michael Skubala will be given more time to improve their results.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e945/live/300e91b0-dde0-11f1-b465-b9821c2582d4.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e945/live/300e91b0-dde0-11f1-b465-b9821c2582d4.jpg"
-  },
-  {
-   "title": "Kane targets biggest team prizes ahead of record-breaking England cap",
-   "link": "https://www.skysports.com/football/news/12040/13610856/england-harry-kane-targets-european-championships-world-cup-and-champions-league-to-add-biggest-team-prizes-to-ballon-dor",
+   "title": "Palace latest: Talks progressing for Frank to succeed Sage",
+   "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
    "source": "Sky Sports",
-   "published": "2026-11-11T15:29:00+00:00",
-   "summary": "Harry Kane will become England's record appearance maker on Thursday night - but the Ballon d'Or winner now has his sights set on the biggest team trophies in football.",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-kane-england_7370153.jpg?20261007064514",
+   "published": "2026-11-11T14:00:00+00:00",
+   "summary": "",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235",
    "image_fallback": null
-  },
-  {
-   "title": "How to watch Ronaldinho's return!",
-   "link": "https://www.skysports.com/football/news/12040/13610697/ronaldinho-returns-how-to-watch-brazilian-icons-comeback-live-on-sky-sports",
-   "source": "Sky Sports",
-   "published": "2026-11-11T15:00:00+00:00",
-   "summary": "Ronaldinho is set to return to professional football for the first time in over a decade, and you can watch it exclusively on Sky Sports!",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-ronaldinho-returns_7403243.png?20261110155336",
-   "image_fallback": null
-  },
-  {
-   "title": "Turkey-based Bates replaces Binks in Scotland squad",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c539gkdrn7yeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-11T13:37:08+00:00",
-   "summary": "David Bates has been called up to the Scotland squad as fellow defender Luis Binks drops out for the matches against North Macedonia and Switzerland.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/18c0/live/44690fd0-ddd3-11f1-9053-236ccb99630c.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c0/live/44690fd0-ddd3-11f1-9053-236ccb99630c.jpg"
   },
   {
    "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
@@ -2180,24 +2207,6 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7299/live/2b5bc490-ddcb-11f1-9053-236ccb99630c.jpg"
   },
   {
-   "title": "Is Pochettino a short-term fix? Man Utd pursuit of Carrick replacement questioned",
-   "link": "https://www.skysports.com/football/news/12040/13611004/mauricio-pochettino-manchester-uniteds-approach-for-former-tottenham-and-chelsea-boss-questioned",
-   "source": "Sky Sports",
-   "published": "2026-11-11T12:44:00+00:00",
-   "summary": "Sky Sports News' Kaveh Solhekol has questioned Manchester United's pursuit of Mauricio Pochettino, suggesting there are better options available.",
-   "image": "https://e1.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346135.jpg?20260909143140",
-   "image_fallback": null
-  },
-  {
-   "title": "Scotland without captain Weir for World Cup play-off",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-11T11:59:18+00:00",
-   "summary": "Scotland will be without Caroline Weir for the World Cup play-off final with Sweden following a setback in the influential midfielder's recovery from a muscle injury.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/52c4/live/a84cbbe0-ddbb-11f1-9582-1b529d725aaf.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52c4/live/a84cbbe0-ddbb-11f1-9582-1b529d725aaf.jpg"
-  },
-  {
    "title": "Assessing the reasons for Man City's decline in form under Maresca",
    "link": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
@@ -2205,42 +2214,6 @@
    "summary": "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4c72/live/a41350a0-dcfa-11f1-9ef0-4b5930e2f80e.jpg",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c72/live/a41350a0-dcfa-11f1-9ef0-4b5930e2f80e.jpg"
-  },
-  {
-   "title": "Liverpool incorrectly denied pen vs Arsenal says independent panel",
-   "link": "https://www.skysports.com/football/news/12040/13610916/liverpool-incorrectly-denied-penalty-for-jurrien-timber-pull-on-alexander-isak-vs-arsenal-rules-independent-panel",
-   "source": "Sky Sports",
-   "published": "2026-11-11T10:33:00+00:00",
-   "summary": "Liverpool should have been awarded a penalty when Jurrien Timber pulled Alexander Isak's shirt in Arsenal's victory at Anfield, an independent panel has ruled.",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-alexander-isak-jurrien-timber_7403744.jpg?20261111105128",
-   "image_fallback": null
-  },
-  {
-   "title": "Shirt pull on Isak should have been penalty - panel",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-11T10:23:37+00:00",
-   "summary": "Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"
-  },
-  {
-   "title": "Meet the youngest top-flight manager in Europe",
-   "link": "https://www.skysports.com/football/news/12040/13594403/jordan-hadaway-interview-meet-the-25-year-old-llandudno-boss-the-youngest-top-flight-manager-in-europe",
-   "source": "Sky Sports",
-   "published": "2026-11-11T10:00:00+00:00",
-   "summary": "As football has evolved, so have routes into football management.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-llandudno-jordan-hadaway_7403248.jpg?20261110155455",
-   "image_fallback": null
-  },
-  {
-   "title": "Does Pickford finally face serious competition for his England place?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-11T06:24:28+00:00",
-   "summary": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2a04/live/fffa2640-dde1-11f1-9cf4-b188db5b2d8c.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a04/live/fffa2640-dde1-11f1-9cf4-b188db5b2d8c.jpg"
   }
  ]
 }
