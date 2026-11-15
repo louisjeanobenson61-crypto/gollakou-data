@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:05:43.967549+00:00",
+ "updated": "2026-11-15T18:49:42.703634+00:00",
  "note": null,
  "quota_remaining": 99,
  "odds_quota_remaining": null,
@@ -2072,13 +2072,130 @@
  "picks": [],
  "news": [
   {
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
+   "title": "Ronaldinho makes comeback in Ravenna win",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-15T06:47:10+00:00",
-   "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+   "published": "2026-11-15T18:33:36+00:00",
+   "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg"
+  },
+  {
+   "title": "Arsenal's wait for home WSL win goes on after Earps masterclass",
+   "link": "https://www.skysports.com/football/arsenal-women-vs-london-city-lionesses/report/575818",
+   "source": "Sky Sports",
+   "published": "2026-11-15T18:30:00+00:00",
+   "summary": "Arsenal's wait for a home WSL win continues as they drew 1-1 against London City Lionesses on Sunday - their fifth draw in a row at the Emirates this season - with an inspired M...",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7407153.jpg?20261115164523",
+   "image_fallback": null
+  },
+  {
+   "title": "Frick named new head coach at Aberdeen",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-15T18:27:08+00:00",
+   "summary": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cb56/live/9620f2d0-e124-11f1-9198-73c27e618086.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb56/live/9620f2d0-e124-11f1-9198-73c27e618086.jpg"
+  },
+  {
+   "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-15T17:56:57+00:00",
+   "summary": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg"
+  },
+  {
+   "title": "Have your say on Tuchel's XI as White starts for England in Spain LIVE!",
+   "link": "https://www.skysports.com/football/spain-vs-england/live/554117",
+   "source": "Sky Sports",
+   "published": "2026-11-15T17:45:00+00:00",
+   "summary": "",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-ben-white-england_7407261.jpg?20261115183934",
+   "image_fallback": null
+  },
+  {
+   "title": "AS FAR retain Women's African Champions League title",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-15T17:23:45+00:00",
+   "summary": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b7e6/live/8463b3a0-e117-11f1-a7db-d90284d21c62.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e6/live/8463b3a0-e117-11f1-a7db-d90284d21c62.jpg"
+  },
+  {
+   "title": "Chapecoense crash survivor wins promotion in final game",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-15T17:10:24+00:00",
+   "summary": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/306d/live/586b44a0-e10f-11f1-b3df-4961589d9b68.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306d/live/586b44a0-e10f-11f1-b3df-4961589d9b68.jpg"
+  },
+  {
+   "title": "Tenerife return to action after death of De Miguel",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-15T16:38:51+00:00",
+   "summary": "Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4e2a/live/47c33310-e10f-11f1-b3df-4961589d9b68.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e2a/live/47c33310-e10f-11f1-b3df-4961589d9b68.jpg"
+  },
+  {
+   "title": "Why Northern Ireland won't focus on point they need in Hungary",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-15T16:04:45+00:00",
+   "summary": "A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/53e4/live/2360fe80-e0ce-11f1-9e51-e12509ba597c.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e4/live/2360fe80-e0ce-11f1-9e51-e12509ba597c.jpg"
+  },
+  {
+   "title": "Arsenal and London City play out entertaining draw LIVE!",
+   "link": "https://www.skysports.com/football/arsenal-women-vs-london-city-lionesses/live/575818",
+   "source": "Sky Sports",
+   "published": "2026-11-15T15:20:00+00:00",
+   "summary": "",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-mary-earps-wsl-womens-super-league_7407233.jpg?20261115181337",
+   "image_fallback": null
+  },
+  {
+   "title": "Club's first match since player's death abandoned because of serious injury",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-15T14:06:19+00:00",
+   "summary": "Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3a7a/live/05560230-e0f8-11f1-97b9-9110abfffc70.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7a/live/05560230-e0f8-11f1-97b9-9110abfffc70.png"
+  },
+  {
+   "title": "Wenger decides not to challenge Fifa chief Infantino",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-15T11:28:25+00:00",
+   "summary": "Arsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ecc3/live/a18afd20-e0e1-11f1-8175-3108136b4191.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc3/live/a18afd20-e0e1-11f1-8175-3108136b4191.jpg"
+  },
+  {
+   "title": "Papers: Fernandes wants to see if Poch is 'real deal' before signing new contract",
+   "link": "https://www.skysports.com/football/news/12040/13612415/x-paper-talk",
+   "source": "Sky Sports",
+   "published": "2026-11-15T09:47:00+00:00",
+   "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "image_fallback": null
+  },
+  {
+   "title": "How Spain's humble superstar Simon became world's best keeper",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-15T07:29:30+00:00",
+   "summary": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/41cb/live/396f38d0-dddc-11f1-b865-d17d8611efca.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cb/live/396f38d0-dddc-11f1-b865-d17d8611efca.jpg"
   },
   {
    "title": "Respect? Exposure? Why England's star names are going abroad",
@@ -2090,78 +2207,6 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10a/live/d6b0c900-df4a-11f1-a48c-75dd2efdacb5.jpg"
   },
   {
-   "title": "The 'manager's dream' who has put NI one game from history",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-14T23:21:45+00:00",
-   "summary": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/bb98/live/20ed71a0-e07a-11f1-8ef0-413f345dd9f6.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb98/live/20ed71a0-e07a-11f1-8ef0-413f345dd9f6.jpg"
-  },
-  {
-   "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-14T22:40:02+00:00",
-   "summary": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6cf4/live/14e20490-e078-11f1-9ec0-713bf094c3d1.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/14e20490-e078-11f1-9ec0-713bf094c3d1.jpg"
-  },
-  {
-   "title": "White has 'exciting future' despite boos - Rice",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-14T22:26:56+00:00",
-   "summary": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f186/live/c0295b40-e074-11f1-9f6f-67b1fda6424e.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f186/live/c0295b40-e074-11f1-9f6f-67b1fda6424e.jpg"
-  },
-  {
-   "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-14T21:48:45+00:00",
-   "summary": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ae50/live/f2931240-e07b-11f1-93e1-3b657b665bcf.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae50/live/f2931240-e07b-11f1-93e1-3b657b665bcf.png"
-  },
-  {
-   "title": "Devlin nets first international goal as Northern Ireland beat Ukraine",
-   "link": "https://www.skysports.com/football/northern-ireland-vs-ukraine/report/554106",
-   "source": "Sky Sports",
-   "published": "2026-11-14T21:35:00+00:00",
-   "summary": "Terry Devlin's first international goal kept Northern Ireland top of their Nations League group as a 1-0 win over Ukraine set up a promotion decider away to Hungary on Tuesday.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-terry-devlin-northern-ireland_7406742.jpg?20261114215916",
-   "image_fallback": null
-  },
-  {
-   "title": "Kalajdzic scores late as Republic of Ireland taste defeat in Austria",
-   "link": "https://www.skysports.com/football/austria-vs-republic-of-ireland/report/554103",
-   "source": "Sky Sports",
-   "published": "2026-11-14T21:35:00+00:00",
-   "summary": "Sasa Kalajdzic dealt the Republic of Ireland a late blow in Linz with the only goal in Austria's 1-0 Nations League victory at the Raiffeisen Arena.",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-austria-republic-of-ireland_7406735.jpg?20261114215208",
-   "image_fallback": null
-  },
-  {
-   "title": "Tuchel unhappy as anti-racism protocol questions overshadow Spain clash",
-   "link": "https://www.skysports.com/football/news/12040/13612301/thomas-tuchel-england-boss-unhappy-as-anti-racism-protocol-questions-overshadow-nations-league-test-in-spain",
-   "source": "Sky Sports",
-   "published": "2026-11-14T21:00:00+00:00",
-   "summary": "Thomas Tuchel insisted his words had been \"twisted\" as questions over anti-racism protocols overshadowed the build-up to England's Nations League showdown in Madrid.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-thomas-tuchel-england_7406703.jpg?20261114203201",
-   "image_fallback": null
-  },
-  {
-   "title": "'No racism in Spain' – De la Fuente message for Tuchel",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-14T20:43:57+00:00",
-   "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations Lea...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d168/live/23ffd600-e05f-11f1-9e26-b3b65586122f.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d168/live/23ffd600-e05f-11f1-9e26-b3b65586122f.jpg"
-  },
-  {
    "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
    "link": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
@@ -2169,51 +2214,6 @@
    "summary": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg"
-  },
-  {
-   "title": "Wales beaten in Norway as threat of Nations League relegation grows",
-   "link": "https://www.skysports.com/football/norway-vs-wales/report/554107",
-   "source": "Sky Sports",
-   "published": "2026-11-14T19:00:00+00:00",
-   "summary": "Wales suffered a 3-1 defeat to Norway in Oslo despite a spirited performance, as the threat of relegation to the second tier of the Nations League now looms over Craig Bellamy's...",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-antonio-nusa-football_7406630.jpg?20261114182536",
-   "image_fallback": null
-  },
-  {
-   "title": "Bompastor's risks pay off as Chelsea go top of WSL",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-14T18:55:34+00:00",
-   "summary": "In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8119/live/c11a1b50-e05d-11f1-b441-2b33b063138f.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8119/live/c11a1b50-e05d-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-14T16:26:49+00:00",
-   "summary": "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b213/live/53f770d0-e040-11f1-88e1-eb4e155225b3.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b213/live/53f770d0-e040-11f1-88e1-eb4e155225b3.jpg"
-  },
-  {
-   "title": "Former Stoke City manager Thordarson dies aged 71",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-14T15:04:59+00:00",
-   "summary": "Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b34a/live/b33c7ec0-e039-11f1-b441-2b33b063138f.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34a/live/b33c7ec0-e039-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "title": "Six goals to go - will McGinn catch Dalglish & Law?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-14T07:49:46+00:00",
-   "summary": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/da36/live/75be3ea0-e000-11f1-a3e2-bfb07c67d49c.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da36/live/75be3ea0-e000-11f1-a3e2-bfb07c67d49c.jpg"
   }
  ]
 }
