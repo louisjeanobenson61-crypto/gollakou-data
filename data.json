@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:49:06.835085+00:00",
+ "updated": "2026-11-16T18:58:29.077531+00:00",
  "note": null,
  "quota_remaining": 99,
  "odds_quota_remaining": null,
@@ -2072,13 +2072,85 @@
  "picks": [],
  "news": [
   {
-   "title": "More than F1 - Monza's captivating football story",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6wy4y3pgpx9o?at_medium=RSS&at_campaign=rss",
+   "title": "Cap fits as Robertson takes King Kenny's crown",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-16T08:31:05+00:00",
-   "summary": "How Serie A outfit Monza are trying to make an impact in the shadow Milan giants and fashionable Como.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6901/live/b39a7c30-e108-11f1-b441-2b33b063138f.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6901/live/b39a7c30-e108-11f1-b441-2b33b063138f.jpg"
+   "published": "2026-11-16T18:50:18+00:00",
+   "summary": "Andy Robertson has taken over from Kenny Dalglish as Scotland's most-capped player, making his 103rd appearance in Monday's Nations League game against Switzerland.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3c62/live/9cca3b80-e1b7-11f1-99b6-a35a62fa4264.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c62/live/9cca3b80-e1b7-11f1-99b6-a35a62fa4264.png"
+  },
+  {
+   "title": "Robertson makes Scotland history vs Switzerland LIVE!",
+   "link": "https://www.skysports.com/football/switzerland-vs-scotland/live/554127",
+   "source": "Sky Sports",
+   "published": "2026-11-16T18:30:00+00:00",
+   "summary": "",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-andy-robertson-scotland_7406189.jpg?20261113230254",
+   "image_fallback": null
+  },
+  {
+   "title": "How Frank can restore reputation and save Crystal Palace",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-16T17:46:16+00:00",
+   "summary": "Will Thomas Frank - now confirmed as the new manager of Crystal Palace - rebuild his reputation at Selhurst Park after a bruising time at Tottenham?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a30c/live/69f709f0-df63-11f1-a8af-15d7a25dc0d1.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a30c/live/69f709f0-df63-11f1-a8af-15d7a25dc0d1.png"
+  },
+  {
+   "title": "Frank appointed Crystal Palace manager",
+   "link": "https://www.skysports.com/football/news/12040/13610988/thomas-frank-crystal-palace-appoint-former-spurs-and-brentford-boss-as-pierre-sages-successor-at-selhurst-park",
+   "source": "Sky Sports",
+   "published": "2026-11-16T17:00:00+00:00",
+   "summary": "Crystal Palace have appointed Thomas Frank as their new manager.",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-thomas-frank-crystal-palace_7408022.png?20261116181511",
+   "image_fallback": null
+  },
+  {
+   "title": "Wales without Williams for Portugal as Bellamy makes Vitinha point",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-16T15:55:16+00:00",
+   "summary": "Wales will be without right-back Neco Williams for their final Nations League group match against Portugal, while goalkeeper Karl Darlow is a doubt.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3d83/live/350960d0-e1c5-11f1-8a52-0b287ff76f43.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d83/live/350960d0-e1c5-11f1-8a52-0b287ff76f43.jpg"
+  },
+  {
+   "title": "Klopp says Infantino worse than Blatter",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-16T15:54:36+00:00",
+   "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infa...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg"
+  },
+  {
+   "title": "Has Trafford replaced Pickford as England No 1?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-16T13:01:41+00:00",
+   "summary": "James Trafford was given a chance to stake his claim as England's new number one - and away to the world champions, he absolutely took it.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0930/live/36ea8540-e1b7-11f1-9a3f-99aca912798e.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0930/live/36ea8540-e1b7-11f1-9a3f-99aca912798e.jpg"
+  },
+  {
+   "title": "Lye, Peterborough and the never-ending Women's FA Cup tie",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmp3vz1kgpvqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-16T12:11:48+00:00",
+   "summary": "Nowadays, Women's FA Cup ties are decided on the day with extra time and penalties if needed. Unless that tie is Lye Town v Peterborough United.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8737/live/85413790-e1b5-11f1-99a1-253766e7ad8b.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8737/live/85413790-e1b5-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "title": "Belgium's Lukaku retires from internationals",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwlymxr0ge8zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-16T11:40:20+00:00",
+   "summary": "Romelu Lukaku retires from international football, saying he has \"enjoyed every single moment\" of playing for Belgium.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/af62/live/60764690-e1aa-11f1-8ee3-23d0d09d2796.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af62/live/60764690-e1aa-11f1-8ee3-23d0d09d2796.jpg"
   },
   {
    "title": "Burnham urges caution on scrapping 3pm TV blackout",
@@ -2108,15 +2180,6 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a9/live/e2ff0ba0-c707-11f1-bc2e-018d645d8d21.jpg"
   },
   {
-   "title": "What do Scotland do about 'scunnered' Gannon-Doak?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c64gnpvdld40o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-16T07:09:40+00:00",
-   "summary": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2d43/live/a4645c10-e106-11f1-b441-2b33b063138f.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/a4645c10-e106-11f1-b441-2b33b063138f.jpg"
-  },
-  {
    "title": "How did England cling on against Spain and what did Tuchel do differently?",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
@@ -2133,96 +2196,6 @@
    "summary": "England's stunning win in Spain had everything - and was their best under Thomas Tuchel, writes Phil McNulty.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b361/live/48cfe320-e146-11f1-93e1-3b657b665bcf.jpg",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b361/live/48cfe320-e146-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-   "title": "Papers: Guardiola to reject USA approach to replace Pochettino",
-   "link": "https://www.skysports.com/football/news/12040/13612630/pep-guardiola-usa-approach-to-replace-mauricio-pochettino-to-be-rejected-by-ex-man-city-boss-paper-talk",
-   "source": "Sky Sports",
-   "published": "2026-11-15T22:45:00+00:00",
-   "summary": "The top stories and transfer rumours from Monday's newspapers...",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "image_fallback": null
-  },
-  {
-   "title": "Who swaggered around like he owned the place? Spain v England ratings",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-15T22:12:55+00:00",
-   "summary": "Spanish football reporter Elizabeth Conway and senior football correspondent Sami Mokbel give their player ratings for Spain v England.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/aa50/live/2c2c7e30-e151-11f1-a2d0-ff163dc3689d.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa50/live/2c2c7e30-e151-11f1-a2d0-ff163dc3689d.jpg"
-  },
-  {
-   "title": "England talking points: Tuchel learns Argentina lesson as full-backs shine",
-   "link": "https://www.skysports.com/football/news/12040/13612611/spain-2-3-england-talking-points-thomas-tuchel-learns-lessons-from-argentina-as-harry-kane-ben-white-and-lewis-hall-shine",
-   "source": "Sky Sports",
-   "published": "2026-11-15T21:52:00+00:00",
-   "summary": "After England beat Spain in their own back yard in a statement result, we look at the main talking points from a memorable moment in Madrid...",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-thomas-tuchel-england_7407578.jpg?20261116081535",
-   "image_fallback": null
-  },
-  {
-   "title": "Ten-man England hold on to claim famous win over Spain",
-   "link": "https://www.skysports.com/football/spain-vs-england/report/554117",
-   "source": "Sky Sports",
-   "published": "2026-11-15T21:45:00+00:00",
-   "summary": "England withstood a Spain fightback after Elliot Anderson's red card to secure a famous 3-2 victory and finish above the world champions at the top of their Nations League group.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-ezri-konsa-england_7407324.jpg?20261115211138",
-   "image_fallback": null
-  },
-  {
-   "title": "Man Utd target Fulham's Bassey - Monday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-15T20:47:44+00:00",
-   "summary": "Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3cbd/live/8908cdb0-e143-11f1-a2d0-ff163dc3689d.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cbd/live/8908cdb0-e143-11f1-a2d0-ff163dc3689d.png"
-  },
-  {
-   "title": "London City's 'bravery' paying off in top three pursuit",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-15T20:03:08+00:00",
-   "summary": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/342a/live/cd3dcfa0-e141-11f1-b838-e76e4fa8abe5.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342a/live/cd3dcfa0-e141-11f1-b838-e76e4fa8abe5.jpg"
-  },
-  {
-   "title": "Ronaldinho makes comeback in Ravenna win",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-15T19:31:48+00:00",
-   "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg"
-  },
-  {
-   "title": "Arsenal's wait for home WSL win goes on after Earps masterclass",
-   "link": "https://www.skysports.com/football/arsenal-women-vs-london-city-lionesses/report/575818",
-   "source": "Sky Sports",
-   "published": "2026-11-15T18:30:00+00:00",
-   "summary": "Arsenal's wait for a home WSL win continues as they drew 1-1 against London City Lionesses on Sunday - their fifth draw in a row at the Emirates this season - with an inspired M...",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7407153.jpg?20261115164523",
-   "image_fallback": null
-  },
-  {
-   "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-15T18:27:08+00:00",
-   "summary": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d041/live/dc9e92f0-e127-11f1-9d32-63e01ae9cf36.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d041/live/dc9e92f0-e127-11f1-9d32-63e01ae9cf36.jpg"
-  },
-  {
-   "title": "Reaction to England's dramatic win in Spain",
-   "link": "https://www.skysports.com/football/spain-vs-england/live/554117",
-   "source": "Sky Sports",
-   "published": "2026-11-15T17:45:00+00:00",
-   "summary": "",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-englan-england-players_7407371.jpg?20261115220250",
-   "image_fallback": null
   }
  ]
 }
