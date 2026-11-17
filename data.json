@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T07:22:12.013757+00:00",
+ "updated": "2026-11-17T19:04:12.653991+00:00",
  "note": null,
  "quota_remaining": 99,
  "odds_quota_remaining": null,
@@ -2072,274 +2072,166 @@
  "picks": [],
  "news": [
   {
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cx5y1pl7yvz6o?at_medium=RSS&at_campaign=rss",
+   "title": "JJ Gabriel says goodbye to Man Utd amid Real Madrid agreement",
+   "link": "https://www.skysports.com/football/news/12040/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement",
+   "source": "Sky Sports",
+   "published": "2026-11-17T18:29:00+00:00",
+   "summary": "JJ Gabriel has announced he is leaving Manchester United as he looks forward to his \"next chapter\" at Real Madrid.",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-laliga_7396670.jpg?20261104095651",
+   "image_fallback": null
+  },
+  {
+   "title": "Arsenal Double winner Storey dies aged 81",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-17T06:26:22+00:00",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+   "published": "2026-11-17T17:33:41+00:00",
+   "summary": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2835/live/0a8db170-e2a7-11f1-8226-87dfa5049e9a.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2835/live/0a8db170-e2a7-11f1-8226-87dfa5049e9a.jpg"
+  },
+  {
+   "title": "Last chance to vote for BBC Women's Footballer of the Year 2026",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-17T17:13:24+00:00",
+   "summary": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+   "title": "Strasbourg close to appointing Swansea boss Matos in £5m deal",
+   "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+   "source": "Sky Sports",
+   "published": "2026-11-17T16:35:00+00:00",
+   "summary": "",
+   "image": "https://e0.365dm.com/26/07/1920x1080/skysports-vitor-matos_7311346.jpg?20261117125438",
+   "image_fallback": null
+  },
+  {
+   "title": "Arsenal close to new deals for Raya, Timber and Hincapie",
+   "link": "https://www.skysports.com/football/news/12040/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts",
+   "source": "Sky Sports",
+   "published": "2026-11-17T16:23:00+00:00",
+   "summary": "Arsenal are close to finalising new deals with David Raya, Jurrien Timber and Piero Hincapie.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-raya-timber_7408927.jpg?20261117162721",
+   "image_fallback": null
+  },
+  {
+   "title": "FA wants to host Nations League finals in England",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5742x4xldmpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-17T15:51:30+00:00",
+   "summary": "England could host the Nations League finals this season after Football Association officials register their interest.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0a7f/live/592780e0-e29d-11f1-8dda-8925a81c3da5.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7f/live/592780e0-e29d-11f1-8dda-8925a81c3da5.jpg"
+  },
+  {
+   "title": "Rooney contemplated suicide at ‘lowest point’ of Man Utd career",
+   "link": "https://www.skysports.com/football/news/12040/13613275/wayne-rooney-says-he-contemplated-suicide-during-lowest-point-of-manchester-united-career",
+   "source": "Sky Sports",
+   "published": "2026-11-17T14:36:00+00:00",
+   "summary": "Wayne Rooney has revealed there was a period in his Manchester United career where he contemplated suicide.",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-wayne-rooney_7403894.jpg?20261117152853",
+   "image_fallback": null
+  },
+  {
+   "title": "Rooney says he considered taking his own life at Man Utd",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-17T14:09:19+00:00",
+   "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e89d/live/4c076e50-e281-11f1-b166-176de21e2352.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e89d/live/4c076e50-e281-11f1-b166-176de21e2352.jpg"
+  },
+  {
+   "title": "Romario demands Ancelotti sacking as war of words continues",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c63rgq02pz9qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-17T13:10:58+00:00",
+   "summary": "Romario - Brazil's fourth-highest scorer behind Neymar, Pele and Ronaldo - publicly demands legendary manager Carlo Ancelotti be relieved of his duties.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/71f0/live/5325dfe0-e278-11f1-99a1-253766e7ad8b.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f0/live/5325dfe0-e278-11f1-99a1-253766e7ad8b.png"
+  },
+  {
+   "title": "Chelsea latest: Estevao scores in dominant Brazil win",
+   "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "source": "Sky Sports",
+   "published": "2026-11-17T12:00:00+00:00",
+   "summary": "",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829",
+   "image_fallback": null
+  },
+  {
+   "title": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-17T11:13:40+00:00",
+   "summary": "BBC Scotland picks its way through the permutations in Scotland's pursuit of Euro 2028 qualification.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/652a/live/58ba5ae0-e213-11f1-99a1-253766e7ad8b.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652a/live/58ba5ae0-e213-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "title": "London City's Goodwin gets first England call-up",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-17T11:06:33+00:00",
+   "summary": "London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2e6b/live/78344ae0-e275-11f1-b639-73d1df360b76.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e6b/live/78344ae0-e275-11f1-b639-73d1df360b76.jpg"
+  },
+  {
+   "title": "Blackburn boss Mowbray steps back over health issues",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-17T10:40:41+00:00",
+   "summary": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c590/live/c10bc840-e272-11f1-b19c-7b42f37bea48.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c590/live/c10bc840-e272-11f1-b19c-7b42f37bea48.jpg"
+  },
+  {
+   "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-17T10:32:07+00:00",
+   "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg"
+  },
+  {
+   "title": "Mowbray steps down from Blackburn due to health issues",
+   "link": "https://www.skysports.com/football/news/12040/13613146/tony-mowbray-steps-down-as-blackburn-rovers-head-coach-due-to-health-issues",
+   "source": "Sky Sports",
+   "published": "2026-11-17T10:00:00+00:00",
+   "summary": "Tony Mowbray has stepped down from his role as Blackburn Rovers head coach due to health issues.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-tony-mowbray-blackburn_7408470.jpg?20261117101155",
+   "image_fallback": null
+  },
+  {
+   "title": "Owono did not deserve 12-match ban - Pique",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-17T08:28:10+00:00",
+   "summary": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife for...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/729a/live/738fe790-e25e-11f1-84cb-b9a30b11458c.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/729a/live/738fe790-e25e-11f1-84cb-b9a30b11458c.jpg"
+  },
+  {
+   "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-17T07:22:26+00:00",
+   "summary": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ffc0/live/2037cc60-c261-11f1-a202-b3a903690ffe.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc0/live/2037cc60-c261-11f1-a202-b3a903690ffe.jpg"
   },
   {
    "title": "Why always him? The rise and fall of Balotelli",
    "link": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "published": "2026-11-17T06:15:43+00:00",
-   "summary": "BBC Sport looks at the career of former Manchester City and Inter Milan striker Mario Balotelli.",
+   "summary": "Fifteen years since his 'Why always me?' Manchester derby T-shirt celebration, BBC Sport looks at the career of former Manchester City striker Mario Balotelli.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/033a/live/effd2720-ddf4-11f1-8445-15eb55286f71.jpg",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/033a/live/effd2720-ddf4-11f1-8445-15eb55286f71.jpg"
-  },
-  {
-   "title": "Life after Ronaldo - Portugal face post-Bale Wales",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckvg29vler1no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-17T04:45:00+00:00",
-   "summary": "As Portugal adapt to life without the great Cristiano Ronaldo, they face a Wales side further along in their post-Gareth Bale era.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/95c4/live/3e1d00f0-e1e3-11f1-99b6-a35a62fa4264.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c4/live/3e1d00f0-e1e3-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "title": "Who should be the USMNT's coaching candidates to succeed Mauricio Pochettino?",
-   "link": "https://www.espn.com/soccer/story/_/id/50464388/usmnt-coaching-candidates-replace-mauricio-pochettino",
-   "source": "ESPN",
-   "published": "2026-11-17T02:22:33+00:00",
-   "summary": "Mauricio Pochettino's USMNT tenure ends after Tuesday's Nations League quarterfinal vs. Haiti, so who should U.S. Soccer be eyeing to replace him?",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "USMNT players embody Pochettino's legacy in dominant win over Haiti",
-   "link": "https://www.espn.com/soccer/story/_/id/50481434/usmnt-mauricio-pochettino-legacy-haiti",
-   "source": "ESPN",
-   "published": "2026-11-17T02:22:33+00:00",
-   "summary": "Pochettino reset the culture within the USMNT. Saturday showed his players intend to carry on his ideals.",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "Poch offers Pep advice on USMNT job, calls it 'perfect moment to arrive'",
-   "link": "https://www.espn.com/soccer/story/_/id/50504817/poch-pep-advice-usmnt-job",
-   "source": "ESPN",
-   "published": "2026-11-17T01:57:33+00:00",
-   "summary": "On the eve of his final game as coach of the United States, Mauricio Pochettino said that if Pep Guardiola asked him about the USMNT job, he'd recommend taking it if given the c...",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "Vinícius Júnior: 'Overwhelmed' by Arsenal transfer interest",
-   "link": "https://www.espn.com/soccer/story/_/id/50501260/vinicius-junior-real-madrid-arsenal-transfer-interest",
-   "source": "ESPN",
-   "published": "2026-11-17T01:57:33+00:00",
-   "summary": "Vinícius Júnior admitted his lacklustre start to the season can be partly attributed to feeling \"overwhelmed\" at being linked with a move away from Real Madrid in the summer.",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "Klopp: Nobody 'questioning' Germany after group-winning rout of Dutch",
-   "link": "https://www.espn.com/soccer/story/_/id/50505834/klopp-germany-netherlands-rout",
-   "source": "ESPN",
-   "published": "2026-11-17T01:57:33+00:00",
-   "summary": "Germany coach Jürgen Klopp said nobody will be questioning Germany after Florian Wirtz scored twice to help his team book a place in the Nations League quarterfinals.",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "Masked Emi Martínez to return for Argentina after jaw surgery",
-   "link": "https://www.espn.com/soccer/story/_/id/50505748/martinez-return-argentina-gruesome-jaw-injury",
-   "source": "ESPN",
-   "published": "2026-11-17T01:57:33+00:00",
-   "summary": "Chelsea goalkeeper Emiliano Martínez will return for Argentina's friendly against Costa Rica on Tuesday after a month on the sidelines due to a gruesome jaw injury.",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "Winless Márquez confident in Mexico future despite mounting pressure",
-   "link": "https://www.espn.com/soccer/story/_/id/50506705/winless-marquez-confident-mexico-future-mounting-pressure",
-   "source": "ESPN",
-   "published": "2026-11-17T01:57:33+00:00",
-   "summary": "Mexico coach Rafael Márquez said his team is \"obligated to win\" against Jamaica in Tuesday's Concacaf Nations League quarterfinal second leg as he searches for his first victory...",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "Jorge Jesus under fire as Ronaldo's mom blasts Portugal over tribute",
-   "link": "https://www.espn.com/soccer/story/_/id/50503146/jorge-jesus-controversy-ronaldo-mom-portugal-tribute",
-   "source": "ESPN",
-   "published": "2026-11-17T01:57:33+00:00",
-   "summary": "Portugal boss Jorge Jesus defended himself from comments made by Cristiano Ronaldo's mother Dolores Aveiro.",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "Sources: Rice agrees in principle to new five-year Arsenal deal",
-   "link": "https://www.espn.com/soccer/story/_/id/50505152/declan-rice-five-year-arsenal-deal",
-   "source": "ESPN",
-   "published": "2026-11-17T01:57:33+00:00",
-   "summary": "Arsenal midfielder Declan Rice has agreed in principle a new five-year deal which will see him extend his time at the club until 2031, sources have told ESPN.",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "French Football Federation boss Diallo to challenge Infantino for FIFA presidency",
-   "link": "https://www.espn.com/soccer/story/_/id/50501932/fifa-uefa-gianni-infantino-philippe-diallo-fff",
-   "source": "ESPN",
-   "published": "2026-11-17T01:57:33+00:00",
-   "summary": "French Football Federation president Philippe Diallo will challenge Gianni Infantino for the top job at FIFA next year.",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "⚽ Why Champions League's iconic 'star' ball could soon be replaced",
-   "link": "https://www.espn.com/soccer/story/_/id/49730333/uefa-champions-league-adidas-nike-ball",
-   "source": "ESPN",
-   "published": "2026-11-17T01:57:33+00:00",
-   "summary": "Nike will replace Adidas as supplier of UEFA Champions League match balls from next season. Will the famous 'star ball' design soon be no more?",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "What's the story with Scotland boss Pocognoli - is it time to go?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-17T00:19:58+00:00",
-   "summary": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "title": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-16T22:36:26+00:00",
-   "summary": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9cdd/live/1fc24180-e20e-11f1-99b6-a35a62fa4264.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdd/live/1fc24180-e20e-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "title": "Robertson makes history with record 103rd Scotland cap",
-   "link": "https://www.skysports.com/football/news/12040/13612913/andy-robertson-scotland-captain-breaks-national-appearance-record-by-winning-103rd-senior-cap-vs-switzerland",
-   "source": "Sky Sports",
-   "published": "2026-11-16T22:30:00+00:00",
-   "summary": "Andy Robertson has broken the record for the most senior Scotland men's team caps, surpassing the feat held by Sir Kenny Dalglish for 40 years.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-football-scotland_7402989.jpg?20261110115123",
-   "image_fallback": null
-  },
-  {
-   "title": "Man Utd to resurrect Hall interest - Tuesday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-16T22:06:32+00:00",
-   "summary": "Manchester United may struggle to prise defender Lewis Hall from Newcastle, Arsenal midfielder Martin Zubimendi is pondering his future, Chelsea eye a double swoop for Barcelona...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/833e/live/92b22870-e201-11f1-ba8d-01314a590f72.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/833e/live/92b22870-e201-11f1-ba8d-01314a590f72.png"
-  },
-  {
-   "title": "Record-breaker Robertson speaks out after Scotland's bad loss to Switzerland",
-   "link": "https://www.skysports.com/football/switzerland-vs-scotland/report/554127",
-   "source": "Sky Sports",
-   "published": "2026-11-16T21:35:00+00:00",
-   "summary": "Andy Robertson created Scotland history, then delivered a scathing assessment of their Nations League collapse against Switzerland.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-scotland-robertson_7408181.jpg?20261116215135",
-   "image_fallback": null
-  },
-  {
-   "title": "Rice verbally agrees new Arsenal contract",
-   "link": "https://www.skysports.com/football/news/12040/13612986/declan-rice-contract-arsenal-midfielder-verbally-agrees-new-320000-a-week-deal-with-the-premier-league-champions",
-   "source": "Sky Sports",
-   "published": "2026-11-16T21:12:00+00:00",
-   "summary": "Declan Rice has verbally agreed terms on a new long-term contract at Arsenal, Sky Sports News can reveal.",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-declan-rice-arsenal_7383215.jpg?20261021214729",
-   "image_fallback": null
-  },
-  {
-   "title": "Portugal boss responds to criticism from Ronaldo's mum",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck87984g3x1po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-16T21:08:06+00:00",
-   "summary": "Jorge Jesus responds to claims by Cristiano Ronaldo's mother, Dolores Aveiro, that her son had been \"deceived\" by the Portugal manager.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6ca3/live/b14c4cf0-e1f9-11f1-ac6e-e9777cdcbb4f.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/b14c4cf0-e1f9-11f1-ac6e-e9777cdcbb4f.jpg"
-  },
-  {
-   "title": "Swansea in fight to keep Matos amid Strasbourg interest",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-16T21:01:50+00:00",
-   "summary": "Vitor Matos has emerged as a target for French top-flight club Strasbourg who could soon part ways with Hugo Oliveira.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg"
-  },
-  {
-   "title": "How Frank can restore reputation and save Crystal Palace",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-16T17:46:16+00:00",
-   "summary": "Will Thomas Frank - now confirmed as the new manager of Crystal Palace - rebuild his reputation at Selhurst Park after a bruising time at Tottenham?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a30c/live/69f709f0-df63-11f1-a8af-15d7a25dc0d1.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a30c/live/69f709f0-df63-11f1-a8af-15d7a25dc0d1.png"
-  },
-  {
-   "title": "Klopp says Infantino worse than Blatter",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-16T15:54:36+00:00",
-   "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infa...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg"
-  },
-  {
-   "title": "Man Utd latest: Pochettino staff arrive in Manchester early to prepare for Liverpool",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "source": "Sky Sports",
-   "published": "2026-11-16T15:30:00+00:00",
-   "summary": "",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625",
-   "image_fallback": null
-  },
-  {
-   "title": "Has Trafford replaced Pickford as England No 1?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-16T13:01:41+00:00",
-   "summary": "James Trafford was given a chance to stake his claim as England's new number one - and away to the world champions, he absolutely took it.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0930/live/36ea8540-e1b7-11f1-9a3f-99aca912798e.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0930/live/36ea8540-e1b7-11f1-9a3f-99aca912798e.jpg"
-  },
-  {
-   "title": "Meet Como's Nico Paz, the heir to Lionel Messi's No. 10 shirt for Argentina",
-   "link": "https://www.espn.com/soccer/story/_/id/50460862/nico-paz-como-argentina-lionel-messi",
-   "source": "ESPN",
-   "published": "2026-11-16T09:02:57+00:00",
-   "summary": "Como's Nico Paz has become one of the best young players in Europe, but now he faces the unenviable task of stepping into Lionel Messi's Argentina No. 10 shirt.",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "Burnham urges caution on scrapping 3pm TV blackout",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-16T08:18:33+00:00",
-   "summary": "Andy Burnham urges caution on lifting the Saturday 3pm TV blackout in the UK, saying the health of the football pyramid should come first.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/43a5/live/21c1a6e0-e201-11f1-ba8d-01314a590f72.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43a5/live/21c1a6e0-e201-11f1-ba8d-01314a590f72.jpg"
-  },
-  {
-   "title": "Papers: Timber, Raya and Hincapie to sign new Arsenal contracts",
-   "link": "https://www.skysports.com/football/news/12040/13613047/jurrien-timber-david-raya-and-piero-hincapie-to-extend-arsenal-contracts-alongside-declan-rice-paper-talk",
-   "source": "Sky Sports",
-   "published": "2026-11-15T22:45:00+00:00",
-   "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "image_fallback": null
-  },
-  {
-   "title": "Rice: More to come from Arsenal's £105m 'bargain'",
-   "link": "https://www.skysports.com/football/news/12040/13596475/declan-rice-arsenals-total-player-and-105m-bargain-can-unlock-more-levels-after-agreeing-new-contract",
-   "source": "Sky Sports",
-   "published": "2026-10-08T12:54:00+00:00",
-   "summary": "Arsenal's Kroenke family owners tend not to get involved in transfer dealings but when it came to Declan Rice, and the prospect of spending £100m on a player for the first time,...",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-premier-league-arsenal_7371338.jpg?20261008143645",
-   "image_fallback": null
   }
  ]
 }
