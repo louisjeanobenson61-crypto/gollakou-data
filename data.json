@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T18:53:30.361992+00:00",
+ "updated": "2026-11-23T07:39:21.133064+00:00",
  "note": null,
  "quota_remaining": 99,
  "odds_quota_remaining": null,
@@ -2072,30 +2072,111 @@
  "picks": [],
  "news": [
   {
-   "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5zjred9vl7jo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-22T18:28:51+00:00",
-   "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8f96/live/26ee3650-e694-11f1-936e-1fd1d31671db.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f96/live/26ee3650-e694-11f1-936e-1fd1d31671db.jpg"
+   "published": "2026-11-23T06:31:21+00:00",
+   "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
   },
   {
-   "title": "Nightmare start for Pochettino as Liverpool rout 10-man Man Utd",
-   "link": "https://www.skysports.com/football/liverpool-vs-manchester-united/report/559550",
+   "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-23T06:17:59+00:00",
+   "summary": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/fc61/live/ebf65340-e4f7-11f1-a8e4-b1e12a49db15.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc61/live/ebf65340-e4f7-11f1-a8e4-b1e12a49db15.jpg"
+  },
+  {
+   "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-22T23:20:16+00:00",
+   "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png"
+  },
+  {
+   "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-22T21:44:37+00:00",
+   "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/557b/live/9cccbb70-e6b8-11f1-bb92-6d8a0512bfb0.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557b/live/9cccbb70-e6b8-11f1-bb92-6d8a0512bfb0.jpg"
+  },
+  {
+   "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-22T21:36:00+00:00",
+   "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have do...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-22T21:22:10+00:00",
+   "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "title": "Man Utd plotting Toney move - Monday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-22T21:04:15+00:00",
+   "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/174b/live/54b51b60-e6aa-11f1-99b6-a35a62fa4264.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174b/live/54b51b60-e6aa-11f1-99b6-a35a62fa4264.png"
+  },
+  {
+   "title": "Gary Neville on De Ligt selection and 'negligent' Man Utd",
+   "link": "https://www.skysports.com/football/news/12040/13615413/liverpool-4-0-man-utd-gary-neville-on-matthijs-de-ligt-selection-and-negligent-red-devils",
    "source": "Sky Sports",
-   "published": "2026-11-22T18:25:00+00:00",
-   "summary": "Mauricio Pochettino endured a horror start to his Manchester United tenure as his 10-man side were thrashed 4-0 by Liverpool at Anfield following Leny Yoro's early sending off.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-rio-ngumoha-liverpool_7413795.jpg?20261122181605",
+   "published": "2026-11-22T20:25:00+00:00",
+   "summary": "Gary Neville accused Manchester United's hierarchy of negligence for failing to strengthen their back line as their 4-0 loss to Liverpool left them with the worst defensive reco...",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7413726.jpg?20261122171838",
    "image_fallback": null
   },
   {
-   "title": "Man Utd latest: Neville reacts to club having worst defence in Europe",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+   "link": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-22T19:59:38+00:00",
+   "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/29c3/live/e536fa10-e69f-11f1-a094-5fdc692f3e33.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c3/live/e536fa10-e69f-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-22T19:59:35+00:00",
+   "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation z...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a55a/live/4cb54b80-e6a8-11f1-99a1-253766e7ad8b.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/4cb54b80-e6a8-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-22T19:03:32+00:00",
+   "summary": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d1b0/live/8817d730-e697-11f1-99b6-a35a62fa4264.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1b0/live/8817d730-e697-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+   "title": "'No chance!' - Poch and Mainoo fume at 'unfair' Yoro red card",
+   "link": "https://www.skysports.com/football/news/12040/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak",
    "source": "Sky Sports",
-   "published": "2026-11-22T18:24:00+00:00",
-   "summary": "",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625",
+   "published": "2026-11-22T18:58:00+00:00",
+   "summary": "Mauricio Pochettino felt Manchester United were given an \"unfair\" red card in their 4-0 defeat at Liverpool - with Kobbie Mainoo replying \"no chance\" when asked whether Leny Yor...",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413680.jpg?20261122164441",
    "image_fallback": null
   },
   {
@@ -2104,179 +2185,17 @@
    "source": "BBC Sport",
    "published": "2026-11-22T17:55:54+00:00",
    "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2d35/live/ce5f0cc0-e694-11f1-936e-1fd1d31671db.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/ce5f0cc0-e694-11f1-936e-1fd1d31671db.jpg"
-  },
-  {
-   "title": "Spurs deny Man City top spot with statement win",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-22T17:54:36+00:00",
-   "summary": "Despite taking an early lead through Khadija Shaw, Manchester City suffer a second consecutive defeat as Spurs earn an impressive victory and deny them the chance to return to t...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1e34/live/d35df9b0-e68b-11f1-99b6-a35a62fa4264.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e34/live/d35df9b0-e68b-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "title": "Man Utd score dramatic late winner to extend record run",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm0rkzzyl2ego?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-22T17:54:32+00:00",
-   "summary": "Simi Awujo's last-gasp winner caps a remarkable Manchester United comeback at Birmingham, securing a dramatic victory and stretching the club's record unbeaten run to 14 matches.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/fe89/live/ca5f8910-e68a-11f1-99a1-253766e7ad8b.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe89/live/ca5f8910-e68a-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "title": "Arsenal frustrations grow as winless home run continues",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-22T17:30:45+00:00",
-   "summary": "Arsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/eba6/live/e2a8c430-e696-11f1-a094-5fdc692f3e33.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba6/live/e2a8c430-e696-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "title": "Jakirovic full of praise for Tzolakis performance",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-22T17:18:07+00:00",
-   "summary": "Hull head coach Sergej Jakirovic is pleased with his side's \"precise\" counter-attacking to earn a victory over Brighton, and describes goalkeeper Konstantinos Tzolakis' performa...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/bb36/live/8e08d630-e697-11f1-a094-5fdc692f3e33.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb36/live/8e08d630-e697-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "title": "Arsenal booed after another home WSL draw as Man Utd beat Blues",
-   "link": "https://www.skysports.com/football/news/12040/13615326/wsl-arsenal-draw-again-at-home-man-utd-leave-it-late-to-beat-birmingham-and-charlton-earn-first-point-of-season",
-   "source": "Sky Sports",
-   "published": "2026-11-22T17:15:00+00:00",
-   "summary": "Arsenal were booed by their fans after they held to a sixth successive draw at home, drawing 0-0 with West Ham in the Women's Super League.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-alessia-russo-ines-belloumou_7413577.jpg?20261122152453",
-   "image_fallback": null
-  },
-  {
-   "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-22T17:00:01+00:00",
-   "summary": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "title": "How did Spurs beat Man City?",
-   "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-   "source": "Sky Sports",
-   "published": "2026-11-22T17:00:00+00:00",
-   "summary": "",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-man-city-women-tottenham-women_7413707.jpg?20261122165904",
-   "image_fallback": null
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9413/live/785f7370-e6b0-11f1-99b6-a35a62fa4264.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9413/live/785f7370-e6b0-11f1-99b6-a35a62fa4264.jpg"
   },
   {
    "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
    "link": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "published": "2026-11-22T16:25:35+00:00",
-   "summary": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more...",
+   "summary": "Women's Champions League qualification may have seemed fanciful for Tottenham at the start of the season - but they are firmly in the mix after winning at Manchester City.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4747/live/e517d950-e69f-11f1-99a1-253766e7ad8b.jpg",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4747/live/e517d950-e69f-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "title": "McBurnie's late double stuns 10-man Brighton after Tzolakis heroics",
-   "link": "https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/report/559549",
-   "source": "Sky Sports",
-   "published": "2026-11-22T16:15:00+00:00",
-   "summary": "A Konstantinos Tzolakis goalkeeping masterclass teed up Oli McBurnie to score two late goals as Hull stunned dominant Brighton in a smash-and-grab 2-0 win at the MKM Stadium.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-oli-mcburnie-hull-city_7413617.jpg?20261122155755",
-   "image_fallback": null
-  },
-  {
-   "title": "Punishing start for Pochettino as size of Man Utd mess made clear",
-   "link": "https://www.skysports.com/football/news/12040/13615315/mauricio-pochettino-made-mistakes-in-man-utds-4-0-defeat-to-liverpool-but-the-size-of-the-mess-he-has-inherited-is-clear",
-   "source": "Sky Sports",
-   "published": "2026-11-22T16:15:00+00:00",
-   "summary": "Well, they ran. They had to because there were only 10 of them for all but the first seven minutes. If running were the only problem then this mess might soon be solvable. But M...",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7413802.jpg?20261122181812",
-   "image_fallback": null
-  },
-  {
-   "title": "PSG's Doue to have surgery on ruptured ACL",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-22T15:50:05+00:00",
-   "summary": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/fb0e/live/e990a750-e68b-11f1-936e-1fd1d31671db.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0e/live/e990a750-e68b-11f1-936e-1fd1d31671db.jpg"
-  },
-  {
-   "title": "Burnley’s wait for a home win goes on as Blackburn twice hit back in derby",
-   "link": "https://www.skysports.com/football/burnley-vs-blackburn-rovers/report/560679",
-   "source": "Sky Sports",
-   "published": "2026-11-22T14:15:00+00:00",
-   "summary": "Todd Cantwell's penalty earned Blackburn a 2-2 draw at Burnley in their first match since head coach Tony Mowbray stepped back because of health issues.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-todd-cantwell-blackburn-rovers_7413453.jpg?20261122135146",
-   "image_fallback": null
-  },
-  {
-   "title": "Hull 2-0 Brighton - free match highlights and commentary",
-   "link": "https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/live/559549",
-   "source": "Sky Sports",
-   "published": "2026-11-22T12:23:00+00:00",
-   "summary": "",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-oli-mcburnie-premier-league_7413619.jpg?20261122155904",
-   "image_fallback": null
-  },
-  {
-   "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-22T12:00:45+00:00",
-   "summary": "Watford sack head coach Alessio Dionisi after 18 games in charge.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e672/live/da29eaa0-adfc-11f1-8169-6fdea7f79791.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/da29eaa0-adfc-11f1-8169-6fdea7f79791.jpg"
-  },
-  {
-   "title": "I wish referee had opportunity to see 'handball' again - Hart",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-22T00:08:13+00:00",
-   "summary": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2b7c/live/99f4c5e0-e600-11f1-a094-5fdc692f3e33.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b7c/live/99f4c5e0-e600-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-21T21:14:08+00:00",
-   "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b3a1/live/dec0b5d0-e5ec-11f1-99a1-253766e7ad8b.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a1/live/dec0b5d0-e5ec-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "title": "Hull City latest: Is goalkeeper Tzolakis destined for the top?",
-   "link": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "source": "Sky Sports",
-   "published": "2026-11-20T15:25:00+00:00",
-   "summary": "",
-   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-city-club-blog_7326699.jpg?20260820165339",
-   "image_fallback": null
-  },
-  {
-   "title": "PSG confirm Doue has ACL injury with surgery imminent",
-   "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-   "source": "Sky Sports",
-   "published": "2026-11-19T14:00:00+00:00",
-   "summary": "",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-desire-doue-psg-ligue-1_7413511.jpg?20261122143256",
-   "image_fallback": null
-  },
-  {
-   "title": "Reaction as Liverpool thump 10-man Man Utd in Pochettino's first game LIVE!",
-   "link": "https://www.skysports.com/football/liverpool-vs-manchester-united/live/559550",
-   "source": "Sky Sports",
-   "published": "2026-11-11T10:49:00+00:00",
-   "summary": "",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7413811.jpg?20261122182502",
-   "image_fallback": null
   }
  ]
 }
