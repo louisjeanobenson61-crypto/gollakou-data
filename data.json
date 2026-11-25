@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:03:38.639102+00:00",
+ "updated": "2026-11-25T07:26:18.177298+00:00",
  "note": null,
  "quota_remaining": 99,
  "odds_quota_remaining": null,
@@ -2072,31 +2072,175 @@
  "picks": [],
  "news": [
   {
-   "title": "Rangers vs Aberdeen team news LIVE!",
-   "link": "https://www.skysports.com/football/rangers-vs-aberdeen/live/578619",
-   "source": "Sky Sports",
-   "published": "2026-11-24T18:30:00+00:00",
-   "summary": "",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-rangers-aberdeen_7415406.jpg?20261124152521",
-   "image_fallback": null
-  },
-  {
-   "title": "Saliba only on bench as Kepa replaces Raya against Dortmund LIVE!",
-   "link": "https://www.skysports.com/football/arsenal-vs-borussia-dortmund/live/577669",
-   "source": "Sky Sports",
-   "published": "2026-11-24T18:00:00+00:00",
-   "summary": "",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-martin-odegaard-arsenal_7400173.jpg?20261107164646",
-   "image_fallback": null
-  },
-  {
-   "title": "Klopp advice and Iraola confidence boosts Wirtz",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxvg2e6l57j7o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-24T17:19:08+00:00",
-   "summary": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d8c1/live/b4c97960-e826-11f1-93d4-6d580946ad80.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c1/live/b4c97960-e826-11f1-93d4-6d580946ad80.jpg"
+   "published": "2026-11-25T06:56:11+00:00",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "title": "Are Manchester United this season's Tottenham?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-25T06:22:36+00:00",
+   "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Man Utd in danger of being the new Spurs?",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d6f7/live/c5b34650-e80f-11f1-ab42-55d8d8278025.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f7/live/c5b34650-e80f-11f1-ab42-55d8d8278025.jpg"
+  },
+  {
+   "title": "Bellingham plays down Zidane comparison after wonder goal",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-24T23:54:10+00:00",
+   "summary": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/204f/live/561f0780-e85e-11f1-8c24-5f78b2492e15.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/204f/live/561f0780-e85e-11f1-8c24-5f78b2492e15.jpg"
+  },
+  {
+   "title": "Arteta says Arsenal need more luck to kill off games",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-24T23:44:04+00:00",
+   "summary": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f58f/live/d9bad6f0-e859-11f1-9b85-e50d1e9de678.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58f/live/d9bad6f0-e859-11f1-9b85-e50d1e9de678.jpg"
+  },
+  {
+   "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-24T23:17:42+00:00",
+   "summary": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dc72/live/fbc81740-e853-11f1-aa88-031e8213533d.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc72/live/fbc81740-e853-11f1-aa88-031e8213533d.jpg"
+  },
+  {
+   "title": "Papers: Chelsea will push to sign Bournemouth's Scott in January",
+   "link": "https://www.skysports.com/football/news/12040/13616238/chelsea-transfer-news-blues-will-push-to-sign-bournemouth-midfielder-alex-scott-in-january-paper-talk",
+   "source": "Sky Sports",
+   "published": "2026-11-24T23:02:00+00:00",
+   "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "image_fallback": null
+  },
+  {
+   "title": "Arsenal punished for bluntless in attack - but Man City also have problems",
+   "link": "https://www.skysports.com/football/news/12040/13616234/arsenal-and-manchester-citys-problems-analysed-as-both-set-to-meet-in-bumper-premier-league-clash-this-weekend",
+   "source": "Sky Sports",
+   "published": "2026-11-24T22:54:00+00:00",
+   "summary": "Arsenal face Manchester City in a blockbuster Premier League contest this weekend, but in recent days and months, both teams have issues to overcome.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-arsenal-city-manchester_7415805.jpg?20261124224824",
+   "image_fallback": null
+  },
+  {
+   "title": "'You question everything' - Haaland lays City's frustrations bare",
+   "link": "https://www.skysports.com/football/news/12040/13616226/erling-haaland-frustrated-with-manchester-city-form-when-you-dont-win-you-question-everything",
+   "source": "Sky Sports",
+   "published": "2026-11-24T22:51:00+00:00",
+   "summary": "Erling Haaland has admitted Manchester City's poor form is affecting the players, admitting \"when you don't win, you question everything\" after they were held 2-2 at home by Nap...",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-haaland-manchester-city_7415835.jpg?20261124230423",
+   "image_fallback": null
+  },
+  {
+   "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-24T22:05:31+00:00",
+   "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5078/live/783a6be0-e848-11f1-a094-5fdc692f3e33.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5078/live/783a6be0-e848-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "title": "Poch fumes at Yoro red and thinks Szoboszlai goal shouldn't have stood",
+   "link": "https://www.skysports.com/football/news/12040/13616134/mauricio-pochettino-man-utd-boss-fumes-at-var-in-liverpool-loss-over-leny-yoro-and-dominik-szoboszlai-calls",
+   "source": "Sky Sports",
+   "published": "2026-11-24T21:50:00+00:00",
+   "summary": "Mauricio Pochettino has heavily criticised VAR in Manchester United's loss at Liverpool after Leny Yoro's red card was overturned, while the Argentine believes Dominik Szoboszla...",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7415728.jpg?20261124215803",
+   "image_fallback": null
+  },
+  {
+   "title": "Hibernian finally register home win after battling past Dundee",
+   "link": "https://www.skysports.com/football/hibernian-vs-dundee/report/558401",
+   "source": "Sky Sports",
+   "published": "2026-11-24T21:35:00+00:00",
+   "summary": "Hibernian ended their long wait for a Premiership home win after overcoming Dundee 2-1 at Easter Road.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-hibs-dundee_7415758.jpg?20261124222004",
+   "image_fallback": null
+  },
+  {
+   "title": "Norwich hit back to hold QPR",
+   "link": "https://www.skysports.com/football/norwich-city-vs-queens-park-rangers/report/560694",
+   "source": "Sky Sports",
+   "published": "2026-11-24T21:35:00+00:00",
+   "summary": "Norwich's impressive run of victories came to an end as QPR held them to a 1-1 draw at Carrow Road.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-norwich-qpr_7415693.jpg?20261124214201",
+   "image_fallback": null
+  },
+  {
+   "title": "Armstrong nets twice in Wolves win",
+   "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-derby-county/report/560697",
+   "source": "Sky Sports",
+   "published": "2026-11-24T21:35:00+00:00",
+   "summary": "Adam Armstrong's brace made it six goals in six games to give dominant Wolves a 3-0 win over Derby in the Sky Bet Championship at Molineux.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-wolves-fc_7415653.jpg?20261124210109",
+   "image_fallback": null
+  },
+  {
+   "title": "Southampton held at Sheffield United",
+   "link": "https://www.skysports.com/football/sheffield-united-vs-southampton/report/560696",
+   "source": "Sky Sports",
+   "published": "2026-11-24T21:35:00+00:00",
+   "summary": "Sydie Peck equalised in the 90th minute as Sheffield United came from behind to secure a 1-1 Championship draw with Southampton at Bramall Lane.",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-sheffield-united_7415747.jpg?20261124220334",
+   "image_fallback": null
+  },
+  {
+   "title": "Preston off bottom after thrashing Cardiff",
+   "link": "https://www.skysports.com/football/cardiff-city-vs-preston-north-end/report/560691",
+   "source": "Sky Sports",
+   "published": "2026-11-24T21:35:00+00:00",
+   "summary": "Preston's revival under new boss Graham Alexander picked up more pace as they took Cardiff's unbeaten home league record with a 4-0 triumph in the Welsh capital that moved them...",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-preston-north-end_7415695.jpg?20261124214219",
+   "image_fallback": null
+  },
+  {
+   "title": "Charlton sweep to victory over Lincoln",
+   "link": "https://www.skysports.com/football/charlton-athletic-vs-lincoln-city/report/560692",
+   "source": "Sky Sports",
+   "published": "2026-11-24T21:35:00+00:00",
+   "summary": "Charlton swept Lincoln aside at The Valley with an impressive 4-0 Sky Bet Championship victory.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-charlton-athletic_7415692.jpg?20261124214140",
+   "image_fallback": null
+  },
+  {
+   "title": "Man Utd target Collins - Wednesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-24T20:51:44+00:00",
+   "summary": "Manchester United target Brentford defender Nathan Collins, Bournemouth price forward Eli Junior Kroupi at £100m and Liverpool close in on new Rio Ngumoha contract.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d34b/live/8ee6d700-e840-11f1-a094-5fdc692f3e33.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d34b/live/8ee6d700-e840-11f1-a094-5fdc692f3e33.png"
+  },
+  {
+   "title": "Bayern hold 'constructive' talks over Musiala's health",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9x2ejnypp8jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-24T19:58:58+00:00",
+   "summary": "Bayern Munich are only focused on getting Jamal Musiala back from injury and not interested in the comments made regarding his contract, the club's sporting director Max Eberl i...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a4fa/live/a6b3ed00-e83b-11f1-917e-35f1674fb52c.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4fa/live/a6b3ed00-e83b-11f1-917e-35f1674fb52c.jpg"
+  },
+  {
+   "title": "Villa beaten late on at Galatasaray as winless run continues",
+   "link": "https://www.skysports.com/football/galatasaray-vs-aston-villa/report/577673",
+   "source": "Sky Sports",
+   "published": "2026-11-24T19:40:00+00:00",
+   "summary": "Aston Villa's winless run extended to six games as a late Deniz Gul's header saw them beaten 1-0 by Galatasaray in the Champions League league phase.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-galatasaray-deniz-gul_7415608.jpg?20261124194142",
+   "image_fallback": null
   },
   {
    "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
@@ -2108,157 +2252,40 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
   },
   {
-   "title": "How 'quick check' and unseen angle saw Timber's Isak shirt-pull go unpunished",
-   "link": "https://www.skysports.com/football/news/12040/13616058/jurrien-timbers-shirt-pull-on-alexander-isak-ref-chief-howard-webb-admits-quick-check-in-arsenals-win-at-liverpool",
+   "title": "Cherki salvages draw with Napoli but Man City frustrate",
+   "link": "https://www.skysports.com/football/manchester-city-vs-napoli/report/577674",
    "source": "Sky Sports",
-   "published": "2026-11-24T17:13:00+00:00",
-   "summary": "Referees’ chief Howard Webb admitted it was a “quick check” by VAR for Arsenal defender Jurrien Timber’s unpunished shirt-pull on Liverpool striker Alexander Isak in the Gunners...",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-alexander-isak-jurrien-timber_7403744.jpg?20261111105128",
+   "published": "2026-11-24T12:09:00+00:00",
+   "summary": "Rayan Cherki’s late strike salvaged a 2-2 draw for Manchester City at home to Napoli in the Champions League but Enzo Maresca’s side again struggled to find their fluency.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-rayan-cherki-man-city_7415764.jpg?20261124222209",
    "image_fallback": null
   },
   {
-   "title": "Yoro red card overturned, but refs' chief Webb backs decision",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
+   "title": "The youngest Premier League goalscorers this season",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-24T17:00:32+00:00",
-   "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8849/live/f41d1460-e820-11f1-a58d-43263bea41a8.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8849/live/f41d1460-e820-11f1-a58d-43263bea41a8.jpg"
+   "published": "2026-11-24T09:10:34+00:00",
+   "summary": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/329e/live/957cac80-e7c7-11f1-99a1-253766e7ad8b.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329e/live/957cac80-e7c7-11f1-99a1-253766e7ad8b.jpg"
   },
   {
-   "title": "Ref chief Webb backs process around Yoro sending off despite successful appeal",
-   "link": "https://www.skysports.com/football/news/12040/13616033/leny-yoro-red-card-ref-chief-howard-webb-backs-process-that-saw-man-utd-defender-sent-off-at-liverpool",
-   "source": "Sky Sports",
-   "published": "2026-11-24T17:00:00+00:00",
-   "summary": "Referees' chief Howard Webb has backed the process of the officials who sent off Manchester United defender Leny Yoro at Liverpool - despite the red card being overturned on app...",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413691.jpg?20261122165102",
-   "image_fallback": null
-  },
-  {
-   "title": "Yoro red card overturned after successful Man Utd appeal",
-   "link": "https://www.skysports.com/football/news/12040/13616021/leny-yoros-red-card-for-manchester-united-against-liverpool-overturned-following-successful-appeal",
-   "source": "Sky Sports",
-   "published": "2026-11-24T17:00:00+00:00",
-   "summary": "Leny Yoro's red card against Liverpool has been overturned following a successful appeal from Manchester United.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413680.jpg?20261122164441",
-   "image_fallback": null
-  },
-  {
-   "title": "FA chief signs NDA to view Fifa sell-off plot documents",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
+   "title": "Moyes questions Tarkowski red in Brentford loss",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-24T16:34:18+00:00",
-   "summary": "Debbie Hewitt is among several football chiefs to view documents made available by Fifa, but cannot speak about them.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/719b/live/558488f0-e821-11f1-a58d-43263bea41a8.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719b/live/558488f0-e821-11f1-a58d-43263bea41a8.jpg"
+   "published": "2026-11-23T22:54:51+00:00",
+   "summary": "Everton manager David Moyes questions whether the force of James Tarkowski's challenge was taken into consideration, after the defender was shown a red card in his side's 4-0 lo...",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e6ae/live/3f15c680-e78e-11f1-99b6-a35a62fa4264.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6ae/live/3f15c680-e78e-11f1-99b6-a35a62fa4264.jpg"
   },
   {
-   "title": "Villa and Galatasaray getting feisty as wait for goal continues LIVE!",
-   "link": "https://www.skysports.com/football/galatasaray-vs-aston-villa/live/577673",
-   "source": "Sky Sports",
-   "published": "2026-11-24T16:15:00+00:00",
-   "summary": "",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-ian-maatsen-aston-villa_7415552.jpg?20261124182322",
-   "image_fallback": null
-  },
-  {
-   "title": "Millwall face partial stadium closure after discriminatory chants",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
+   "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
-   "published": "2026-11-24T14:23:49+00:00",
-   "summary": "Millwall must play a home game in front of a partially-closed stadium as punishment for fans' discriminatory chants.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/33d0/live/0672fcd0-e7fc-11f1-ab60-79086b6495b8.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d0/live/0672fcd0-e7fc-11f1-ab60-79086b6495b8.jpg"
-  },
-  {
-   "title": "Senegal confirmed AFCON 2025 champions after appeal",
-   "link": "https://www.skysports.com/football/news/12040/13615545/senegal-crowned-afcon-2025-champions-by-court-of-arbitration-for-sport-following-appeal",
-   "source": "Sky Sports",
-   "published": "2026-11-24T14:20:00+00:00",
-   "summary": "The Court of Arbitration for Sport (CAS) has announced Senegal as the winners of the 2025 Africa Cup of Nations (AFCON).",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-sadio-mane_7415365.jpg?20261124145012",
-   "image_fallback": null
-  },
-  {
-   "title": "Millwall first club hit with partial closure over discriminatory chants",
-   "link": "https://www.skysports.com/football/news/12040/13615754/millwall-forced-to-partially-close-the-den-after-commission-proves-fa-charges-of-discriminatory-chanting",
-   "source": "Sky Sports",
-   "published": "2026-11-24T14:00:00+00:00",
-   "summary": "Millwall have become the first club in the top four divisions of English football to be punished with a partial stadium closure for discriminatory chanting after a regulatory co...",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-the-den-millwall_7414741.jpg?20261123192207",
-   "image_fallback": null
-  },
-  {
-   "title": "Man City vs Napoli team news as De Bruyne starts LIVE!",
-   "link": "https://www.skysports.com/football/manchester-city-vs-napoli/live/577674",
-   "source": "Sky Sports",
-   "published": "2026-11-24T12:40:00+00:00",
-   "summary": "",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-phil-foden-elliot-anderson_7412851.jpg?20261121192525",
-   "image_fallback": null
-  },
-  {
-   "title": "Non-league player injured falling down badger hole",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw0k636m0vr3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-24T12:31:12+00:00",
-   "summary": "Cav Miley missed Chelmsford City's draw with Walton and Hersham after spraining an ankle falling down a badger hole.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/da19/live/dba64620-e7ff-11f1-99a1-253766e7ad8b.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da19/live/dba64620-e7ff-11f1-99a1-253766e7ad8b.png"
-  },
-  {
-   "title": "Palace docked points for using four sub windows in WSL win",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-24T12:14:19+00:00",
-   "summary": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3050/live/a5fbf0d0-e7fd-11f1-ab60-79086b6495b8.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/a5fbf0d0-e7fd-11f1-ab60-79086b6495b8.jpg"
-  },
-  {
-   "title": "Dead hippo to be honoured on football club tifo",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-24T09:43:38+00:00",
-   "summary": "Major League Soccer side FC Cincinnati will honour Fiona, a hippo that recently died at the city's zoo, with a tifo display at their match with Nashville SC on Saturday.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5345/live/8e981730-e7f2-11f1-8b26-c1adae33e7f2.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5345/live/8e981730-e7f2-11f1-8b26-c1adae33e7f2.jpg"
-  },
-  {
-   "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-24T06:57:16+00:00",
-   "summary": "Kevin de Bruyne's move to Napoli last summer was supposed to mark a continuation of his glittering decade at Manchester City as he approaches the twilight years of his career.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/20b6/live/837998e0-e745-11f1-88dc-f746e0cde621.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20b6/live/837998e0-e745-11f1-88dc-f746e0cde621.jpg"
-  },
-  {
-   "title": "Two goals in 15 games - what's going on with Gyokeres?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-24T06:45:27+00:00",
-   "summary": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d238/live/f4fcc0e0-e76e-11f1-ae0a-d1908652a433.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d238/live/f4fcc0e0-e76e-11f1-ae0a-d1908652a433.jpg"
-  },
-  {
-   "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-24T06:16:53+00:00",
-   "summary": "Fifa president Gianni Infantino's globetrotting by private jet since his plan to sell off a stake in the World Cup has come under scrutiny.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8a18/live/c4779660-e5bc-11f1-a188-ff49e70cc466.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a18/live/c4779660-e5bc-11f1-a188-ff49e70cc466.jpg"
-  },
-  {
-   "title": "Williams-Barnett announces himself as Spurs star, then signs new deal",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-21T19:21:01+00:00",
-   "summary": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/fccd/live/a1406b50-e5de-11f1-99b6-a35a62fa4264.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccd/live/a1406b50-e5de-11f1-99b6-a35a62fa4264.jpg"
+   "published": "2026-11-23T22:31:27+00:00",
+   "summary": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/93de/live/41e45e90-e788-11f1-99a1-253766e7ad8b.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/41e45e90-e788-11f1-99a1-253766e7ad8b.jpg"
   }
  ]
 }
