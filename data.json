@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:47:48.226468+00:00",
+ "updated": "2026-11-27T01:41:44.591906+00:00",
  "note": null,
  "quota_remaining": 99,
  "odds_quota_remaining": null,
@@ -2072,20 +2072,38 @@
  "picks": [],
  "news": [
   {
-   "title": "Europa and Conference League LIVE! Bournemouth play before four British teams",
-   "link": "https://www.skysports.com/football/celta-vigo-vs-bournemouth/live/577814",
-   "source": "Sky Sports",
-   "published": "2026-11-26T16:30:00+00:00",
-   "summary": "",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kluivert-justin-bournemouth_7384106.png?20261022203714",
+   "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-27T00:18:44+00:00",
+   "summary": "Camilo Duran's 15-goal haul this season has made him an invaluable player for a Celtic side fighting for European progression.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/31e7/live/1ca69ca0-e9f0-11f1-afc6-7da1c727ad8d.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/1ca69ca0-e9f0-11f1-afc6-7da1c727ad8d.jpg"
+  },
+  {
+   "title": "Hearts' European hopes hang by a thread but Vrancken proud",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-26T23:59:43+00:00",
+   "summary": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f50e/live/fd3df170-e9df-11f1-9361-cd8ed0157587.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50e/live/fd3df170-e9df-11f1-9361-cd8ed0157587.jpg"
+  },
+  {
+   "title": "'Game of their lives': USWNT expects tough El Salvador test with WC at stake",
+   "link": "https://www.espn.com/soccer/story/_/id/50606990/usa-women-soccer-world-cup-2027-el-salvador-emma-hayes",
+   "source": "ESPN",
+   "published": "2026-11-26T23:55:46+00:00",
+   "summary": "USWNT head coach Emma Hayes said she expects El Salvador to play \"the game of their lives\" on Friday when a place in the Women's World Cup will be on the line.",
+   "image": null,
    "image_fallback": null
   },
   {
-   "title": "Pochettino: Man United were 'punished a lot' by officials in Sporting draw",
-   "link": "https://www.espn.com/soccer/story/_/id/50599139/man-united-mauricio-pochettino-sporting-referee-var-goal",
+   "title": "Bournemouth set new English record in Europe with 5th straight win",
+   "link": "https://www.espn.com/soccer/story/_/id/50606618/bournemouth-uefa-europa-league-record-english-europe",
    "source": "ESPN",
-   "published": "2026-11-26T16:21:44+00:00",
-   "summary": "Mauricio Pochettino said Manchester United were \"punished\" by the officials in the 2-2 draw with Sporting CP as he was denied a first win as head coach.",
+   "published": "2026-11-26T23:55:46+00:00",
+   "summary": "Bournemouth's dream Europa League start continued on Thursday as the south-coast club set a new record for a debuting English club in Europe.",
    "image": null,
    "image_fallback": null
   },
@@ -2093,26 +2111,17 @@
    "title": "Kimmich slams 'not Bayern-like' treatment of Musiala amid health row",
    "link": "https://www.espn.com/soccer/story/_/id/50602935/bayern-munich-jamal-musiala-health-issues-kimmich",
    "source": "ESPN",
-   "published": "2026-11-26T16:21:44+00:00",
+   "published": "2026-11-26T23:55:46+00:00",
    "summary": "Bayern Munich midfielder Joshua Kimmich has launched a stinging attack on the club's \"not Bayern-like\" treatment of his teammate Jamal Musiala, who has a condition which causes...",
    "image": null,
    "image_fallback": null
   },
   {
-   "title": "FIFA hit by cyberattack as hackers gain access to personal and business data",
-   "link": "https://www.espn.com/soccer/story/_/id/50603612/fifa-cyber-attack",
+   "title": "Europa League game halted amid police clashes over fans' Palestine banner",
+   "link": "https://www.espn.com/soccer/story/_/id/50605910/besiktas-hapoel-beer-sheva-europa-league-police-palestine",
    "source": "ESPN",
-   "published": "2026-11-26T16:21:44+00:00",
-   "summary": "FIFA has been hit by a criminal cyberattack in which hackers gained access to personal and business information.",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "Source: MLS owners agree new 16-team playoff format starting in 2027-28",
-   "link": "https://www.espn.com/soccer/story/_/id/50595745/mls-playoff-format-new-2027-2028-change-owners",
-   "source": "ESPN",
-   "published": "2026-11-26T16:21:44+00:00",
-   "summary": "MLS team owners have agreed on a new playoff format for the 2027-28 season featuring 16 teams, a source confirmed to ESPN.",
+   "published": "2026-11-26T23:55:46+00:00",
+   "summary": "The game between Besiktas and Israel's Hapoel Beer-Sheva was halted when police clashed with fans of the Turkish club after they displayed a banner in support of Palestinians.",
    "image": null,
    "image_fallback": null
   },
@@ -2120,26 +2129,17 @@
    "title": "Reynolds pays tribute as key assistant in Wrexham's rise announces exit",
    "link": "https://www.espn.com/soccer/story/_/id/50603679/wrexham-ryan-reynolds-rob-mcelhenney-assistant-manager",
    "source": "ESPN",
-   "published": "2026-11-26T16:21:44+00:00",
+   "published": "2026-11-26T23:55:46+00:00",
    "summary": "Ryan Reynolds has paid tribute to Wrexham assistant manager Steve Parkin, who is set to leave the club after playing a key role in their remarkable rise from non-league to the C...",
    "image": null,
    "image_fallback": null
   },
   {
-   "title": "Fernandes' 'strange' divot-assisted goal left even Man United star confused",
-   "link": "https://www.espn.com/soccer/story/_/id/50598666/bruno-fernandes-goal-man-united-sporting-divot-champions-league",
+   "title": "FIFA hit by cyberattack as hackers gain access to personal and business data",
+   "link": "https://www.espn.com/soccer/story/_/id/50603612/fifa-cyber-attack",
    "source": "ESPN",
-   "published": "2026-11-26T16:21:44+00:00",
-   "summary": "Bruno Fernandes said even he was caught out by his bizarre divot-assisted goal in Manchester United's Champions League draw at Sporting CP on Wednesday.",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "Pep 'embarrassed' to turn down Italy job, says national team 'next step'",
-   "link": "https://www.espn.com/soccer/story/_/id/50587357/guardiola-embarrassed-italy-national-team-next",
-   "source": "ESPN",
-   "published": "2026-11-26T16:21:44+00:00",
-   "summary": "Pep Guardiola said he felt \"embarrassed\" to turn down the head coaching position with Italy, but added he could return to coaching in the future and, if he did, would like to do...",
+   "published": "2026-11-26T23:55:46+00:00",
+   "summary": "FIFA has been hit by a criminal cyberattack in which hackers gained access to personal and business information.",
    "image": null,
    "image_fallback": null
   },
@@ -2147,17 +2147,44 @@
    "title": "🏆 Thrilling title races in Europe's 'summer' leagues",
    "link": "https://www.espn.com/soccer/story/_/id/50594553/title-races-european-leagues-allsvenskan-eliteserien",
    "source": "ESPN",
-   "published": "2026-11-26T16:21:44+00:00",
+   "published": "2026-11-26T23:55:46+00:00",
    "summary": "While the Premier League and LaLiga aren't even halfway through their seasons, elsewhere in Europe there are leagues building to a thrilling climax.",
    "image": null,
    "image_fallback": null
   },
   {
-   "title": "Germany's Freigang to miss WWC due to doping ban: 'Breaks my heart'",
-   "link": "https://www.espn.com/soccer/story/_/id/50604130/germany-laura-freigang-womens-world-cup",
+   "title": "Thanksgiving delight: USMNT star Pulisic nets vital Milan winner",
+   "link": "https://www.espn.com/soccer/story/_/id/50605706/christian-pulisic-ac-milan-olympiacos-europa-league-goal",
    "source": "ESPN",
-   "published": "2026-11-26T16:21:43+00:00",
-   "summary": "Germany international Laura Freigang will miss next year's Women's World Cup after being handed a 16-month suspension for failing to report for or attend three doping tests.",
+   "published": "2026-11-26T23:55:45+00:00",
+   "summary": "Christian Pulisic enjoyed a Thanksgiving to remember as the United States star came off the bench to help spark AC Milan's comeback win at Olympiacos.",
+   "image": null,
+   "image_fallback": null
+  },
+  {
+   "title": "USWNT's Coffey grateful for 'surreal' return for Women's World Cup qualifying",
+   "link": "https://www.espn.com/soccer/story/_/id/50605461/usa-sam-coffey-womens-world-cup-qualifying-concacaf-w",
+   "source": "ESPN",
+   "published": "2026-11-26T23:55:45+00:00",
+   "summary": "Midfielder Sam Coffey said it is \"surreal\" to return to the U.S. women's national team for World Cup qualifying after missing recent major matches due to injuries.",
+   "image": null,
+   "image_fallback": null
+  },
+  {
+   "title": "With World Cup qualification at stake, the USWNT has no excuses",
+   "link": "https://www.espn.com/soccer/story/_/id/50598543/uswnt-womens-world-cup-qualifiers-concacaf",
+   "source": "ESPN",
+   "published": "2026-11-26T23:07:07+00:00",
+   "summary": "If the USWNT win, they are in for the 2027 Women's World Cup, but is an upset plausible during Concacaf qualifiers?",
+   "image": null,
+   "image_fallback": null
+  },
+  {
+   "title": "How USWNT can qualify for World Cup, matchups, format",
+   "link": "https://www.espn.com/soccer/story/_/id/50474392/concacaf-w-championship-uswnt-world-cup-qualification",
+   "source": "ESPN",
+   "published": "2026-11-26T23:07:07+00:00",
+   "summary": "Here's everything you need to know about how the U.S. can seal its place at the 2027 Women's World Cup.",
    "image": null,
    "image_fallback": null
   },
@@ -2165,18 +2192,135 @@
    "title": "Soccer's main characters this week: Bellingham is in a new stratosphere",
    "link": "https://www.espn.com/soccer/story/_/id/50599423/soccers-main-characters-champions-league-jude-bellingham-florian-wirtz",
    "source": "ESPN",
-   "published": "2026-11-26T16:21:34+00:00",
+   "published": "2026-11-26T22:51:02+00:00",
    "summary": "Why are goals trending up in Europe? Is it because Jude Bellingham can seemingly score them from anywhere? Bill Connelly takes a look at the week that was.",
    "image": null,
    "image_fallback": null
   },
   {
-   "title": "Liverpool are all smiles as Wirtz, Isak start to click",
-   "link": "https://www.espn.com/soccer/story/_/id/50598544/liverpool-champions-league-isak-wirtz-club-brugge",
-   "source": "ESPN",
-   "published": "2026-11-26T16:21:34+00:00",
-   "summary": "Another match, another fine set of displays. Is investment in Liverpool's forward line beginning to pay off?",
-   "image": null,
+   "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-26T22:27:52+00:00",
+   "summary": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/278c/live/15481e30-e9e0-11f1-9361-cd8ed0157587.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/278c/live/15481e30-e9e0-11f1-9361-cd8ed0157587.jpg"
+  },
+  {
+   "title": "Duran scores late Celtic winner to keep Europa League hopes alive",
+   "link": "https://www.skysports.com/football/torreense-vs-celtic/report/577828",
+   "source": "Sky Sports",
+   "published": "2026-11-26T22:00:00+00:00",
+   "summary": "Camilo Duran came off the bench to keep Celtic's Europa League hopes alive with a vital win against Torreense.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-camilo-duran-celtic_7417468.jpg?20261126215611",
+   "image_fallback": null
+  },
+  {
+   "title": "Frank earns first Palace win with late comeback against Sociedad",
+   "link": "https://www.skysports.com/football/crystal-palace-vs-real-sociedad/report/577815",
+   "source": "Sky Sports",
+   "published": "2026-11-26T22:00:00+00:00",
+   "summary": "Thomas Frank earned his first win as Crystal Palace manager, coming from behind to beat Real Sociedad 2-1 in the Europa League.",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-thomas-frank-crystal-palace_7417513.jpg?20261126223357",
+   "image_fallback": null
+  },
+  {
+   "title": "Vrancken proud of Hearts players despite last-gasp defeat to Monaco",
+   "link": "https://www.skysports.com/football/hearts-vs-monaco/report/577948",
+   "source": "Sky Sports",
+   "published": "2026-11-26T22:00:00+00:00",
+   "summary": "Wouter Vrancken expressed pride in his Hearts team after an agonising 3-2 defeat at home to Monaco left their Conference League hopes hanging by a thread.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-wouter-vrancken-hearts_7417524.jpg?20261126225203",
+   "image_fallback": null
+  },
+  {
+   "title": "Huddersfield level at the top after defying red card to beat Doncaster",
+   "link": "https://www.skysports.com/football/doncaster-rovers-vs-huddersfield-town/report/561796",
+   "source": "Sky Sports",
+   "published": "2026-11-26T22:00:00+00:00",
+   "summary": "Ten-man Huddersfield moved level at the top of League One with a 3-2 win at Doncaster.",
+   "image": "https://e1.365dm.com/23/01/1920x1080/skysports-efl-league-one-gholam_6025969.jpg?20230116150021",
+   "image_fallback": null
+  },
+  {
+   "title": "Haaland considers Man City exit - Friday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-26T21:25:06+00:00",
+   "summary": "Erling Haaland considers Manchester City exit, Liverpool explore Jamal Musiala deal and Manchester United eye move for Maxi Araujo, plus more.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e731/live/617667b0-e9dd-11f1-99b6-a35a62fa4264.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e731/live/617667b0-e9dd-11f1-99b6-a35a62fa4264.png"
+  },
+  {
+   "title": "Bournemouth make European history after coming from behind to beat Celta Vigo",
+   "link": "https://www.skysports.com/football/celta-vigo-vs-bournemouth/report/577814",
+   "source": "Sky Sports",
+   "published": "2026-11-26T20:00:00+00:00",
+   "summary": "Bournemouth continued their magnificent run of form with a 2-1 victory against Celta Vigo, creating two bits of history in the process.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-bournemouth-rayan_7417392.jpg?20261126193347",
+   "image_fallback": null
+  },
+  {
+   "title": "Carsley eyes Euros history with England U21s after draw",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-26T19:35:17+00:00",
+   "summary": "England have won the past two European Under-21 Championships, and Lee Carsley says they will \"go all out\" for a hat-trick.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1924/live/70bc6b80-e9cd-11f1-82cb-3544f07293b5.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1924/live/70bc6b80-e9cd-11f1-82cb-3544f07293b5.jpg"
+  },
+  {
+   "title": "Referee being 'drunk' claims are 'entirely unfounded'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-26T19:19:49+00:00",
+   "summary": "A referee who was replaced at half-time of an Asian Football Confederation (AFC) Champions League Two match denies he was drunk during the fixture.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6d92/live/3f83f370-e9c4-11f1-8d2a-f5d2aabc11cb.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d92/live/3f83f370-e9c4-11f1-8d2a-f5d2aabc11cb.jpg"
+  },
+  {
+   "title": "Eckert: Time to 'close the chapter' on Spygate ahead of Boro reunion",
+   "link": "https://www.skysports.com/football/news/12040/13616785/tonda-eckert-southampton-boss-wants-to-close-the-chapter-on-spygate-ahead-of-middlesbrough-reunion",
+   "source": "Sky Sports",
+   "published": "2026-11-26T19:00:00+00:00",
+   "summary": "\"I think we've experienced a little bit more in the last 12 months than normal.\"",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-tonda-eckert-southampton_7324138.jpg?20260817143551",
+   "image_fallback": null
+  },
+  {
+   "title": "Calvert-Lewin signs new Leeds deal until 2029",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-26T18:00:31+00:00",
+   "summary": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8aba/live/b46ac100-e9ba-11f1-8d2a-f5d2aabc11cb.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/b46ac100-e9ba-11f1-8d2a-f5d2aabc11cb.jpg"
+  },
+  {
+   "title": "Calvert-Lewin signs new Leeds deal",
+   "link": "https://www.skysports.com/football/news/12040/13616913/dominic-calvert-lewis-leeds-striker-signs-new-deal-until-2029-with-premier-league-club",
+   "source": "Sky Sports",
+   "published": "2026-11-26T18:00:00+00:00",
+   "summary": "Dominic Calvert-Lewin has signed a new deal at Leeds, keeping him at the club until the summer of 2029.",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-dominic-calvert-lewin_7379902.jpg?20261107121130",
+   "image_fallback": null
+  },
+  {
+   "title": "Germany's Freigang given 16-month ban over drugs test issues",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-26T17:12:45+00:00",
+   "summary": "Germany international Laura Freigang is suspended from football for 16 months over issues relating to three drugs tests.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5436/live/5b4afef0-e9b5-11f1-8d2a-f5d2aabc11cb.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5436/live/5b4afef0-e9b5-11f1-8d2a-f5d2aabc11cb.jpg"
+  },
+  {
+   "title": "Chelsea Q&A: Are Blues in crisis? What next for Fofana after viral interview?",
+   "link": "https://www.skysports.com/football/news/12040/13616881/chelsea-qa-your-questions-answered-on-wesley-fofana-transfers-danny-welbeck-estevao-and-more",
+   "source": "Sky Sports",
+   "published": "2026-11-26T15:55:00+00:00",
+   "summary": "After Chelsea fell to back-to-back losses with a 4-1 humiliation by Leeds at Stamford Bridge last Saturday, Sky Sports News reporter James Savundra examines the latest developme...",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-wesley-fofana_7417301.png?20261126174459",
    "image_fallback": null
   },
   {
@@ -2198,24 +2342,6 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/482e/live/b53f8050-e971-11f1-a094-5fdc692f3e33.jpg"
   },
   {
-   "title": "Palace latest: McNeil says Everton 'were really good' after failed January move",
-   "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "source": "Sky Sports",
-   "published": "2026-11-26T13:50:00+00:00",
-   "summary": "",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408400.jpg?20261117090402",
-   "image_fallback": null
-  },
-  {
-   "title": "The American manager with a maths degree making history in La Liga",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-26T13:49:20+00:00",
-   "summary": "Real Sociedad boss Pellegrino Matarazzo made history as the first American manager in La Liga. His side face Crystal Palace in the Europa League on Thursday.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/39c4/live/370bcdd0-e997-11f1-b880-15b494ba858d.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c4/live/370bcdd0-e997-11f1-b880-15b494ba858d.jpg"
-  },
-  {
    "title": "Not even making a 12-man bench - what next for Garnacho?",
    "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
@@ -2225,85 +2351,13 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a084/live/87c18b60-e8bc-11f1-9e64-bddd508b9881.jpg"
   },
   {
-   "title": "Wrong calls and bad results: Are refs making Man Utd's problems worse?",
-   "link": "https://www.skysports.com/football/news/12040/13616790/man-utds-controversial-refereeing-decisions-are-officials-making-mauricio-pochettinos-job-harder",
+   "title": "Sunderland held by Jagiellonia as banned travelling fans ejected",
+   "link": "https://www.skysports.com/football/sunderland-vs-jagiellonia-bialystok/report/577827",
    "source": "Sky Sports",
-   "published": "2026-11-26T12:20:00+00:00",
-   "summary": "Mauricio Pochettino will need more than just good performances to turn Manchester United’s season around – refereeing decisions will have to go their way too.",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-man-utd-sporting_7416621.jpg?20261125220910",
+   "published": "2026-11-26T09:48:00+00:00",
+   "summary": "Sunderland have expressed their disappointment after some Jagiellonia Bialystok fans were in attendance in home areas during their 1-1 Europa League draw at the Stadium of Light.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-timur-tutierov-sunderland_7417480.jpg?20261126220852",
    "image_fallback": null
-  },
-  {
-   "title": "Yoro red card: Written reasons for overturned decision revealed",
-   "link": "https://www.skysports.com/football/news/12040/13616792/leny-yoro-red-card-written-reasons-why-manchester-united-defenders-red-card-at-liverpool-was-overturned-published-by-the-fa",
-   "source": "Sky Sports",
-   "published": "2026-11-26T12:09:00+00:00",
-   "summary": "The Football Association has released the written reasons why Leny Yoro's red card for Manchester United at Liverpool was overturned - even though refereeing body Pro Ref said t...",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7415492.jpg?20261124170754",
-   "image_fallback": null
-  },
-  {
-   "title": "Fifa confirms internal data stolen in cyber attack",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crd61nvg4d84o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-26T11:30:07+00:00",
-   "summary": "Fifa has confirmed it has been the victim of a cyber-attack which resulted in personal and business information being stolen.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e820/live/06ab4690-e98b-11f1-9d1c-4dcc8fcde666.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e820/live/06ab4690-e98b-11f1-9d1c-4dcc8fcde666.jpg"
-  },
-  {
-   "title": "Champions League talking points: Should Man United be happy with chaotic draw?",
-   "link": "https://www.espn.com/soccer/story/_/id/50594529/champions-league-talking-points-manchester-united-sporting-draw",
-   "source": "ESPN",
-   "published": "2026-11-26T10:59:27+00:00",
-   "summary": "Gab Marcotti, Mark Ogden, Sam Tighe and Alex Kirkland run the rule over Man United's draw with Sporting, plus all the other moments that mattered from Matchday 5.",
-   "image": null,
-   "image_fallback": null
-  },
-  {
-   "title": "Everton latest: Renewed January bids for Richarlison & Zirkzee explored?",
-   "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "source": "Sky Sports",
-   "published": "2026-11-26T10:00:00+00:00",
-   "summary": "",
-   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
-   "image_fallback": null
-  },
-  {
-   "title": "Delap's chance at redemption against toothless Chelsea",
-   "link": "https://www.skysports.com/football/news/12040/13615913/liam-delap-has-a-chance-to-show-chelsea-what-theyre-missing-when-they-travel-to-nottingham-forest",
-   "source": "Sky Sports",
-   "published": "2026-11-26T10:00:00+00:00",
-   "summary": "When Liam Delap joined Chelsea in the summer of 2025, he probably had ambitions of cementing himself as an elite Premier League No 9. Perhaps even positioning himself to be the...",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-liam-delap_7415147.jpg?20261124104255",
-   "image_fallback": null
-  },
-  {
-   "title": "Collins: I got choked up before I came on for my Wales debut!",
-   "link": "https://www.skysports.com/football/news/12040/13612810/aaron-collins-exclusive-mk-dons-striker-discusses-electric-start-to-2026-27-and-first-senior-wales-call-up",
-   "source": "Sky Sports",
-   "published": "2026-11-26T10:00:00+00:00",
-   "summary": "On Friday November 6, Aaron Collins was notified by the FAW that he was on the standby list for Wales' Nations League matches against Norway and Portugal.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-aaron-collins-wales_7416038.jpg?20261125103302",
-   "image_fallback": null
-  },
-  {
-   "title": "Why KMI Panel frustrates referees too - and impacts their salary",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq20x16zxxzeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-26T07:28:18+00:00",
-   "summary": "For Premier League referees, the KMI Panel is more important than you might realise. It determines a significant portion of their salary.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ca44/live/8c9006a0-e7fc-11f1-85d8-8d5c5b3dc8c8.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca44/live/8c9006a0-e7fc-11f1-85d8-8d5c5b3dc8c8.jpg"
-  },
-  {
-   "title": "Who am I? Plus today's other quizzes",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-26T06:53:51+00:00",
-   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
   },
   {
    "title": "'Laughing gas has ended careers' - so how common is it in football?",
@@ -2313,51 +2367,6 @@
    "summary": "After Raheem Sterling's court case, BBC Sport looks at how common the use of nitrous oxide is among footballers.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0c0a/live/8a3de1f0-e8fc-11f1-a77a-271abcb79951.jpg",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0a/live/8a3de1f0-e8fc-11f1-a77a-271abcb79951.jpg"
-  },
-  {
-   "title": "More ref frustration as Pochettino's chaotic start at Man Utd continues",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-26T00:24:48+00:00",
-   "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7aff/live/89296710-e930-11f1-99a1-253766e7ad8b.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aff/live/89296710-e930-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "title": "'All coming together' - Isak repaying Liverpool faith",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-25T23:25:30+00:00",
-   "summary": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid £125m to bring him to the club.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/60ef/live/25c99400-e927-11f1-a094-5fdc692f3e33.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ef/live/25c99400-e927-11f1-a094-5fdc692f3e33.jpg"
-  },
-  {
-   "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-25T22:32:51+00:00",
-   "summary": "Goalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6340/live/dffcada0-e920-11f1-99a1-253766e7ad8b.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6340/live/dffcada0-e920-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-   "title": "Isak scores twice as clinical Liverpool beat Brugge",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-25T22:12:19+00:00",
-   "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last Champions League match.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7011/live/1961c530-e91c-11f1-99b6-a35a62fa4264.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7011/live/1961c530-e91c-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-   "title": "Bournemouth latest: Are Cherries the most underrated club in Europe?",
-   "link": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "source": "Sky Sports",
-   "published": "2026-11-25T19:45:00+00:00",
-   "summary": "",
-   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bournemouth-club_7326690.jpg?20260820165020",
-   "image_fallback": null
   }
  ]
 }
