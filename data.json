@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:33:22.985860+00:00",
+ "updated": "2026-11-28T01:25:50.754619+00:00",
  "note": null,
  "quota_remaining": 99,
  "odds_quota_remaining": null,
@@ -2072,22 +2072,121 @@
  "picks": [],
  "news": [
   {
-   "title": "Arsenal head coach Slegers leaves by mutual consent",
+   "title": "What went wrong for Alonso's Chelsea at Forest?",
+   "link": "https://www.skysports.com/football/news/12040/13617391/xabi-alonso-called-for-chelsea-to-get-back-to-fundamentals-before-slipping-to-new-low-at-nottingham-forest",
+   "source": "Sky Sports",
+   "published": "2026-11-27T23:40:00+00:00",
+   "summary": "Xabi Alonso called for his Chelsea side to get back to the fundamentals before kick-off - and then watched on as they were outworked and outclassed on their way to a miserable 3...",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-chelsea-forest_7418332.jpg?20261127231744",
+   "image_fallback": null
+  },
+  {
+   "title": "Papers: Man Utd in running for Paz, but Champions League key",
+   "link": "https://www.skysports.com/football/news/12040/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk",
+   "source": "Sky Sports",
+   "published": "2026-11-27T23:00:00+00:00",
+   "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "image_fallback": null
+  },
+  {
+   "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-27T22:58:49+00:00",
+   "summary": "Eighteen years after making their Premier League debuts two minutes apart, Jack Wilshere and Aaron Ramsey meet as managers.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5bf9/live/42579250-ea73-11f1-99a1-253766e7ad8b.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf9/live/42579250-ea73-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+   "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-27T22:30:22+00:00",
+   "summary": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a row.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/70aa/live/6d1cc8f0-eab1-11f1-a094-5fdc692f3e33.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70aa/live/6d1cc8f0-eab1-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+   "title": "Southampton sink Middlesbrough in ill-tempered first meeting since 'Spygate'",
+   "link": "https://www.skysports.com/football/southampton-vs-middlesbrough/report/560709",
+   "source": "Sky Sports",
+   "published": "2026-11-27T22:00:00+00:00",
+   "summary": "Southampton's unbeaten start to the season at St Mary's continued as they beat leaders Middlesbrough 2-0.",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-finn-azaz-southampton_7418262.jpg?20261127214801",
+   "image_fallback": null
+  },
+  {
+   "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-27T21:59:48+00:00",
+   "summary": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1da8/live/2c6e0460-eaaf-11f1-bf81-6f3b4557bf15.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da8/live/2c6e0460-eaaf-11f1-bf81-6f3b4557bf15.jpg"
+  },
+  {
+   "title": "Celtic defend head of security amid Green Brigade row",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ck1ewjw1qqn7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-27T21:50:01+00:00",
+   "summary": "Celtic defend their head of security Mark Hargreaves and the action taken against the Green Brigade last season.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/19ef/live/10726840-eaa6-11f1-9541-edfa153772c7.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ef/live/10726840-eaa6-11f1-9541-edfa153772c7.jpg"
+  },
+  {
+   "title": "Forest beat Chelsea to heap pressure on Alonso as Fofana is booed",
+   "link": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/report/559562",
+   "source": "Sky Sports",
+   "published": "2026-11-27T21:45:00+00:00",
+   "summary": "Morgan Gibbs-White scored two in Nottingham Forest’s 3-2 win over Chelsea at the City Ground as the crisis deepened for Xabi Alonso.",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-morgan-gibbs-white_7418255.jpg?20261127214157",
+   "image_fallback": null
+  },
+  {
+   "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-27T21:31:54+00:00",
+   "summary": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/60f7/live/58c8c760-eaa6-11f1-9541-edfa153772c7.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f7/live/58c8c760-eaa6-11f1-9541-edfa153772c7.jpg"
+  },
+  {
+   "title": "Champions League to be a factor in Paz move - Saturday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-27T21:19:27+00:00",
+   "summary": "Manchester United may lose the chance to sign Nico Paz without Champions League qualification, Arsenal also want the Como midfielder and Liverpool eye Lamine Camara.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0f9b/live/13900680-eaa7-11f1-a094-5fdc692f3e33.png",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9b/live/13900680-eaa7-11f1-a094-5fdc692f3e33.png"
+  },
+  {
+   "title": "Nottingham Forest 3-2 Chelsea highlights & rate the players",
+   "link": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562",
+   "source": "Sky Sports",
+   "published": "2026-11-27T18:30:00+00:00",
+   "summary": "",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-igor-jesus-forest_7418204.jpg?20261127204534",
+   "image_fallback": null
+  },
+  {
+   "title": "Emery praises Garnacho attitude after Villa selection snub",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "published": "2026-11-27T17:42:00+00:00",
+   "summary": "Aston Villa boss Unai Emery praises Alejandro Garnacho's \"fantastic attitude\" but suggests other players rank ahead of him for selection.",
+   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/141e/live/97985990-ea85-11f1-a739-457c2295eaba.jpg",
+   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141e/live/97985990-ea85-11f1-a739-457c2295eaba.jpg"
+  },
+  {
+   "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
    "link": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
    "published": "2026-11-27T16:14:34+00:00",
    "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e62d/live/61999920-ea77-11f1-a828-d384c0290f6b.jpg",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62d/live/61999920-ea77-11f1-a828-d384c0290f6b.jpg"
-  },
-  {
-   "title": "Spurs' Savio to miss festive fixtures after injury setback",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-27T16:05:30+00:00",
-   "summary": "Tottenham winger Savio will miss the club's Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f9de/live/6b9252d0-ea79-11f1-9888-1b7e4a7a7390.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9de/live/6b9252d0-ea79-11f1-9888-1b7e4a7a7390.jpg"
   },
   {
    "title": "Man Utd trigger Fernandes' one-year contract extension",
@@ -2108,150 +2207,6 @@
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f7/live/5d644700-e97e-11f1-acd8-af22a7ebb474.jpg"
   },
   {
-   "title": "Slegers sacked by Arsenal",
-   "link": "https://www.skysports.com/football/news/12040/13592850/renee-slegers-sacked-by-arsenal-only-18-months-after-winning-champions-league-following-poor-start-to-wsl-season",
-   "source": "Sky Sports",
-   "published": "2026-11-27T15:00:00+00:00",
-   "summary": "Renee Slegers has been sacked as Arsenal head coach after a poor start to the Women's Super League season.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-renee-slegers-arsenal_7417953.jpg?20261127152059",
-   "image_fallback": null
-  },
-  {
-   "title": "Where did it go wrong for Slegers at Arsenal?",
-   "link": "https://www.skysports.com/football/news/12040/13615727/renee-slegers-has-left-arsenal-by-mutual-consent-how-her-tenure-went-from-hero-to-zero-in-such-a-short-space-of-time",
-   "source": "Sky Sports",
-   "published": "2026-11-27T15:00:00+00:00",
-   "summary": "Arsenal have parted company with Renee Slegers after less than two years permanently in charge, during which time the club celebrated unrivalled highs and endured dispiriting lo...",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-renee-slegers-arsenal_7414665.jpg?20261123173029",
-   "image_fallback": null
-  },
-  {
-   "title": "Maresca: You can't compare Man City and Arsenal",
-   "link": "https://www.skysports.com/football/news/12040/13617231/arsenal-vs-man-city-enzo-maresca-says-two-teams-cannot-be-compared-due-to-being-in-different-stages-of-project",
-   "source": "Sky Sports",
-   "published": "2026-11-27T14:47:00+00:00",
-   "summary": "Enzo Maresca said Premier League title rivals Manchester City and Arsenal couldn’t be compared after his side's early-season form raised expectations.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-maresca-arteta_7417937.jpg?20261127151212",
-   "image_fallback": null
-  },
-  {
-   "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-27T14:37:58+00:00",
-   "summary": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/732f/live/7afd3810-e98a-11f1-9d1c-4dcc8fcde666.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/732f/live/7afd3810-e98a-11f1-9d1c-4dcc8fcde666.jpg"
-  },
-  {
-   "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-27T14:37:51+00:00",
-   "summary": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1894/live/66b4be40-ea3a-11f1-9fc4-ef897a334b75.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1894/live/66b4be40-ea3a-11f1-9fc4-ef897a334b75.jpg"
-  },
-  {
-   "title": "Man Utd activate Fernandes contract extension clause",
-   "link": "https://www.skysports.com/football/news/12040/13617215/bruno-fernandes-man-utd-activate-captains-12-month-option-to-extend-contract-which-now-ends-in-2028",
-   "source": "Sky Sports",
-   "published": "2026-11-27T14:10:00+00:00",
-   "summary": "Manchester United have triggered their 12-month option to extend captain Bruno Fernandes' contract.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-bruno-fernandes-manchester-united_7417939.jpg?20261127151323",
-   "image_fallback": null
-  },
-  {
-   "title": "McInnes reveals Hearts Naderi interest before Rangers move as new deal discussed",
-   "link": "https://www.skysports.com/football/news/12040/13617211/ryan-naderi-rangers-manager-derek-mcinnes-hopes-to-tie-down-striker-as-jamestown-analytics-search-revealed",
-   "source": "Sky Sports",
-   "published": "2026-11-27T13:55:00+00:00",
-   "summary": "Derek McInnes hoped the signing of Ryan Naderi would fall through 10 months ago.",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-naderi-rangers-ryan_7417719.jpg?20261127103614",
-   "image_fallback": null
-  },
-  {
-   "title": "Super 6 £1m jackpot MUST BE WON on Sunday!",
-   "link": "https://www.skysports.com/football/live-blog/12040/13401137/huge-jackpots-to-win-with-super-6-how-to-play-tips-analysis-and-latest-winner-stories",
-   "source": "Sky Sports",
-   "published": "2026-11-27T11:00:00+00:00",
-   "summary": "",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-carragher-super-6_7417778.jpg?20261127115054",
-   "image_fallback": null
-  },
-  {
-   "title": "Clashes mar European games as Macron condemns violence",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-27T10:24:24+00:00",
-   "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg"
-  },
-  {
-   "title": "'Massive for both' - Saints and Boro revisit Spygate rivalry",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckp809ledgpdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-27T10:11:58+00:00",
-   "summary": "Southampton and Middlesbrough prepare to re-ignite their rivalry as they meet for the first time since the Spygate scandal unfolded.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ea46/live/cfe72420-ea49-11f1-b220-b9f21129b546.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea46/live/cfe72420-ea49-11f1-b220-b9f21129b546.png"
-  },
-  {
-   "title": "Rangers eye top spot vs flying Falkirk as Celtic face Tynecastle test",
-   "link": "https://www.skysports.com/football/news/12040/13616312/scottish-premiership-can-rangers-halt-falkirk-to-move-top-before-hearts-host-celtic-live-on-sky-is-time-running-out-for-neil-mccann-at-kilmarnock",
-   "source": "Sky Sports",
-   "published": "2026-11-27T10:00:00+00:00",
-   "summary": "There could be a change at the top of the Scottish Premiership if Rangers can halt the league's form team, but how long would they keep Celtic off the summit?",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-scottish-premiership_7416033.jpg?20261125102522",
-   "image_fallback": null
-  },
-  {
-   "title": "Brighton's perfect blend: The duo key to Seagulls' rise",
-   "link": "https://www.skysports.com/football/news/12040/13616787/pascal-gross-and-luka-vuskovic-helping-drive-fabian-hurzelers-brighton-and-their-stunning-premier-league-start",
-   "source": "Sky Sports",
-   "published": "2026-11-27T10:00:00+00:00",
-   "summary": "It was a painful Sunday afternoon at Hull, but by the time Brighton pair Luka Vuskovic and Pascal Gross arrived at the beachside restaurant on Tuesday, you got the impression th...",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-pascal-gross-luka-vuskovic_7417035.jpg?20261126124345",
-   "image_fallback": null
-  },
-  {
-   "title": "The English Lamine Yamal? Why Williams-Barnett is getting Spurs fans excited",
-   "link": "https://www.skysports.com/football/news/12040/13616313/why-sky-is-the-limit-for-luca-williams-barnett-as-roberto-de-zerbi-makes-lamine-yamal-comparisons",
-   "source": "Sky Sports",
-   "published": "2026-11-27T10:00:00+00:00",
-   "summary": "To earn comparisons to Lamine Yamal after just three Premier League appearances might seem a little far-fetched, but Roberto De Zerbi showed no hesitation.",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-spurs_7416025.jpg?20261125101151",
-   "image_fallback": null
-  },
-  {
-   "title": "Hull should be in League One, says xG - so how do they keep winning?",
-   "link": "https://www.skysports.com/football/news/12040/13616834/hull-city-should-be-in-league-one-this-season-according-to-expected-goals-so-how-do-the-tigers-keep-winning-in-the-premier-league",
-   "source": "Sky Sports",
-   "published": "2026-11-27T08:00:00+00:00",
-   "summary": "Hull aren't doing much wrong as a newly promoted club so far. A great start to the campaign has them middle of the Premier League table, clear of the relegation zone and unbeate...",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-hull-city_7417132.jpg?20261126143332",
-   "image_fallback": null
-  },
-  {
-   "title": "What makes or breaks a high press?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-27T07:17:13+00:00",
-   "summary": "A good high press has been the basis for some of the most successful sides in modern football, but what determines whether a press works or fails? And how are the always-adaptin...",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ae39/live/a021d870-e9ae-11f1-859a-37130cd3a1d7.jpg",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae39/live/a021d870-e9ae-11f1-859a-37130cd3a1d7.jpg"
-  },
-  {
-   "title": "Is it time to sell Haaland? - FPL gameweek 12 dilemmas",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "published": "2026-11-27T06:58:33+00:00",
-   "summary": "BBC Sport's Fantasy Premier League expert Holly Shand gives her answers to some of the biggest dilemmas facing managers in gameweek 12.",
-   "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9e06/live/ee299260-e8e6-11f1-8808-1d4222955d7e.png",
-   "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e06/live/ee299260-e8e6-11f1-8808-1d4222955d7e.png"
-  },
-  {
    "title": "Man City owners should be forced to sell, say clubs",
    "link": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
    "source": "BBC Sport",
@@ -2268,15 +2223,6 @@
    "summary": "BBC Sport football expert Chris Sutton takes on Kings of Leon drummer Nathan Followill with his predictions for this weekend's Premier League games.",
    "image": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2e03/live/cfa33df0-e2a1-11f1-99a1-253766e7ad8b.png",
    "image_fallback": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e03/live/cfa33df0-e2a1-11f1-99a1-253766e7ad8b.png"
-  },
-  {
-   "title": "Arsenal latest: Arteta gives Raya update",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "source": "Sky Sports",
-   "published": "2026-11-26T14:00:00+00:00",
-   "summary": "",
-   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
-   "image_fallback": null
   }
  ]
 }
